@@ -1,5 +1,5 @@
 ### What is this?
-La Capitaine is a GTK icon pack, designed to integrate with most desktop environments. The set of icons takes inspiration from the latest interations of Mac OS X and Google's Material Design.
+La Capitaine is a GTK icon pack, designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of Mac OS X and Google's Material Design.
 
 Every image in this theme is a _scalable vector graphic_ so it will look great at any size, on any screen. In my spare time, I work on adding new icons, updating old ones, and making this theme more complete. Since this theme is updated often, you should clone this git repository and pull regularly to make sure you're always up-to-date:
 
@@ -7,7 +7,7 @@ Every image in this theme is a _scalable vector graphic_ so it will look great a
     git clone https://github.com/keeferrourke/la-capitaine-icon-theme
 
 ### Configuration
-La Capitaine comes with a configuration script which attempts to determine your distribution and desktop environment. Using this information, La Capitaine updates several system icons and icons for mime-types.
+La Capitaine comes with a configuration script which attempts to determine your distribution and desktop environment. Using this information, La Capitaine updates several system icons and icons used for mime-types.
 
 For best integration with your distro/desktop environment, please run `configure.sh` and follow the prompts.
 
