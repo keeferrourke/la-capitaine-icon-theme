@@ -93,10 +93,10 @@ esac
 
 ln -sf distributor-logo.svg start-here.svg # fixes potentially broken link
 
-cd "$wd"
+cd "$wd"/places/scalable
 
-ln -sf "$wd"/places/scalable/distributor-logo.svg "$wd"/apps/scalable/cs-desktop.svg
-ln -sf "$wd"/places/scalable/distributor-logo.svg "$wd"/apps/scalable/applications-system.svg
+ln -sf distributor-logo.svg ../../apps/scalable/cs-desktop.svg
+ln -sf distributor-logo.svg ../../apps/scalable/applications-system.svg
 
 echo "Updated distributor logo."
 
