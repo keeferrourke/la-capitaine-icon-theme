@@ -20,6 +20,14 @@ El General is in turn a fork of the Numix-circle icon theme.
 As such, La Capitaine is a derivative work licensed under the GPLv3.
 See LICENSE for more details.
 
+### Icon Requests
+
+If there's an icon that's missing in this project, feel free to [contact me](https://krourke.org/contact) and provide me the name of the application, the name of the icon, the context of the icon (status, app, etc.), and in the case of desktop applications the following line from `/usr/share/applications/yourapplication.desktop`
+
+    Icon=yourApplicationsIconName
+
+If you find that an application icon is not themed, but an icon appears in this project with the wrong (or a different) file name as specified in your x-desktop file, please let me know.
+
 ### Roadmap
 To-do:
  * Introduce more icon geometry; the mostly circular base is boring
