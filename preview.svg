@@ -18,7 +18,7 @@
    id="svg14808"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="preview2.svg">
+   sodipodi:docname="preview.svg">
   <defs
      id="defs14810">
     <linearGradient
@@ -3869,9 +3869,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="702.84902"
-     inkscape:cy="1539.9768"
+     inkscape:zoom="0.35"
+     inkscape:cx="605.8372"
+     inkscape:cy="823.86701"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3890,7 +3890,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -11644,14 +11644,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:57.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="360.35547"
+       x="346.21335"
        y="-727.75"
        id="text23709"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan23711"
-         x="360.35547"
+         x="346.21335"
          y="-727.75"
-         style="font-size:45px;fill:#ffffff">An icon theme for GTK+ desktops</tspan></text>
+         style="font-size:45px;fill:#ffffff">An icon theme for modern desktops</tspan></text>
   </g>
 </svg>
