@@ -22,11 +22,9 @@ See LICENSE for more details.
 
 ### Icon Requests
 
-If there's an icon that's missing in this project, feel free to [contact me](https://krourke.org/contact) and provide me the name of the application, the name of the icon, the context of the icon (status, app, etc.), and in the case of desktop applications the following line from `/usr/share/applications/yourapplication.desktop`
+If there's an icon that's missing in this project, feel free to [contact me](https://krourke.org/contact). Please provide me with the name of the application (and/or the name of the icon), the context of the icon (status, app, etc.), and in the case of desktop applications, a copy of the desktop file located at `/usr/share/applications/yourapplication.desktop` or `~/.local/share/applications/yourapplication.desktop`
 
-    Icon=yourApplicationsIconName
-
-If you find that an application icon is not themed, but an icon appears in this project with the wrong (or a different) file name as specified in your x-desktop file, please let me know.
+If you find that an application icon is not themed, but an icon appears in this project with the wrong (or a different) file name as specified in your x-desktop file, please let me know or open an issue.
 
 ### Roadmap
 To-do:
