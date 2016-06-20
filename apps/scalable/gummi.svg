@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
+   width="48"
+   height="48"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -38,7 +38,8 @@
        y1="572.11847"
        x2="246.63446"
        y2="812.53479"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.10666667,0,0,0.10666667,-3.413333,943.52357)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -47,16 +48,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="193.07273"
-     inkscape:cy="260.85848"
+     inkscape:zoom="7.7001279"
+     inkscape:cx="24.167795"
+     inkscape:cy="18.286241"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1309"
-     inkscape:window-height="744"
-     inkscape:window-x="57"
-     inkscape:window-y="24"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -73,49 +74,44 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Layer#1" />
+     inkscape:label="Layer#1"
+     transform="translate(0,-464)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Layer#2" />
+     inkscape:label="Layer#2"
+     transform="translate(0,-464)" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-540.36218)">
+     transform="translate(0,-1004.3622)">
     <rect
        style="fill:#51cd51;fill-opacity:1"
        id="rect2985"
-       width="450"
-       height="450"
-       x="32"
-       y="570.36218"
-       ry="40" />
+       width="48"
+       height="48"
+       x="0"
+       y="1004.3622"
+       ry="4.2666669" />
     <rect
-       style="fill:url(#linearGradient5715);fill-opacity:1;opacity:0.33082707"
+       style="opacity:0.33082706;fill:url(#linearGradient5715);fill-opacity:1"
        id="rect2985-8"
-       width="450"
-       height="450"
-       x="32"
-       y="570.36218"
-       ry="40" />
+       width="48"
+       height="48"
+       x="0"
+       y="1004.3622"
+       ry="4.2666669" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer">
-    <text
-       xml:space="preserve"
-       style="font-size:434.66012573px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="77.527763"
-       y="418.23346"
-       id="text2993"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0300687,0.97080904)"><tspan
-         sodipodi:role="line"
-         id="tspan2995"
-         x="77.527763"
-         y="418.23346"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif">G</tspan></text>
+     inkscape:label="Layer"
+     transform="translate(0,-464)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4145"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none"
+       d="m 35.676504,481.09864 q -0.816175,-4.10983 -3.404612,-6.06585 -2.588438,-1.97799 -7.205652,-1.97799 -6.016369,0 -8.977915,3.6483 -2.961546,3.6483 -2.961546,11.03281 0,7.23067 3.054823,10.9449 3.054823,3.71424 8.977915,3.71424 2.635076,0 5.03696,-0.61538 2.401884,-0.61538 4.570575,-1.84613 l 0,-8.46141 -6.552712,0 0,-2.35162 11.286522,0 0,12.24158 q -3.101461,1.69228 -6.692628,2.54941 -3.567847,0.83516 -7.648717,0.83516 -7.88191,0 -12.639039,-4.6373 -4.7338096,-4.65928 -4.7338096,-12.37345 0,-7.7801 4.7571296,-12.39543 4.757129,-4.63729 12.802273,-4.63729 2.984865,0 6.156285,0.65933 3.194739,0.63735 6.785904,1.95602 l 0,7.7801 -2.611756,0 z" />
   </g>
 </svg>
