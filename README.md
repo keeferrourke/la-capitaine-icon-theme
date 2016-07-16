@@ -4,7 +4,7 @@ La Capitaine is an icon pack, designed to integrate with most desktop environmen
 Every image in this theme is a _scalable vector graphic_ so it will look great at any size, on any screen. In my spare time, I work on adding new icons, updating old ones, and making this theme more complete. Since this theme is updated often, you should clone this git repository and pull regularly to make sure you're always up-to-date:
 
     cd ~/.icons
-    git clone https://github.com/keeferrourke/la-capitaine-icon-theme
+    git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git
 
 ### Configuration
 La Capitaine comes with a configuration script which attempts to determine your distribution and desktop environment. Using this information, La Capitaine updates several system icons and icons used for mime-types.
@@ -22,9 +22,9 @@ See LICENSE for more details.
 
 ### Icon Requests
 
-If there's an icon that's missing in this project, feel free to [contact me](https://krourke.org/contact). Please provide me with the name of the application (and/or the name of the icon), the context of the icon (status, app, etc.), and in the case of desktop applications, a copy of the desktop file located at `/usr/share/applications/yourapplication.desktop` or `~/.local/share/applications/yourapplication.desktop`
+If there's an icon that's missing in this project, feel free to [contact me](https://krourke.org/contact) or _open an issue_. Please provide me with the name of the application (and/or the name of the icon), the context of the icon (status, app, etc.), and in the case of desktop applications, a copy of the desktop file located at `/usr/share/applications/yourapplication.desktop` or `~/.local/share/applications/yourapplication.desktop`
 
-If you find that an application icon is not themed, but an icon appears in this project with the wrong (or a different) file name as specified in your x-desktop file, please let me know or open an issue.
+If you find that an application icon is not themed, but an icon appears in this project with the wrong (or a different) file name as specified in your x-desktop file, please let me know and _open an issue_.
 
 ### Roadmap
 To-do:
