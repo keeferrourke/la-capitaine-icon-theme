@@ -407,7 +407,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="20.901005"
-     inkscape:cx="-1.5522152"
+     inkscape:cx="-9.3030387"
      inkscape:cy="11.808791"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-79"
@@ -416,9 +416,9 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true">
@@ -478,27 +478,15 @@
              id="layer1-79"
              inkscape:label="Capa 1">
             <g
-               transform="translate(-2.0518724,-0.97858527)"
-               id="layer1-2"
-               inkscape:label="Capa 1"
-               style="">
+               style="fill-opacity:1;fill:#555555"
+               id="g4187"
+               transform="matrix(0.98655845,0,0,0.99863674,9.1628316,-3.9560402)">
               <path
-                 sodipodi:nodetypes="cccccc"
                  inkscape:connector-curvature="0"
-                 id="path4224-3"
-                 d="m 386.57144,526.798 0,1 6.99999,0 1,-3 -1,2 z"
-                 style="fill-opacity:0.23529412;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-              <g
-                 transform="matrix(0.98655845,0,0,0.99863674,11.214704,-2.9774549)"
-                 id="g4187"
-                 style="fill-opacity:1">
-                <path
-                   style="fill-opacity:1;stroke:none"
-                   sketch:type="MSShapeGroup"
-                   id="Dropbox"
-                   d="m 406.46943,542.12137 3.24192,-2.72837 -4.68282,-2.9199 -3.20408,2.59442 4.64498,3.05385 z m 3.24192,-2.72861 3.25144,2.72849 4.63545,-3.05385 -3.20397,-2.5943 -4.68292,2.91966 z m 0,0.59373 -3.24192,2.71873 -1.39354,-0.91897 0,1.03377 4.63546,2.8051 4.66394,-2.8051 0,-1.03377 -1.39365,0.91897 -3.27029,-2.71873 z m -7.8869,-6.09817 3.20408,2.58478 4.68282,-2.91026 -3.24192,-2.72837 -4.64498,3.05385 z m 11.13834,-3.05385 -3.25144,2.72837 4.68292,2.91026 3.20397,-2.58478 -4.63545,-3.05385 z"
-                   inkscape:connector-curvature="0" />
-              </g>
+                 d="m 406.46943,542.12137 3.24192,-2.72837 -4.68282,-2.9199 -3.20408,2.59442 4.64498,3.05385 z m 3.24192,-2.72861 3.25144,2.72849 4.63545,-3.05385 -3.20397,-2.5943 -4.68292,2.91966 z m 0,0.59373 -3.24192,2.71873 -1.39354,-0.91897 0,1.03377 4.63546,2.8051 4.66394,-2.8051 0,-1.03377 -1.39365,0.91897 -3.27029,-2.71873 z m -7.8869,-6.09817 3.20408,2.58478 4.68282,-2.91026 -3.24192,-2.72837 -4.64498,3.05385 z m 11.13834,-3.05385 -3.25144,2.72837 4.68292,2.91026 3.20397,-2.58478 -4.63545,-3.05385 z"
+                 id="Dropbox"
+                 sketch:type="MSShapeGroup"
+                 style="fill-opacity:1;stroke:none;fill:#555555" />
             </g>
             <rect
                style="opacity:0;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;fill:#666666"
