@@ -21,7 +21,7 @@ As such, La Capitaine is a derivative work mostly licensed under the GPLv3.
 
 The configuration script included here is licensed under the permissive MIT license.
 
-See LICENSE for more details.
+See LICENSE and COPYING for more details.
 
 
 ### Icon Requests
