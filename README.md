@@ -17,8 +17,12 @@ La Capitaine looks best with a theme based on either Material Design or Mac OS X
 ### License
 La Capitaine is a fork of the El General icon theme for the GNOME desktop.
 El General is in turn a fork of the Numix-circle icon theme.
-As such, La Capitaine is a derivative work licensed under the GPLv3.
+As such, La Capitaine is a derivative work mostly licensed under the GPLv3.
+
+The configuration script included here is licensed under the permissive MIT license.
+
 See LICENSE for more details.
+
 
 ### Icon Requests
 
