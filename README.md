@@ -35,7 +35,7 @@ To-do:
  * Introduce more icon geometry; the mostly circular base is boring
  * Introduce subtler, softer gradients, lighting, and shadows
  * Change software store and management icons to something more original/generic
- * Add alternative status/16x16 icons for dark GTK+ themes
+ * Add alternative status, action and other 16x16 icons for dark GTK+ themes
 
 ### Preview
 ![La Capitaine preview](https://cdn.rawgit.com/keeferrourke/la-capitaine-icon-theme/master/preview.svg)
