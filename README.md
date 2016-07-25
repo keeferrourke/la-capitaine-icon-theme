@@ -26,7 +26,9 @@ See LICENSE and COPYING for more details.
 
 ### Icon Requests
 
-If there's an icon that's missing in this project, feel free to [contact me](https://krourke.org/contact) or _open an issue_. Please provide me with the name of the application (and/or the name of the icon), the context of the icon (status, app, etc.), and in the case of desktop applications, a copy of the desktop file located at `/usr/share/applications/yourapplication.desktop` or `~/.local/share/applications/yourapplication.desktop`
+If there's an icon that's missing in this project, feel free to [contact me](https://krourke.org/contact) or _open an issue_. Please provide me with the name of the application (and/or the name of the icon), the context of the icon (status, app, etc.), and in the case of desktop applications, a copy of the desktop file located at `/usr/share/applications/yourapplication.desktop` or `~/.local/share/applications/yourapplication.desktop`.
+
+If at all possible, please provide a reference image for the original icon that is not included in this theme.
 
 If you find that an application icon is not themed, but an icon appears in this project with the wrong (or a different) file name as specified in your x-desktop file, please let me know and _open an issue_.
 
@@ -36,6 +38,9 @@ To-do:
  * Introduce subtler, softer gradients, lighting, and shadows
  * Change software store and management icons to something more original/generic
  * Add alternative status, action and other 16x16 icons for dark GTK+ themes
+
+### Donations
+I'm a poor computer science student in university, and I spend most of my free time working on this and other projects -- If you like this icon pack and want to support me or buy me a coffee, please feel free to [donate](https://paypal.me/keeferrourke):)
 
 ### Preview
 ![La Capitaine preview](https://cdn.rawgit.com/keeferrourke/la-capitaine-icon-theme/master/preview.svg)
