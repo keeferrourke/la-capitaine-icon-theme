@@ -21,11 +21,11 @@ For best integration with your distro/desktop environment, please run `./configu
 La Capitaine looks best with a theme based on either Material Design or Mac OS X. Though I don't make GTK+ themes, some of my favourites are: [Flat-Plat](http://gnome-look.org/content/show.php/Flat-Plat?content=167704), [Adapta](https://github.com/tista500/Adapta), [Paper](https://snwh.org/paper/theme), [Arc](https://github.com/horst3180/arc-theme), and [Arc-OSX](http://gnome-look.org/content/show.php/Arc-OSX-themes?content=175536). Have fun, and happy theming!
 
 ### License
-La Capitaine is a fork of the El General icon theme for the GNOME desktop.
+La Capitaine is a fork of the El General icon theme for the GNOME desktop with significant changes.
 El General is in turn a fork of the Numix-circle icon theme.
 As such, La Capitaine is a derivative work mostly licensed under the GPLv3.
 
-The configuration script included here is licensed under the permissive MIT license.
+The configuration script included here is written by me and licensed under the permissive MIT license.
 
 See LICENSE and COPYING for more details.
 
