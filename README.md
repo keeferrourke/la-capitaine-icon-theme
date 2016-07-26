@@ -6,6 +6,12 @@ Every image in this theme is a _scalable vector graphic_ so it will look great a
     cd ~/.icons
     git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git
 
+Alternatively, there is an [AUR PKGBUILD](https://aur.archlinux.org/packages/la-capitaine-icon-theme-git) available, so if you're on Arch Linux, simply run:
+
+    yaourt -S la-capitaine-icon-theme-git
+
+and keep yourself on the _bleeding edge_ of this repo :)
+
 ### Configuration
 La Capitaine comes with a configuration script which attempts to determine your distribution and desktop environment. Using this information, La Capitaine updates several system icons and icons used for mime-types.
 
