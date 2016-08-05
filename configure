@@ -45,8 +45,8 @@ cd "$wd/places/scalable"
 
 distmatch() {
  case $DISTRO in
-    archlinux) echo "archlinux match" && ln -sf distributor-logo-archlinux.svg distributor-logo.svg ;;
-    debian|raspbian) echo "debian match" && ln -sf distributor-logo-debian.svg distributor-logo.svg ;;
+    archlinux|arch) ln -sf distributor-logo-archlinux.svg distributor-logo.svg ;;
+    debian|raspbian) ln -sf distributor-logo-debian.svg distributor-logo.svg ;;
     elementaryos) ln -sf distributor-logo-elementaryos.svg distributor-logo.svg ;;
     fedora) ln -sf distributor-logo-fedora.svg distributor-logo.svg ;;
     gentoo) ln -sf distributor-logo-gentoo.svg distributor-logo.svg ;;
@@ -62,12 +62,16 @@ distmatch() {
 
 
 alternative_match() {
-local pattern="ID=arch:ID=raspbian" 
+local pattern="ID=arch:ID=raspbian"
 local IFS=:
 for i in $pattern; do
 if $(grep -wsq "$i" /etc/os-release); then
 	DISTRO=${i##*=}
-	#distmatch
+	distmatch
+else
+	echo "Could not determine distribution logo."
+	distro_error=1
+	ln -sf distributor-logo-gnome.svg distributor-logo.svg
 fi
 done
 }
