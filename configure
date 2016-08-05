@@ -46,7 +46,7 @@ cd "$wd/places/scalable"
 distmatch() {
  case $DISTRO in
     archlinux) echo "archlinux match" && ln -sf distributor-logo-archlinux.svg distributor-logo.svg ;;
-    debian) ln -sf distributor-logo-debian.svg distributor-logo.svg ;;
+    debian|raspbian) echo "debian match" && ln -sf distributor-logo-debian.svg distributor-logo.svg ;;
     elementaryos) ln -sf distributor-logo-elementaryos.svg distributor-logo.svg ;;
     fedora) ln -sf distributor-logo-fedora.svg distributor-logo.svg ;;
     gentoo) ln -sf distributor-logo-gentoo.svg distributor-logo.svg ;;
@@ -62,20 +62,19 @@ distmatch() {
 
 
 alternative_match() {
-	if $(grep -wsq "ID=arch" /etc/os-release); then
-    echo "archlinux match"
-    DISTRO=archlinux
-		distmatch
-	else
-		echo "Could not determine distribution logo."
-	       	distro_error=1
-		ln -sf distributor-logo-gnome.svg distributor-logo.svg
-	fi
+local pattern="ID=arch:ID=raspbian" 
+local IFS=:
+for i in $pattern; do
+if $(grep -wsq "$i" /etc/os-release); then
+	DISTRO=${i##*=}
+	#distmatch
+fi
+done
 }
 
 
 #distdetencion
-! $(distmatch) && alternative_match
+! distmatch && alternative_match
 
 read -p "Use distributor logo from desktop environment? [y/N] " yn
 case $yn in
@@ -93,7 +92,7 @@ case $yn in
 
     * ) if [ $distro_error -eq 0 ]; then
             echo "Using distribution logo."
-        elif [ $distro_error -eq 1] || [ $de_error -eq 1 ]; then
+        elif [ $distro_error -eq 1 ] || [ $de_error -eq 1 ]; then
             echo "Could not determine distributor logo, you may need to set this manually in places/scalable/"
         fi
         ;;
