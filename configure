@@ -116,6 +116,7 @@ echo "Updated distributor logo."
 # update mimetypes based on distro and de
 cd "$wd"/mimetypes/scalable
 
+#may you prefer using case
 if [ "$DISTRO" == "opensuse" ]; then
 	ln -sf application-x-rpm-opensuse.svg application-x-rpm.svg
 elif [ "$DISTRO" == "fedora" ]; then
@@ -147,5 +148,3 @@ elif [ "$DE" == "kde" ]; then
 fi
 
 echo "Updated mimetype icons."
-
-cd "$wd"
