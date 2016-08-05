@@ -28,7 +28,7 @@
 
 
 lsb_format() {
-  awk '{print tolower($0)}'<<<${1}|sed 's/\s+//g;s/[^a-z]//g'
+  sed 's/\s+//g;s/[^a-z]//g'<<<${1,,}
 }
 
 DISTRO=$(lsb_format "$(lsb_release -si 2>/dev/null)")
@@ -45,7 +45,7 @@ cd "$wd/places/scalable"
 
 distmatch() {
  case $DISTRO in
-    archlinux|arch) ln -sf distributor-logo-archlinux.svg distributor-logo.svg ;;
+    arch) ln -sf distributor-logo-archlinux.svg distributor-logo.svg ;;
     debian|raspbian) ln -sf distributor-logo-debian.svg distributor-logo.svg ;;
     elementaryos) ln -sf distributor-logo-elementaryos.svg distributor-logo.svg ;;
     fedora) ln -sf distributor-logo-fedora.svg distributor-logo.svg ;;
