@@ -1,0 +1,179 @@
+#!/bin/bash
+
+# Copyright (c) 2015-2016 Keefer Rourke <keefer.rourke@gmail.com>
+
+# Permission is hereby granted, free of charge, to any person obtaining
+# a copy of this software and associated documentation files (the "Software"),
+# to deal in the Software without restriction, including without limitation the
+# rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+# sell copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+
+# this script will update various icon symlinks based on your machine's
+# reported distribution and desktop environment
+
+lsb_format() {
+  sed 's/\s+//g;s/[^a-z]//g'<<<${1,,}
+}
+
+distro_error=0
+de_error=0
+
+wd=$PWD
+
+fpath_logo_dir=$wd/places/scalable
+fpath_logo_dir_dest=$wd/apps/places/scalable
+
+
+check_exit alternative_match
+else
+  if alternative_match; then
+    echo "your distro is $SVG_FILENAME"
+  else
+
+    echo "Could not determine distribution logo, trying to use desktop environment..."
+    if checking --desktop "$(lsb_format "$XDG_CURRENT_DESKTOP")"; then
+      echo "your distro is $SVG_FILENAME"
+    else
+      echo "Could not determine desktop environment... using default settings"
+      #use_default
+    fi
+  fi
+
+
+
+  
+use_default() {
+ ln -sfr $fpath_logo_dir/distributor-logo-gnome.svg $fpath_logo_dir/distributor-logo.svg
+ ln -sfr $fpath_logo_dir/distributor-logo-gnome.svg $fpath_logo_dir/start-here.svg
+ ln -sfr $wd/apps/scalable/applications-system-gnome.svg $wd/apps/scalable/applications-system.svg
+ ln -sfr $wd/apps/scalable/cs-desktop-gnome.svg $wd/apps/scalable/cs-desktop.svg
+}
+
+# remember to call with name of svg file NOT with distribution/desktop name
+dist_logolink() {
+  local svg_name=$1
+  local in=$fpath_logo_dir/distributor-logo-${svg_name}.svg
+  local out=$fpath_logo_dir_dest/distributor-logo.svg
+  ln -sfr ${in} ${out}
+}
+
+checkdistro() {
+ local knowdistro="debian:raspbian:fedora:gentoo:elementaryos:korora:linuxmint:mageia:manjaro:opensuse:ubuntu"
+ local distro="$1" found="" IFS=:
+  for a in $knowdistro; do
+   if [ "$a" == "$distro" ]; then
+     found=$((++found))
+        case $a in
+          raspbian) SVG_FILENAME=debian ;;
+          arch) SVG_FILENAME=archlinux ;; #may you prefer mv archlinux.svg in arch.svg
+          *) SVG_FILENAME=$distro ;;
+        esac
+   fi
+done
+# checking status
+case $found in
+  0) return 1 ;;
+  1) dist_logolink "$SVG_FILENAME" ;;
+  *) return 2 ;;
+esac
+
+}
+
+#$(lsb_format "$(lsb_release -si 2>/dev/null)")
+
+alternative_match() {
+local patterns="ID=arch:ID=raspbian" IFS=:
+  for i in ${patterns}; do
+    if $(grep -wsq "$i" /etc/os-release); then
+	      checkdistro "${i##*=}" && break
+    else
+	    echo "Could not determine distribution logo."
+      return 1
+fi
+done
+}
+
+desktop_match() {
+ local desktop=$(lsb_format "$XDG_CURRENT_DESKTOP")
+  case $desktop in
+   gnome|unity|xfce|lxde|kde) DE=$desktop && dist_logolink "$DE" ;;
+   *) echo "Could not determine desktop environment... you may need to set this manually in places/scalable/" && return 1 ;;
+  esac
+}
+
+link_finalize() {
+ ln -sfr $fpath_logo_dir/distributor-logo.svg $wd/apps/scalable/applications-system.svg
+ ln -sfr $fpath_logo_dir/distributor-logo.svg $wd/apps/scalable/cs-desktop.svg
+ ln -sfr $fpath_logo_dir/distributor-logo.svg $fpath_logo_dir/start-here.svg
+}
+
+# set distributor logo based on distro or de
+what_logo() {
+ checkdistro "$(lsb_format "$(lsb_release -si 2>/dev/null)")"
+  if [ $? -ne 0 ]; then
+   alternative_match || desktop_match
+  fi
+  link_finalize
+}
+
+echo "Updated distributor logo."
+
+
+
+
+
+
+
+
+
+
+
+
+# update mimetypes based on distro and de
+cd "$wd"/mimetypes/scalable
+
+#may you prefer using case
+if [ "$SVG_FILENAME" == "opensuse" ]; then
+	ln -sf application-x-rpm-opensuse.svg application-x-rpm.svg
+elif [ "$SVG_FILENAME" == "fedora" ]; then
+	ln -sf application-x-rpm-fedora.svg application-x-rpm.svg
+elif [ "$SVG_FILENAME" == "debian" ]; then
+	ln -sf application-x-deb-debian.svg application-x-deb.svg
+elif [ "$SVG_FILENAME" == "ubuntu" ]; then
+	ln -sf application-x-deb-ubuntu.svg application-x-deb.svg
+elif [ "$SVG_FILENAME" == "linuxmint" ]; then
+	ln -sf application-x-deb-linuxmint.svg application-x-deb.svg
+	ln -sf application-x-desktop-linuxmint.svg application-x-desktop.svg
+else
+	ln -sf application-x-deb-debian.svg application-x-deb.svg
+	ln -sf application-x-rpm-redhat.svg application-x-rpm.svg
+fi
+
+echo "Updated package archive icons."
+
+if [ "$DE" == "gnome" ]; then
+	ln -sf application-x-desktop-gnome.svg application-x-desktop.svg
+elif [ "$DE" == "unity" ]; then
+	ln -sf application-x-desktop-unity.svg application-x-desktop.svg
+elif [ "$DE" == "lxde" ]; then
+	ln -sf application-x-desktop-lxde.svg application-x-desktop.svg
+elif [ "$DE" == "xfce" ]; then
+	ln -sf application-x-desktop-xfce.svg application-x-desktop.svg
+elif [ "$DE" == "kde" ]; then
+	ln -sf application-x-desktop-kde.svg application-x-desktop.svg
+fi
+
+echo "Updated mimetype icons."

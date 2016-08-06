@@ -1,0 +1,105 @@
+#!/bin/bash
+
+wd=$PWD
+fpath_logo_dir=$wd/places/scalable
+fpath_logo_dir_dest=$wd/apps/scalable
+
+#sort array for popularity is a good idea (raspberry are slow use as first)
+SVG_ACCEPTED_DISTRO=(raspbian linuxmint debian ubuntu fedora manjaro arch elementaryos gentoo opensuse korora mageia)
+SVG_ACCEPTED_DESKTOP=(gnome unity kde xfce lxde)
+
+lsb_format() {
+  sed 's/\s+//g;s/[^a-z]//g'<<<${1,,}
+}
+
+use_default() {
+ ln -sfr $fpath_logo_dir/distributor-logo-gnome.svg $fpath_logo_dir/distributor-logo.svg
+ ln -sfr $fpath_logo_dir/distributor-logo-gnome.svg $fpath_logo_dir/start-here.svg
+ ln -sfr $wd/apps/scalable/applications-system-gnome.svg $wd/apps/scalable/applications-system.svg
+ ln -sfr $wd/apps/scalable/cs-desktop-gnome.svg $wd/apps/scalable/cs-desktop.svg
+}
+
+dist_logolink() {
+  local svg_name=$1
+  local in=$fpath_logo_dir/distributor-logo-${svg_name}.svg
+  local out=$fpath_logo_dir_dest/distributor-logo.svg
+  ln -sfrv ${in} ${out}
+}
+
+link_finalize() {
+  ln -sfrv $fpath_logo_dir/distributor-logo.svg $fpath_logo_dir/start-here.svg
+  ln -sfrv $fpath_logo_dir/distributor-logo.svg $wd/apps/scalable/applications-system.svg
+  ln -sfrv $fpath_logo_dir/distributor-logo.svg $wd/apps/scalable/cs-desktop.svg
+}
+
+#may you prefer mv archlinux.svg in arch.svg
+
+checking() {
+ local check="$2"
+ declare -i found=""
+    case $1 in
+      --distro)
+          for a in ${SVG_ACCEPTED_DISTRO[@]}; do
+            if [ "$a" == "$check" ]; then
+              found=$((++found))
+              case $a in
+                raspbian) SVG_FILENAME=debian ;;
+                arch) SVG_FILENAME=archlinux ;;
+                *) SVG_FILENAME=$check ;;
+              esac
+            fi
+          done
+      ;;
+      --desktop)
+        for b in ${SVG_ACCEPTED_DESKTOP[@]}; do
+          if [ "$b" == "$check" ]; then
+            found=$((++found))
+            SVG_FILENAME=$check
+          fi
+        done
+      ;;
+    esac
+    [ $found -eq 1 ] || return 1
+}
+
+alternative_match() {
+local patterns="ID=arch:ID=raspbian" IFS=:
+  for i in ${patterns}; do
+    if $(grep -wsq "$i" /etc/os-release); then
+        echo "checking --distro ${i##*=}"
+	      checking --distro "${i##*=}" && break
+    else
+      return 1
+    fi
+  done
+}
+
+official_check() {
+checking --distro "$(lsb_format "$(lsb_release -si 2>/dev/null)")"
+if [ $? -eq 0 ]; then
+   echo "first match your distro is $SVG_FILENAME"
+   dist_logolink "$SVG_FILENAME"
+   link_finalize
+else
+   echo "Could not determine distribution logo, trying to use alternative method"
+   alternative_match
+   if [ $? -eq 0 ]; then
+      echo "second match your distro is $SVG_FILENAME"
+      #dist_logolink "$SVG_FILENAME"
+      #link_finalize
+   else
+     echo "Could not determine distribution logo, trying to use desktop environment..."
+     checking --desktop "$(lsb_format "$XDG_CURRENT_DESKTOP")"
+     if [ $? -eq 0 ]; then
+        echo "your desktop is $SVG_FILENAME"
+        #dist_logolink "$SVG_FILENAME"
+        #link_finalize
+     else
+       echo "Could not determine desktop environment... using default settings"
+       #use_default
+     fi
+   fi
+ fi
+ }
+
+official_check
