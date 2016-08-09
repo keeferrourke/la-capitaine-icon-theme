@@ -139,14 +139,14 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[status/symbolic]
+[status/scalable]
 Context=Status
-Size=16
+Size=24
 MinSize=16
 MaxSize=512
 Type=Scalable
 
-[status/scalable]
+[status/symbolic]
 Context=Status
 Size=16
 MinSize=16
