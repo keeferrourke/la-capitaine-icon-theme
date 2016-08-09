@@ -49,6 +49,5 @@ To-do:
 I'm a poor computer science student in university, and I spend most of my free time working on this and other projects -- If you like this icon pack and want to support me or buy me a coffee, please feel free to [donate](https://paypal.me/keeferrourke):)
 
 ### Preview
-![La Capitaine preview](preview.svg.png)
-<!-- ![La Capitaine preview](https://cdn.rawgit.com/keeferrourke/la-capitaine-icon-theme/master/preview.svg) -->
+![La Capitaine preview](https://cdn.rawgit.com/keeferrourke/la-capitaine-icon-theme/master/preview.svg)
 
