@@ -24,26 +24,26 @@
 # this script will update various icon symlinks based on your machine's
 # reported distribution and desktop environment
 
-# define global variables
 
-
-lsb_format() {
-  sed 's/\s+//g;s/[^a-z]//g'<<<${1,,}
+# formats text to lower and removes whitespace and non-alpha chars
+format() {
+    name=$(awk '{print tolower($0)}' <<< $1)
+    sed 's/\s+//g;s/[^a-z]//g'<<< $name
 }
 
-DISTRO=$(lsb_format "$(lsb_release -si 2>/dev/null)")
-DE=$(lsb_format "$XDG_CURRENT_DESKTOP")
+# define variables
+DISTRO=$(format "$(lsb_release -si 2>/dev/null)")
+DE=$(format "$XDG_CURRENT_DESKTOP")
 
 distro_error=0
 de_error=0
 
 wd=$PWD
 
-
-# set distributor logo based on distro or de
+# set distributor logo based on distro detected through lsb_release
 cd "$wd/places/scalable"
 
-distmatch() {
+distromatch() {
  case $DISTRO in
     arch) ln -sf distributor-logo-archlinux.svg distributor-logo.svg ;;
     debian|raspbian) ln -sf distributor-logo-debian.svg distributor-logo.svg ;;
@@ -60,13 +60,13 @@ distmatch() {
  esac
 }
 
-
-alternative_match() {
-local pattern="ID=arch:ID=raspbian"
+# in case lsb_release detection fails, try /etc/os-release
+alt_distromatch() {
+local pattern="ID=arch:ID=raspbian:ID=ubuntu"
 local IFS=:
 for i in $pattern; do
 if $(grep -wsq "$i" /etc/os-release); then
-	DISTRO=${i##*=} && distmatch && break
+	DISTRO=${i##*=} && distromatch && break
 else
 	echo "Could not determine distribution logo."
 	distro_error=1
@@ -76,29 +76,32 @@ done
 }
 
 
-#distdetencion
-! distmatch && alternative_match
+# attempt to detect distribution
+! distromatch && alt_distromatch
 
+# prompt for desktop environment integration instead of distro
 read -p "Use distributor logo from desktop environment? [y/N] " yn
 case $yn in
     [Yy]* )
         case $DE in
             gnome) ln -sf distributor-logo-gnome.svg distributor-logo.svg ;;
-            unity)  ln -sf distributor-logo-unity.svg distributor-logo.svg ;;
+            unity) ln -sf distributor-logo-unity.svg distributor-logo.svg ;;
             xfce) ln -sf distributor-logo-xfce.svg distributor-logo.svg ;;
             lxde) ln -sf distributor-logo-lxde.svg distributor-logo.svg ;;
             kde) ln -sf distributor-logo-kde.svg distributor-logo.svg ;;
-            *) echo "Could not determine desktop environment... Using distribution logo."
-               de_error=1 ;;
+            *) 
+                echo "Could not determine desktop environment... Using distribution logo."
+                de_error=1 
+            ;;
          esac
-        ;;
+    ;;
 
     * ) if [ $distro_error -eq 0 ]; then
             echo "Using distribution logo."
         elif [ $distro_error -eq 1 ] || [ $de_error -eq 1 ]; then
             echo "Could not determine distributor logo, you may need to set this manually in places/scalable/"
         fi
-        ;;
+    ;;
 esac
 
 
@@ -115,35 +118,28 @@ echo "Updated distributor logo."
 # update mimetypes based on distro and de
 cd "$wd"/mimetypes/scalable
 
-#may you prefer using case
-if [ "$DISTRO" == "opensuse" ]; then
-	ln -sf application-x-rpm-opensuse.svg application-x-rpm.svg
-elif [ "$DISTRO" == "fedora" ]; then
-	ln -sf application-x-rpm-fedora.svg application-x-rpm.svg
-elif [ "$DISTRO" == "debian" ] || [ "$DISTRO" == "raspbian" ]; then
-	ln -sf application-x-deb-debian.svg application-x-deb.svg
-elif [ "$DISTRO" == "ubuntu" ]; then
-	ln -sf application-x-deb-ubuntu.svg application-x-deb.svg
-elif [ "$DISTRO" == "linuxmint" ]; then
-	ln -sf application-x-deb-linuxmint.svg application-x-deb.svg
-	ln -sf application-x-desktop-linuxmint.svg application-x-desktop.svg
-else
-	ln -sf application-x-deb-debian.svg application-x-deb.svg
-	ln -sf application-x-rpm-redhat.svg application-x-rpm.svg
-fi
+case $DISTRO in
+    opensuse) ln -sf application-x-rpm-opensuse.svg application-x-rpm.svg ;;    fedora) ln -sf application-x-rpm-fedora.svg application-x-rpm.svg ;;
+    debian|raspbian) ln -sf application-x-deb-debian.svg application-x-deb.svg ;;
+    ubuntu) ln -sf application-x-deb-ubuntu.svg application-x-deb.svg ;;
+    linuxmint) 
+        ln -sf application-x-deb-linuxmint.svg application-x-deb.svg 
+	    ln -sf application-x-desktop-linuxmint.svg application-x-desktop.svg
+    ;;
+    * )
+	    ln -sf application-x-deb-debian.svg application-x-deb.svg
+	    ln -sf application-x-rpm-redhat.svg application-x-rpm.svg
+    ;;
+esac
 
 echo "Updated package archive icons."
 
-if [ "$DE" == "gnome" ]; then
-	ln -sf application-x-desktop-gnome.svg application-x-desktop.svg
-elif [ "$DE" == "unity" ]; then
-	ln -sf application-x-desktop-unity.svg application-x-desktop.svg
-elif [ "$DE" == "lxde" ]; then
-	ln -sf application-x-desktop-lxde.svg application-x-desktop.svg
-elif [ "$DE" == "xfce" ]; then
-	ln -sf application-x-desktop-xfce.svg application-x-desktop.svg
-elif [ "$DE" == "kde" ]; then
-	ln -sf application-x-desktop-kde.svg application-x-desktop.svg
-fi
+case $DE in
+    gnome) ln -sf application-x-desktop-gnome.svg application-x-desktop.svg ;;
+    unity) ln -sf application-x-desktop-unity.svg application-x-desktop.svg ;;
+    lxde) ln -sf application-x-desktop-lxde.svg application-x-desktop.svg ;;
+    xfce) ln -sf application-x-desktop-xfce.svg application-x-desktop.svg ;;
+    kde) ln -sf application-x-desktop-kde.svg application-x-desktop.svg ;;
+esac
 
 echo "Updated mimetype icons."
