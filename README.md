@@ -1,5 +1,5 @@
 ### What is this?
-La Capitaine is an icon pack, designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of Mac OS X and Google's Material Design.
+La Capitaine is an icon pack, designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
 
 Every image in this theme is a _scalable vector graphic_ so it will look great at any size, on any screen. In my spare time, I work on adding new icons, updating old ones, and making this theme more complete. Since this theme is updated often, you should clone this git repository and pull regularly to make sure you're always up-to-date:
 
@@ -18,7 +18,7 @@ La Capitaine comes with a configuration script which attempts to determine your 
 For best integration with your distro/desktop environment, please run `./configure` and follow the prompts.
 
 ### Recommendations
-La Capitaine looks best with a theme based on either Material Design or Mac OS X. Though I don't make GTK+ themes, some of my favourites are: [Flat-Plat](http://gnome-look.org/content/show.php/Flat-Plat?content=167704), [Adapta](https://github.com/tista500/Adapta), [Paper](https://snwh.org/paper/theme), [Arc](https://github.com/horst3180/arc-theme), and [Arc-OSX](http://gnome-look.org/content/show.php/Arc-OSX-themes?content=175536). Have fun, and happy theming!
+La Capitaine looks best with a theme based on either Material Design or macOS. Though I don't make GTK+ themes, some of my favourites are: [Flat-Plat](http://gnome-look.org/content/show.php/Flat-Plat?content=167704), [Adapta](https://github.com/tista500/Adapta), [Paper](https://snwh.org/paper/theme), [Arc](https://github.com/horst3180/arc-theme), and [Arc-OSX](http://gnome-look.org/content/show.php/Arc-OSX-themes?content=175536). Have fun, and happy theming!
 
 ### License
 La Capitaine is a fork of the El General icon theme for the GNOME desktop with significant changes.
