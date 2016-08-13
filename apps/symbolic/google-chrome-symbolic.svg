@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="evolution-symbolic.svg">
+   sodipodi:docname="google-chrome-symbolic.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,12 +41,12 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="25.291667"
-     inkscape:cx="2.6293246"
-     inkscape:cy="8.8369028"
+     inkscape:cx="10.576606"
+     inkscape:cy="12"
      inkscape:current-layer="svg2" />
   <path
-     d="m 2.4,5.6 5.6,3.5 5.6,-3.5 0,0 L 8,2.1 2.4,5.6 l 0,0 m 12.6,0 0,7 A 1.4,1.4 0 0 1 13.6,14 L 2.4,14 A 1.4,1.4 0 0 1 1,12.6 l 0,-7 C 1,5.089 1.273,4.648 1.679,4.403 L 8,0.448 14.321,4.403 C 14.727,4.648 15,5.089 15,5.6 Z"
+     d="m 12,19.8 3.806,-6.6 -0.011,0 C 16.169,12.54 16.4,11.803 16.4,11 16.4,9.68 15.806,8.503 14.882,7.7 l 5.269,0 C 20.569,8.723 20.8,9.834 20.8,11 A 8.8,8.8 0 0 1 12,19.8 M 3.2,11 C 3.2,9.394 3.629,7.898 4.377,6.6 l 3.817,6.6 0.011,0 c 0.759,1.309 2.145,2.2 3.795,2.2 0.495,0 0.968,-0.099 1.419,-0.253 l -2.64,4.554 C 6.5,19.107 3.2,15.444 3.2,11 m 12.1,0 A 3.3,3.3 0 0 1 12,14.3 3.3,3.3 0 0 1 8.7,11 3.3,3.3 0 0 1 12,7.7 3.3,3.3 0 0 1 15.3,11 M 12,2.2 c 3.256,0 6.094,1.771 7.612,4.4 L 12,6.6 C 9.866,6.6 8.095,8.118 7.688,10.131 L 5.07,5.588 C 6.676,3.531 9.184,2.2 12,2.2 M 12,0 A 11,11 0 0 0 1,11 11,11 0 0 0 12,22 11,11 0 0 0 23,11 11,11 0 0 0 12,0 Z"
      id="path4"
-     style="fill:#bebebe"
+     style="fill:#bebebe;fill-opacity:1"
      inkscape:connector-curvature="0" />
 </svg>
