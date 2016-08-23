@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="evolution-symbolic.svg">
+   sodipodi:docname="gnome-calendar.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,12 +41,13 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="25.291667"
-     inkscape:cx="2.6293246"
-     inkscape:cy="8.8369028"
+     inkscape:cx="2.6688634"
+     inkscape:cy="13.581549"
      inkscape:current-layer="svg2" />
   <path
-     d="m 2.4,5.6 5.6,3.5 5.6,-3.5 0,0 L 8,2.1 2.4,5.6 l 0,0 m 12.6,0 0,7 A 1.4,1.4 0 0 1 13.6,14 L 2.4,14 A 1.4,1.4 0 0 1 1,12.6 l 0,-7 C 1,5.089 1.273,4.648 1.679,4.403 L 8,0.448 14.321,4.403 C 14.727,4.648 15,5.089 15,5.6 Z"
+     d="M 19,19 5,19 5,8 19,8 M 5,3 C 3.89,3 3,3.89 3,5 l 0,14 c 0,1.104569 0.8954305,2 2,2 l 14,0 c 1.104569,0 2,-0.895431 2,-2 L 21,5 C 21,3.89 20.1,3 19,3 m -2,9 -5,0 0,5 5,0 z"
      id="path4"
-     style="fill:#bebebe"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccsssssscccccc"
+     style="fill:#bebebe;fill-opacity:1" />
 </svg>

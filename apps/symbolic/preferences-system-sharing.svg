@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="evolution-symbolic.svg">
+   sodipodi:docname="preferences-system-sharing.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,12 +42,11 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="25.291667"
-     inkscape:cx="2.6293246"
-     inkscape:cy="8.8369028"
+     inkscape:cx="4.9621087"
+     inkscape:cy="12"
      inkscape:current-layer="svg2" />
   <path
-     d="m 2.4,5.6 5.6,3.5 5.6,-3.5 0,0 L 8,2.1 2.4,5.6 l 0,0 m 12.6,0 0,7 A 1.4,1.4 0 0 1 13.6,14 L 2.4,14 A 1.4,1.4 0 0 1 1,12.6 l 0,-7 C 1,5.089 1.273,4.648 1.679,4.403 L 8,0.448 14.321,4.403 C 14.727,4.648 15,5.089 15,5.6 Z"
+     d="M18,16.08C17.24,16.08 16.56,16.38 16.04,16.85L8.91,12.7C8.96,12.47 9,12.24 9,12C9,11.76 8.96,11.53 8.91,11.3L15.96,7.19C16.5,7.69 17.21,8 18,8A3,3 0 0,0 21,5A3,3 0 0,0 18,2A3,3 0 0,0 15,5C15,5.24 15.04,5.47 15.09,5.7L8.04,9.81C7.5,9.31 6.79,9 6,9A3,3 0 0,0 3,12A3,3 0 0,0 6,15C6.79,15 7.5,14.69 8.04,14.19L15.16,18.34C15.11,18.55 15.08,18.77 15.08,19C15.08,20.61 16.39,21.91 18,21.91C19.61,21.91 20.92,20.61 20.92,19A2.92,2.92 0 0,0 18,16.08Z"
      id="path4"
-     style="fill:#bebebe"
-     inkscape:connector-curvature="0" />
+     style="fill:#bebebe;fill-opacity:1" />
 </svg>

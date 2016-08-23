@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="evolution-symbolic.svg">
+   sodipodi:docname="gnome-aisleriot-symbolic.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,12 +41,11 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="25.291667"
-     inkscape:cx="2.6293246"
-     inkscape:cy="8.8369028"
+     inkscape:cx="1.0873147"
+     inkscape:cy="12"
      inkscape:current-layer="svg2" />
   <path
-     d="m 2.4,5.6 5.6,3.5 5.6,-3.5 0,0 L 8,2.1 2.4,5.6 l 0,0 m 12.6,0 0,7 A 1.4,1.4 0 0 1 13.6,14 L 2.4,14 A 1.4,1.4 0 0 1 1,12.6 l 0,-7 C 1,5.089 1.273,4.648 1.679,4.403 L 8,0.448 14.321,4.403 C 14.727,4.648 15,5.089 15,5.6 Z"
+     d="M 11.189453 2.25 C 10.929453 2.25 10.669922 2.3103906 10.419922 2.4003906 L 3.0605469 5.4492188 C 2.0405469 5.8692187 1.5507031 7.0407813 1.9707031 8.0507812 L 6.9296875 20 C 7.2396875 20.77 7.9702344 21.239766 8.7402344 21.259766 C 9.0002344 21.259766 9.2692969 21.209609 9.5292969 21.099609 L 16.900391 18.050781 C 17.650391 17.740781 18.110859 16.999766 18.130859 16.259766 C 18.140859 15.999766 18.09 15.709219 18 15.449219 L 13 3.5 C 12.71 2.73 11.969453 2.26 11.189453 2.25 z M 14.669922 2.25 L 18.119141 10.589844 L 18.119141 4.25 A 2 2 0 0 0 16.119141 2.25 L 14.669922 2.25 z M 20.130859 3.7890625 L 20.130859 12.820312 L 22.560547 6.9609375 C 22.970547 5.9409375 22.500703 4.7696094 21.470703 4.3496094 L 20.130859 3.7890625 z M 8.4453125 8.3359375 L 11.675781 10.746094 L 11.236328 14.755859 L 8.0058594 12.335938 L 8.4453125 8.3359375 z "
      id="path4"
-     style="fill:#bebebe"
-     inkscape:connector-curvature="0" />
+     style="fill:#bebebe;fill-opacity:1" />
 </svg>

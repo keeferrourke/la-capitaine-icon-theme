@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="evolution-symbolic.svg">
+   sodipodi:docname="brasero-symbolic.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,12 +41,12 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="25.291667"
-     inkscape:cx="2.6293246"
-     inkscape:cy="8.8369028"
+     inkscape:cx="5.0411862"
+     inkscape:cy="12"
      inkscape:current-layer="svg2" />
   <path
-     d="m 2.4,5.6 5.6,3.5 5.6,-3.5 0,0 L 8,2.1 2.4,5.6 l 0,0 m 12.6,0 0,7 A 1.4,1.4 0 0 1 13.6,14 L 2.4,14 A 1.4,1.4 0 0 1 1,12.6 l 0,-7 C 1,5.089 1.273,4.648 1.679,4.403 L 8,0.448 14.321,4.403 C 14.727,4.648 15,5.089 15,5.6 Z"
+     d="m 12,14.75 c -1.52625,0 -2.75,-1.2375 -2.75,-2.75 0,-1.52625 1.22375,-2.75 2.75,-2.75 1.52625,0 2.75,1.22375 2.75,2.75 A 2.75,2.75 0 0 1 12,14.75 M 12,1 A 11,11 0 0 0 1,12 11,11 0 0 0 12,23 11,11 0 0 0 23,12 11,11 0 0 0 12,1 Z"
      id="path4"
-     style="fill:#bebebe"
+     style="fill:#bebebe;fill-opacity:1"
      inkscape:connector-curvature="0" />
 </svg>
