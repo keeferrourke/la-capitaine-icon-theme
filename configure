@@ -95,7 +95,6 @@ case $yn in
             ;;
          esac
     ;;
-
     * ) if [ $distro_error -eq 0 ]; then
             echo "Using distribution logo."
         elif [ $distro_error -eq 1 ] || [ $de_error -eq 1 ]; then
