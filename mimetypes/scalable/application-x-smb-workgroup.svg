@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -173,7 +173,7 @@
   </defs>
   <sodipodi:namedview
      pagecolor="#747474"
-     bordercolor="#666666"
+     bordercolor="#ffffff"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -184,9 +184,9 @@
      inkscape:window-height="1362"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="10.543273"
-     inkscape:cx="-8.9580891"
-     inkscape:cy="20.414087"
+     inkscape:zoom="7.4552198"
+     inkscape:cx="37.994344"
+     inkscape:cy="29.504534"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
@@ -194,8 +194,8 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:object-nodes="true"
-     borderlayer="false"
-     showguides="true"
+     borderlayer="true"
+     showguides="false"
      inkscape:snap-nodes="true"
      inkscape:object-paths="false"
      inkscape:showpageshadow="false"
@@ -290,10 +290,22 @@
        width="44"
        id="rect4184"
        style="opacity:1;fill:#0b3969;fill-opacity:1;stroke:none;stroke-width:0.185;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4262"
+       y="59.771317"
+       x="-35.739666"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff"
+         y="59.771317"
+         x="-35.739666"
+         id="tspan4264"
+         sodipodi:role="line">samba</tspan></text>
     <path
+       style="fill:#0b3969;fill-opacity:1;stroke-width:0.2;stroke-linejoin:round"
        inkscape:connector-curvature="0"
-       style="fill:#0b3969;stroke-width:2;stroke-linecap:square;fill-opacity:1"
-       id="rect4246"
-       d="m -35.391766,16.176777 0,22 22,0 0,-22 -22,0 z m 1,1 20,0 0,3 -20,0 0,-3 z m 0,4 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 3,1 3,0 0,1 -3,0 0,-1 z m -17,4 20,0 0,2 -20,0 0,-2 z m 0,3 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 2,0 1,0 0,4 -1,0 0,-4 z m 3,1 3,0 0,1 -3,0 0,-1 z m -17,4 20,0 0,3 -20,0 0,-3 z" />
+       d="m -33.480204,24.657551 c 1.767309,0 3.199983,1.432674 3.199983,3.199984 0,1.011385 -0.469188,1.913179 -1.201769,2.499587 1.00992,3.073668 3.831663,5.326636 7.201769,5.500396 0,1.240623 0.513448,2.361297 1.339452,3.161179 l -0.939435,0.03885 c -5.158737,0 -9.502838,-3.487731 -10.803032,-8.233819 -1.171099,-0.475503 -1.996952,-1.624371 -1.996952,-2.966198 0,-1.76731 1.432674,-3.199984 3.199984,-3.199984 z m 13.2,-8.000033 c 1.767309,0 3.199983,1.432724 3.199983,3.200033 0,1.76731 -1.432674,3.199983 -3.199983,3.199983 -1.764026,0 -3.194678,-1.427368 -3.199984,-3.190181 -0.13253,-0.0065 -0.265869,-0.0098 -0.400016,-0.0098 -3.107723,0 -5.801533,1.772009 -7.126232,4.360725 -0.704892,-0.480102 -1.556564,-0.760725 -2.473768,-0.760725 l -0.728085,0.05992 c 1.695613,-4.030182 5.681381,-6.859958 10.328085,-6.859958 0.809633,0 1.599157,0.08594 2.360033,0.249094 0.381322,-0.160421 0.800287,-0.249094 1.239967,-0.249094 z m 0.400016,16.000017 c 0.706055,0 1.358704,0.228682 1.887916,0.615966 1.31131,-1.424842 2.112051,-3.326854 2.112051,-5.415966 0,-1.747807 -0.560489,-3.364699 -1.511545,-4.680758 0.88901,-0.774266 1.46405,-1.899891 1.508766,-3.160472 1.981137,2.020295 3.202812,4.788126 3.202812,7.84123 0,3.473078 -1.580867,6.57696 -4.062265,8.63131 -0.293153,1.46496 -1.586526,2.568707 -3.137735,2.568707 -1.767309,0 -3.200033,-1.432724 -3.200033,-3.200034 0,-1.767309 1.432724,-3.199983 3.200033,-3.199983 z"
+       id="path4268" />
   </g>
 </svg>
