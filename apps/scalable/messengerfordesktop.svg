@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-13.440249"
-     inkscape:cy="-11.042693"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="12.150538"
+     inkscape:cy="24.345531"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,6 +45,37 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4168">
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1"
+         offset="0"
+         id="stop4170" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4172" />
+    </linearGradient>
+    <linearGradient
+       y2="214.96458"
+       x1="112.42918"
+       x2="112.42918"
+       y1="15.200426"
+       id="linearGradient4160"
+       gradientTransform="matrix(0.21184108,0,0,0.2134677,-67,998.3622)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop4162"
+         offset="0"
+         stop-color="#00C6FF"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop4164"
+         offset="1"
+         stop-color="#0068FF"
+         style="stop-color:#cccccc;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.21184108,0,0,0.2134677,-67,998.3622)"
@@ -91,6 +122,16 @@
        x2="24.5"
        y2="1053.3622"
        gradientTransform="translate(22.318058,-39.288621)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4168"
+       id="linearGradient4174"
+       x1="0.375"
+       y1="1054.9872"
+       x2="0.5"
+       y2="1004.7372"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96,0,0,0.96,22.92,39.455352)" />
   </defs>
   <metadata
      id="metadata7">
@@ -100,7 +141,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,5 +176,10 @@
        inkscape:connector-curvature="0"
        d="m 21.627343,1021.9121 -12.8444437,13.5995 11.6895267,-6.4136 6.107602,6.4136 12.771929,-13.5995 -11.559808,6.3013 -6.164806,-6.3013 z"
        id="path4194" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4174);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 24,1004.3622 c -13.243463,0 -24,10.7566 -24,24 0,13.2435 10.756537,24 24,24 13.243463,0 24,-10.7565 24,-24 0,-13.2434 -10.756537,-24 -24,-24 z m 0,1.92 c 12.205818,0 22.08,9.8742 22.08,22.08 0,12.2058 -9.874182,22.08 -22.08,22.08 -12.205818,0 -22.08,-9.8742 -22.08,-22.08 0,-12.2058 9.874182,-22.08 22.08,-22.08 z"
+       id="circle4146"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
