@@ -1,8 +1,82 @@
 Copyright (c) 2015-2016 Keefer Rourke <keefer.rourke@gmail.com> and others.
-La Capitaine artwork is based on El General, and in turn Numix.
 
-This project is free software, and where applicable, is licensed as such.
+La Capitaine artwork is based on El General/Antu, and in turn Numix.
+It is licensed under the GNU General Public License version 3.
 
-All artwork source files, for example SVG and other formats, are licensed under the GPLv3. See LICENSE for more details.
+Configuration scripts and other files that are not considered to be images
+or artwork are licensed under the MIT license.
 
-The configuration script that comes with this project is licensed under the permissive MIT license. See the license headers in 'configure' for more details.
+Clarifications and more information may be found below.
+
+----
+
+All artwork source files (for example SVG and other formats specified below)
+are licensed under the GPLv3. See LICENSE for more details.
+
+    This project is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This project is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Clarifications:
+
+The GNU General Public License or GPL is written for software projects.
+However, we expressly want the GPL to be valid for artwork and relevant 
+assets alone that are included in this project.
+
+Source code, for this artwork project means:
+    - where they exist, SVG;
+    - otherwise, if applicable, the multi-layered formats XCF, PSD, SVGZ;
+    - otherwise, if applicable, PNG or JPG/JPEG.
+
+Regarding this project as a whole: the GPL applies exclusively to vector,
+raster, bitmap, and/or multi-layered image files that may be considered artworks in this software project. 
+
+The GPL in some sections obliges you to make the files carry notices.
+With images this is in some cases impossible or hardly useful. 
+With this project a notice is placed at a prominent place in the directory
+containing the elements. You may follow this practise.
+
+Inkscape may by default place a "Propriety License" property in SVG 
+metadata, or otherwise display this in the GUI where no metadata license
+tag exists; this declaration is to be ignored where it appears. 
+All the artwork in this project is freely licensed under the GNU General
+Public License and must be treated as such.
+
+----
+
+Scripts and other non-artwork files that come with this project are licensed
+under the permissive MIT license. See the license headers in each applicable
+file for more details.
+
+    Permission is hereby granted, free of charge, to any person 
+    obtaining a copy of this software and associated documentation 
+    files (the "Software"), to deal in the Software without restriction,
+    including without limitation the rights to use, copy, modify, merge,
+    publish, distribute, sublicense, and/or sell copies of the Software,
+    and to permit persons to whom the Software is furnished to do so,
+    subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included
+    in all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+    IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+    CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+    TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH 
+    THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----
+
+If you have any questions or concerns, feel free to contact me.
+https://krourke.org
