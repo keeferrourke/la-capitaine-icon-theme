@@ -15,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="7z.svg">
+   sodipodi:docname="file-roller.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#5a5a5a"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="10.263363"
-     inkscape:cx="15.614581"
+     inkscape:cx="13.86077"
      inkscape:cy="24.630633"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -41,7 +41,7 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      showguides="false"
-     showborder="false">
+     showborder="true">
     <inkscape:grid
        id="grid4063"
        type="xygrid" />
@@ -203,7 +203,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -212,6 +212,14 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.66666669;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+       id="rect4184"
+       width="42"
+       height="46.666634"
+       x="387.62244"
+       y="501.13138"
+       ry="2.3333285" />
     <rect
        ry="2.3333285"
        y="500.55136"
