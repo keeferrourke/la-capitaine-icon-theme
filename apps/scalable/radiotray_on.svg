@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="gnomeradio.svg">
+   sodipodi:docname="radiotray_on.svg">
   <metadata
      id="metadata69">
     <rdf:RDF>
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,7 +39,7 @@
      id="namedview67"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
+     inkscape:cx="-12.20339"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="33"
@@ -92,11 +93,11 @@
       <stop
          id="stop4322"
          offset="0"
-         style="stop-color:#e42238;stop-opacity:1" />
+         style="stop-color:#00ccff;stop-opacity:1" />
       <stop
          id="stop4324"
          offset="1"
-         style="stop-color:#fd6820;stop-opacity:1" />
+         style="stop-color:#55ddff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
