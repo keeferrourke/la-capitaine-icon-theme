@@ -13,7 +13,7 @@
    viewBox="0 0 24 24"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="network-wired-symbolic.svg">
+   sodipodi:docname="nm-device-wired-secure.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,6 +69,36 @@
          id="rect4162"
          style="opacity:1;fill:#aade87;fill-opacity:0.47247709;stroke:none;stroke-opacity:1" />
     </clipPath>
+    <filter
+       id="filter7554-3"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-5"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4210-9">
+      <rect
+         y="1024.3622"
+         x="-7"
+         height="34"
+         width="34"
+         id="rect4212-1"
+         style="opacity:1;fill:#0000ff;fill-opacity:0.51376145;stroke:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4160-2">
+      <rect
+         style="opacity:1;fill:#aade87;fill-opacity:0.47247709;stroke:none;stroke-opacity:1"
+         id="rect4162-7"
+         width="32"
+         height="32.000015"
+         x="-6"
+         y="1028.3619" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -84,17 +114,9 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="29.104167"
-     inkscape:cx="4.640669"
+     inkscape:cx="9.5884141"
      inkscape:cy="9.6965327"
      inkscape:current-layer="svg2" />
-  <rect
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4356"
-     width="13"
-     height="3"
-     x="5.5"
-     y="10.5"
-     ry="1.7735878" />
   <g
      id="g3-9"
      transform="matrix(0.01149582,0,0,0.01149582,-3.3254937,13.433491)"
@@ -127,4 +149,45 @@
        id="path4296"
        inkscape:connector-curvature="0" />
   </g>
+  <g
+     style="fill:#4d4d4d;fill-opacity:1"
+     id="g4159"
+     transform="translate(11.938161,10.534167)">
+    <g
+       id="layer1-2-3"
+       inkscape:label="Capa 1"
+       transform="matrix(0.4418043,0,0,0.4418043,-4.753519,-458.85561)"
+       style="fill:#4d4d4d;fill-opacity:1">
+      <path
+         style="fill:#4d4d4d;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         id="path3"
+         d="m 15.926846,1040.1714 0,-1.9983 c 0,-2.7121 -2.206463,-4.9187 -4.918609,-4.9187 -2.7121476,0 -4.9186118,2.2066 -4.9186118,4.9187 l 0,1.9983 c -0.387614,0.081 -0.6796621,0.4259 -0.6796621,0.8373 l 0,7.4883 c 0,0.4717 0.3838071,0.8555 0.8555666,0.8555 l 9.4853693,0 c 0.471759,0 0.855566,-0.3838 0.855566,-0.8555 l 0,-7.4883 c 0,-0.4114 -0.292003,-0.7559 -0.679619,-0.8373 z m -1.711133,-0.018 -6.4149539,0 0,-1.9801 c 0,-1.7686 1.4388492,-3.2074 3.2074779,-3.2074 1.768626,0 3.207476,1.4389 3.207476,3.2074 z"
+         sodipodi:nodetypes="cssscsssssscccsssc" />
+    </g>
+  </g>
+  <g
+     id="g3-9-9"
+     transform="matrix(0.01149582,0,0,0.01149582,-3.3254903,13.43349)"
+     style="fill:#ffffff;fill-opacity:1">
+    <g
+       id="g5-4-3"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+  <g
+     style="font-style:normal;font-weight:normal;font-size:11.59667683px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="text4361-6"
+     transform="matrix(0.70106994,0,0,0.70106994,1.4288401,11.579273)" />
+  <circle
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4298"
+     cx="7.0000033"
+     cy="11.999999"
+     r="1.5" />
+  <circle
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle4302"
+     cx="17.000004"
+     cy="11.999999"
+     r="1.5" />
 </svg>
