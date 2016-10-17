@@ -54,6 +54,7 @@ distromatch() {
     linuxmint) ln -sf distributor-logo-linuxmint.svg distributor-logo.svg ;;
     mageia) ln -sf distributor-logo-mageia.svg distributor-logo.svg ;;
     manjaro) ln -sf distributor-logo-manjaro.svg distributor-logo.svg ;;
+	nixos) ln -sf distributor-logo-nixos.svg distributor-logo.svg ;;
     opensuse) ln -sf distributor-logo-opensuse.svg distributor-logo.svg ;;
     ubuntu) ln -sf distributor-logo-ubuntu.svg distributor-logo.svg ;;
     *) return 1 ;;
@@ -62,7 +63,7 @@ distromatch() {
 
 # in case lsb_release detection fails, try /etc/os-release
 alt_distromatch() {
-local pattern="ID=arch:ID=raspbian:ID=ubuntu"
+local pattern="ID=arch:ID=raspbian:ID=ubuntu:ID=nixos"
 local IFS=:
 for i in $pattern; do
 if $(grep -wsq "$i" /etc/os-release); then
@@ -74,7 +75,6 @@ else
 fi
 done
 }
-
 
 # attempt to detect distribution
 ! distromatch && alt_distromatch
@@ -103,8 +103,6 @@ case $yn in
     ;;
 esac
 
-
-
 ln -sf distributor-logo.svg start-here.svg # fixes potentially broken link
 
 cd "$wd"
@@ -118,7 +116,8 @@ echo "Updated distributor logo."
 cd "$wd"/mimetypes/scalable
 
 case $DISTRO in
-    opensuse) ln -sf application-x-rpm-opensuse.svg application-x-rpm.svg ;;    fedora) ln -sf application-x-rpm-fedora.svg application-x-rpm.svg ;;
+    opensuse) ln -sf application-x-rpm-opensuse.svg application-x-rpm.svg ;;
+	fedora) ln -sf application-x-rpm-fedora.svg application-x-rpm.svg ;;
     debian|raspbian) ln -sf application-x-deb-debian.svg application-x-deb.svg ;;
     ubuntu) ln -sf application-x-deb-ubuntu.svg application-x-deb.svg ;;
     linuxmint) 
