@@ -30,9 +30,17 @@ See LICENSE and COPYING for more details.
 I'm a poor university computer science student, and I spend many hours per week working on this and other projects -- If you like this icon pack and want to support me or buy me a coffee, please feel free to [donate](https://paypal.me/keeferrourke):)
 
 ### Icon Requests
-If there's an icon that's missing in this project, feel free to [contact me](https://krourke.org/contact) or _open an issue_. Please provide me with the name of the application (and/or the name of the icon), the context of the icon (status, app, etc.), and in the case of desktop applications, a copy of the desktop file located at `/usr/share/applications/yourapplication.desktop` or `~/.local/share/applications/yourapplication.desktop`.
+If there's an icon that's missing in this project, feel free to [contact me](https://krourke.org/contact) or _open an issue_.
 
-If at all possible, please provide a reference image for the original icon that is not included in this theme.
+Please follow this format for requests:
+```
+Application: _name of application_
+Icon name: _name of icon_
+Context: _e.g. app, status, action, etc. (if known)_
+Icon reference:
+<attach image of original icon>
+```
+If your request is for a desktop application (it usually is), you can find the icon name in the application's `*.desktop` file located at `/usr/share/applications/yourapplication.desktop` or `$HOME/.local/share/applications/yourapplication.desktop`.
 
 If you find that an application icon is not themed, but an icon appears in this project with the wrong (or a different) file name as specified in your x-desktop file, please let me know and _open an issue_.
 
