@@ -40,6 +40,8 @@ Context: _e.g. app, status, action, etc. (if known)_
 Icon reference:
 <attach image of original icon>
 ```
+You should take a look at [request #58](https://github.com/keeferrourke/la-capitaine-icon-theme/issues/58) for a real example of the format I'm looking for. Following the requested format makes my life easier and guarantees that your request will be fulfilled faster :grin:
+
 If your request is for a desktop application (it usually is), you can find the icon name in the application's `*.desktop` file located at `/usr/share/applications/yourapplication.desktop` or `$HOME/.local/share/applications/yourapplication.desktop`.
 
 If you find that an application icon is not themed, but an icon appears in this project with the wrong (or a different) file name as specified in your x-desktop file, please let me know and _open an issue_.
