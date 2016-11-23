@@ -1,101 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="16"
-   width="16"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="bookmark-new-symbolic.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="633"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="33"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <filter
-       id="filter7554"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <inkscape:perspective
-       id="perspective4146"
-       inkscape:persp3d-origin="12 : 8 : 1"
-       inkscape:vp_z="24 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 12 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective4090"
-       inkscape:persp3d-origin="12 : 8 : 1"
-       inkscape:vp_z="24 : 12 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 12 : 1"
-       sodipodi:type="inkscape:persp3d" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
   </defs>
-  <g
-     transform="matrix(0.875,0,0,0.875,-286.875,-469.19193)"
-     id="layer1"
-     inkscape:label="Capa 1">
-    <g
-       inkscape:label="Capa 1"
-       id="layer1-2"
-       transform="matrix(0.69900566,0,0,0.69900566,56.998304,173.63239)">
-      <g
-         id="star60"
-         sketch:type="MSLayerGroup"
-         transform="matrix(0.17703162,0,0,0.17703162,388.53319,520.29086)"
-         style="fill:#4d4d4d;fill-opacity:1">
-        <path
-           d="m 135.785,50.457 c 0,-2.01 -1.52,-3.259 -4.564,-3.748 L 90.324,40.762 71.993,3.692 c -1.031,-2.227 -2.363,-3.34 -3.992,-3.34 -1.629,0 -2.96,1.113 -3.992,3.34 L 45.677,40.762 4.778,46.709 c -3.041,0.489 -4.562,1.738 -4.562,3.748 0,1.141 0.679,2.445 2.037,3.911 l 29.656,28.841 -7.006,40.736 c -0.109,0.761 -0.163,1.305 -0.163,1.63 0,1.141 0.285,2.104 0.855,2.893 0.57,0.788 1.425,1.181 2.566,1.181 0.978,0 2.064,-0.324 3.259,-0.977 L 68,109.443 l 36.583,19.229 c 1.142,0.652 2.228,0.977 3.258,0.977 1.089,0 1.916,-0.392 2.486,-1.181 0.569,-0.788 0.854,-1.752 0.854,-2.893 0,-0.706 -0.027,-1.249 -0.082,-1.63 l -7.007,-40.736 29.574,-28.841 c 1.414,-1.412 2.119,-2.716 2.119,-3.911 l 0,0 z"
-           id="path2034"
-           sketch:type="MSShapeGroup"
-           inkscape:connector-curvature="0"
-           style="fill:#4d4d4d;fill-opacity:1" />
-      </g>
-    </g>
-  </g>
+ <path 
+           style="fill:currentColor;fill-opacity:1;stroke:none" 
+           class="ColorScheme-Text"
+        d="m 15.5,6.3127719 c 0,-0.2331844 -0.168178,-0.378075 -0.504975,-0.4348125 L 10.469975,5.1880437 8.44175,0.88747813 C 8.327675,0.62912188 8.1803,0.5 8.0000563,0.5 7.8198219,0.5 7.67255,0.62912188 7.5583625,0.88747813 L 5.530025,5.1880437 1.0047594,5.8779594 C 0.66829062,5.9346781 0.5,6.0795875 0.5,6.3127719 c 0,0.132375 0.0750937,0.28365 0.22538437,0.4537219 L 4.0066719,10.112394 3.2314906,14.838256 c -0.012094,0.08831 -0.018094,0.151397 -0.018094,0.189103 0,0.132375 0.031594,0.244088 0.094603,0.335616 0.063,0.09141 0.1576687,0.137025 0.2839125,0.137025 0.1082156,0 0.228375,-0.03759 0.3605906,-0.113353 l 4.0473938,-2.230781 4.0477125,2.230781 C 12.173966,15.462303 12.294134,15.5 12.408088,15.5 c 0.120496,0 0.211996,-0.04547 0.275071,-0.137025 0.06291,-0.09141 0.09449,-0.20325 0.09449,-0.335616 0,-0.08194 -0.0028,-0.14489 -0.0094,-0.189103 l -0.775258,-4.725862 3.272203,-3.3459002 c 0.15645,-0.1638001 0.23445,-0.3150938 0.23445,-0.4537219 l 0,0 z"
+     />
 </svg>

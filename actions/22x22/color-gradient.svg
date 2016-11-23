@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      .ColorScheme-Highlight {
+        color:#1d99f3;
+      }
+      </style>
+    <linearGradient
+   inkscape:collect="always"
+   id="linearGradient4161">
+  <stop
+     style="stop-color:#1d99f3;stop-opacity:1"
+     offset="0"
+     id="stop4163" />
+  <stop
+     style="stop-color:#c0dcf0;stop-opacity:1"
+     offset="1"
+     id="stop4165" />
+</linearGradient>
+<linearGradient
+   inkscape:collect="always"
+   xlink:href="#linearGradient4161"
+   id="linearGradient4159"
+   x1="32"
+   y1="1047.3622"
+   x2="32"
+   y2="1031.3622"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.96689404,0,0,0.96689404,-20.84392,37.312563)" />
+</defs>
+  <g
+     transform="translate(1,-1031.3622)"
+     id="g10">
+    <g
+       id="layer1-1"
+       inkscape:label="Capa 1">
+      <rect
+         style="opacity:1;fill:url(#linearGradient4159);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.77351516;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4151"
+         width="15.226485"
+         height="15.226485"
+         x="2.3867574"
+         y="1034.7489"
+         ry="0.48344699" />
+    </g>
+  </g>
+  <g
+     transform="translate(1,-1031.3622)"
+     id="g10-7">
+    <g
+       id="layer1-1-5"
+       inkscape:label="Capa 1">
+      <path
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 2.8710938,1034.3613 C 2.3956903,1034.3613 2,1034.757 2,1035.2324 l 0,14.2598 c 0,0.4754 0.3956903,0.8691 0.8710938,0.8691 l 14.2578122,0 c 0.475404,0 0.871094,-0.3937 0.871094,-0.8691 l 0,-14.2598 c 0,-0.4754 -0.39569,-0.8711 -0.871094,-0.8711 l -14.2578122,0 z m 0,0.7735 14.2578122,0 c 0.06026,0 0.09766,0.037 0.09766,0.098 l 0,14.2598 c 0,0.06 -0.0374,0.096 -0.09766,0.096 l -14.2578122,0 c -0.060256,0 -0.097656,-0.035 -0.097656,-0.096 l 0,-14.2598 c 0,-0.06 0.0374,-0.098 0.097656,-0.098 z"
+     class="ColorScheme-Text"
+          />
+    </g>
+  </g>
+</svg>

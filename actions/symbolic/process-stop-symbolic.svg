@@ -1,87 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   style="enable-background:new"
-   height="16"
-   width="16"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="process-stop-symbolic.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="804"
-     inkscape:window-height="480"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="33"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg7384" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Paper Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title8473">Paper Symbolic Icon Theme</title>
-  <defs
-     id="defs7386">
-    <filter
-       id="filter7554"
-       color-interpolation-filters="sRGB">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }
+      </style>
   </defs>
-  <g
-     transform="matrix(0.875,0,0,0.875,-286.875,-469.19192)"
-     id="layer1"
-     inkscape:label="Capa 1">
-    <g
-       inkscape:label="Capa 1"
-       id="layer1-8"
-       transform="matrix(0.89258405,0,0,0.89258405,-149.61667,18.577336)">
-      <g
-         id="cross41"
-         sketch:type="MSLayerGroup"
-         transform="matrix(0.14324114,0,0,0.14324114,536.15337,581.15537)"
-         style="fill:#da4453;fill-opacity:1">
         <path
-           d="M 117.18,31.592 C 111.585,22.006 103.995,14.416 94.409,8.821 84.821,3.226 74.354,0.429 63.001,0.429 51.649,0.429 41.179,3.226 31.593,8.821 22.006,14.415 14.416,22.005 8.821,31.592 3.225,41.179 0.428,51.649 0.428,63 c 0,11.352 2.798,21.82 8.392,31.408 5.595,9.585 13.185,17.176 22.772,22.771 9.587,5.595 20.056,8.392 31.408,8.392 11.352,0 21.822,-2.797 31.408,-8.392 9.586,-5.594 17.176,-13.185 22.771,-22.771 5.594,-9.587 8.391,-20.057 8.391,-31.408 0,-11.352 -2.797,-21.822 -8.39,-31.408 l 0,0 z M 92.493,77.746 c 1.032,1.031 1.549,2.255 1.549,3.667 0,1.466 -0.517,2.716 -1.549,3.747 l -7.332,7.333 c -1.032,1.032 -2.281,1.548 -3.748,1.548 -1.412,0 -2.636,-0.516 -3.666,-1.548 L 63,77.746 48.253,92.493 c -1.032,1.032 -2.254,1.548 -3.666,1.548 -1.467,0 -2.716,-0.516 -3.748,-1.548 L 33.506,85.16 c -1.032,-1.031 -1.548,-2.281 -1.548,-3.747 0,-1.412 0.516,-2.636 1.548,-3.667 L 48.253,63 33.506,48.253 c -1.032,-1.031 -1.548,-2.254 -1.548,-3.666 0,-1.467 0.516,-2.716 1.548,-3.748 l 7.333,-7.332 c 1.032,-1.032 2.281,-1.548 3.748,-1.548 1.412,0 2.634,0.516 3.666,1.548 L 63,48.253 77.747,33.507 c 1.03,-1.032 2.254,-1.548 3.666,-1.548 1.467,0 2.716,0.516 3.748,1.548 l 7.332,7.332 c 1.032,1.032 1.549,2.281 1.549,3.748 0,1.412 -0.517,2.635 -1.549,3.666 L 77.747,63 l 14.746,14.746 0,0 z"
-           id="path4493"
-           sketch:type="MSShapeGroup"
-           inkscape:connector-curvature="0"
-           style="fill:#da4453;fill-opacity:1" />
-      </g>
-    </g>
-  </g>
+           style="fill:currentColor;fill-opacity:1;stroke:none" 
+           class="ColorScheme-NegativeText"
+        d="M 14.494342,4.23532 C 13.823704,3.0863 12.913938,2.17654 11.764923,1.5059 10.615669,0.83526 9.3610538,0.5 8.0002397,0.5 6.6395455,0.5 5.3845711,0.83526 4.2355564,1.5059 3.0864218,2.17642 2.1766553,3.08618 1.5060172,4.23532 0.83525915,5.38445 0.5,6.63943 0.5,8 c 0,1.36069 0.33537901,2.61543 1.0058973,3.76468 0.6706382,1.1489 1.5804047,2.05878 2.7295392,2.72942 1.1491346,0.67064 2.4039891,1.0059 3.7646834,1.0059 1.3606942,0 2.6156681,-0.33526 3.7646831,-1.0059 1.149015,-0.67052 2.058781,-1.5804 2.72942,-2.72942 C 15.164741,10.61555 15.5,9.36057 15.5,8 15.5,6.63931 15.164741,5.38433 14.494342,4.23532 l 0,0 z m -2.959078,5.53219 c 0.123699,0.12358 0.185669,0.2703 0.185669,0.43954 0,0.17572 -0.06197,0.32555 -0.185669,0.44913 l -0.878842,0.87896 c -0.123699,0.1237 -0.273409,0.18555 -0.449249,0.18555 -0.169248,0 -0.3159614,-0.0619 -0.4394212,-0.18555 L 8.0001199,9.76751 6.2324879,11.53514 c -0.1236995,0.1237 -0.2701731,0.18555 -0.4394208,0.18555 -0.1758403,0 -0.3255502,-0.0619 -0.4492497,-0.18555 L 4.4648559,10.65618 C 4.3411564,10.5326 4.2793067,10.38277 4.2793067,10.20705 c 0,-0.16924 0.06185,-0.31596 0.1855492,-0.43954 L 6.2324879,8 4.4648559,6.23237 C 4.3411564,6.10879 4.2793067,5.96219 4.2793067,5.79295 c 0,-0.17584 0.06185,-0.32555 0.1855492,-0.44925 L 5.3438174,4.46486 c 0.1236995,-0.1237 0.2734094,-0.18555 0.4492497,-0.18555 0.1692477,0 0.3157213,0.0619 0.4394208,0.18555 l 1.767632,1.76751 1.7676319,-1.76751 c 0.1234598,-0.1237 0.2701732,-0.18555 0.4394212,-0.18555 0.17584,0 0.32555,0.0619 0.449249,0.18555 l 0.878842,0.87884 c 0.123699,0.1237 0.185669,0.27341 0.185669,0.44925 0,0.16924 -0.06197,0.31584 -0.185669,0.43942 L 9.7677518,8 l 1.7675122,1.76751 0,0 z"
+     />
 </svg>

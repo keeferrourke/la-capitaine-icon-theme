@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M4,5V19L11,12M18,5V19H20V5M11,5V19L18,12" /></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
+  </defs>
+ <path 
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+	 class="ColorScheme-Text"
+        d="M 0.5 1 L 0.5 15 L 7.0625 8 L 0.5 1 z M 7.0625 8 L 7.0625 15 L 13.625 8 L 7.0625 1 L 7.0625 8 z M 13.625 8 L 13.625 15 L 15.5 15 L 15.5 1 L 13.625 1 L 13.625 8 z "
+     />
+</svg>
