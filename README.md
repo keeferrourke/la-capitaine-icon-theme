@@ -27,7 +27,7 @@ The configuration script included here is written by me and licensed under the p
 See LICENSE and COPYING for more details.
 
 ### Donations
-I'm a poor university computer science student, and I spend many hours per week working on this and other projects -- If you like this icon pack and want to support me, please consider donating via [Paypal](https://paypal.me/keeferrourke), [Patreon](https://www.patreon.com/krourke), or [Bitcoin](bitcoin:1KSECuzXkGVMPVUawDJAnu5hrMPuALRgjR) :smile:
+I'm a poor university computer science student, and I spend many hours per week working on this and other projects -- If you like this icon pack and want to support me, please consider donating via [Paypal](https://paypal.me/keeferrourke), [Patreon](https://www.patreon.com/krourke), or [Bitcoin](https://krourke.org/btc.html) :smile:
 
 Check out `Thanks.md` to see a list of significant donors and contributors!
 
