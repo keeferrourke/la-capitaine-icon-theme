@@ -10,7 +10,7 @@ Alternatively, there is an [AUR PKGBUILD](https://aur.archlinux.org/packages/la-
 
     yaourt -S la-capitaine-icon-theme-git
 
-and keep yourself on the _bleeding edge_ of this repo :)
+and keep yourself on the _bleeding edge_ of this repo :smile:
 
 ### Configuration
 La Capitaine comes with a configuration script which attempts to determine your distribution and desktop environment. Using this information, La Capitaine updates several system icons and icons used for mime-types.
@@ -27,7 +27,7 @@ The configuration script included here is written by me and licensed under the p
 See LICENSE and COPYING for more details.
 
 ### Donations
-I'm a poor university computer science student, and I spend many hours per week working on this and other projects -- If you like this icon pack and want to support me or buy me a coffee, please feel free to [donate](https://paypal.me/keeferrourke):)
+I'm a poor university computer science student, and I spend many hours per week working on this and other projects -- If you like this icon pack and want to support me or buy me a coffee, please feel free to [donate](https://paypal.me/keeferrourke) :smile:
 
 ### Icon Requests
 If there's an icon that's missing in this project, feel free to [contact me](https://krourke.org/contact) or _open an issue_.
@@ -48,8 +48,8 @@ If you find that an application icon is not themed, but an icon appears in this 
 
 ### Roadmap
 To-do:
- * Introduce more icon geometry; the mostly circular base is boring
  * Change software store and management icons to something more original/generic
+ * Add alternative file-browser icons (requested a few times)
  * Add alternative status, action and other 16x16 icons for dark GTK+ themes
 
 ### Recommendations
