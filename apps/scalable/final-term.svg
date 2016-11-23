@@ -17,7 +17,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="utilities-terminal.svg">
+   sodipodi:docname="final-term.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -62,11 +62,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9933812"
-     inkscape:cx="-85.049582"
-     inkscape:cy="12.633158"
+     inkscape:zoom="22.589975"
+     inkscape:cx="12.725355"
+     inkscape:cy="13.65668"
      inkscape:document-units="px"
-     inkscape:current-layer="g4256"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -83,7 +83,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:guide-bbox="true"
-     showborder="false">
+     showborder="true">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -177,10 +177,15 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-384.57143,-499.798)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0.66666669;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.84375 6.78125 C 0.89948245 6.78125 0.13867188 7.5401074 0.13867188 8.484375 L 0.13867188 41.294922 C 0.13867188 42.239189 0.89948245 43 1.84375 43 L 46.433594 43 C 47.377861 43 48.138672 42.239189 48.138672 41.294922 L 48.138672 8.484375 C 48.138672 7.5401074 47.377861 6.78125 46.433594 6.78125 L 1.84375 6.78125 z "
+       transform="translate(384.57143,499.798)"
+       id="rect3245" />
     <g
        id="layer1-4"
        inkscape:label="Capa 1"

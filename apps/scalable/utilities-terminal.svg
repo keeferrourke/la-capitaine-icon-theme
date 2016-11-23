@@ -63,10 +63,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.9933812"
-     inkscape:cx="-85.049582"
+     inkscape:cx="-49.490743"
      inkscape:cy="12.633158"
      inkscape:document-units="px"
-     inkscape:current-layer="g4256"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -83,7 +83,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:guide-bbox="true"
-     showborder="false">
+     showborder="true">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -177,10 +177,15 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-384.57143,-499.798)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0.66666669;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 386.41518,506.5773 c -0.94427,0 -1.70508,0.76081 -1.70508,1.70507 l 0,32.81055 c 0,0.94427 0.76081,1.70508 1.70508,1.70508 l 44.58984,0 c 0.94427,0 1.70508,-0.76081 1.70508,-1.70508 l 0,-32.81055 c 0,-0.94426 -0.76081,-1.70507 -1.70508,-1.70507 l -44.58984,0 z"
+       id="rect3245"
+       inkscape:connector-curvature="0" />
     <g
        id="layer1-4"
        inkscape:label="Capa 1"
