@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="flash.svg">
+   sodipodi:docname="AdobeFlash.svg">
   <metadata
      id="metadata61">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,7 +39,7 @@
      id="namedview59"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-25.736288"
+     inkscape:cx="-61.939678"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="33"
@@ -95,9 +95,10 @@
     </linearGradient>
   </defs>
   <g
-     id="g33" />
+     id="g33"
+     transform="matrix(0.95652173,0,0,0.95652173,1.0434843,1.0434786)" />
   <g
-     transform="translate(-453.3172,-498.37427)"
+     transform="matrix(0.95652173,0,0,0.95652173,-432.56427,-475.66234)"
      id="layer1"
      inkscape:label="Capa 1">
     <g
@@ -132,7 +133,7 @@
                        id="g4280"
                        transform="matrix(1.15,0,0,1.15,-61.285728,-78.569705)">
                       <rect
-                         style="opacity:1;fill:url(#linearGradient4224);fill-opacity:1.0;stroke:none"
+                         style="opacity:1;fill:url(#linearGradient4224);fill-opacity:1;stroke:none"
                          id="rect4222"
                          width="40"
                          height="40"

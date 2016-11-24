@@ -70,8 +70,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.5389066"
-     inkscape:cx="16.412862"
-     inkscape:cy="21.872479"
+     inkscape:cx="-1.8921797"
+     inkscape:cy="27.178288"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,7 +88,7 @@
      borderlayer="true"
      showguides="false"
      inkscape:guide-bbox="true"
-     showborder="false">
+     showborder="true">
     <inkscape:grid
        type="xygrid"
        id="grid4063" />
@@ -169,31 +169,31 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-384.57143,-499.798)">
     <g
        id="g4517"
-       transform="matrix(11.565587,10.20368,-12.426852,14.085489,4184.0276,-10498.73)" />
+       transform="matrix(10.601758,9.3533465,-11.391248,12.911661,3869.1808,-9580.205)" />
     <text
        sodipodi:linespacing="125%"
        id="text4546"
-       y="516.21832"
-       x="300.29187"
-       style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="516.80206"
+       x="309.09988"
+       style="font-style:normal;font-weight:normal;font-size:4.58332014px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4550"
-         y="516.21832"
-         x="300.29187"
+         y="516.80206"
+         x="309.09988"
          sodipodi:role="line" /></text>
     <g
-       transform="matrix(0.35608957,0,0,0.35608957,744.85484,346.34073)"
+       transform="matrix(0.3264145,0,0,0.3264145,716.61475,361.08135)"
        id="g4541">
       <rect
          style="opacity:1;fill:url(#linearGradient6235);fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -217,7 +217,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4567"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.91666404,0,0,0.91666404,33.833106,43.603263)"><flowRegion
          id="flowRegion4569"><rect
            id="rect4571"
            width="135.55025"
@@ -226,7 +227,7 @@
            y="-469.32938" /></flowRegion><flowPara
          id="flowPara4573" /></flowRoot>    <g
        id="g8870"
-       transform="matrix(1.404129,-0.1781498,0.1781498,1.404129,-300.28888,-123.34715)">
+       transform="matrix(1.2871146,-0.16330352,0.16330352,1.2871146,-241.43091,-69.464633)">
       <g
          id="g4728-0"
          transform="matrix(0.09968815,-1.6824141e-5,1.6824141e-5,0.09968815,558.21748,462.88212)"
