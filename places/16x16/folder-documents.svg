@@ -1,54 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
-   id="svg4256"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="folder-documents.svg">
-  <metadata
-     id="metadata4264">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4262" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="712"
-     id="namedview4260"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4256" />
-  <path
-     d="M7.5,18A5.5,5.5 0 0,1 2,12.5A5.5,5.5 0 0,1 7.5,7H18A4,4 0 0,1 22,11A4,4 0 0,1 18,15H9.5A2.5,2.5 0 0,1 7,12.5A2.5,2.5 0 0,1 9.5,10H17V11.5H9.5A1,1 0 0,0 8.5,12.5A1,1 0 0,0 9.5,13.5H18A2.5,2.5 0 0,0 20.5,11A2.5,2.5 0 0,0 18,8.5H7.5A4,4 0 0,0 3.5,12.5A4,4 0 0,0 7.5,16.5H17V18H7.5Z"
-     id="path4258"
-     style="fill:#555555" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+  </defs>
+ <path 
+           style="fill:currentColor;fill-opacity:1;stroke:none" 
+           class="ColorScheme-Text"
+        d="M 4.4,13 A 4.4,4.4 0 0 1 0,8.6 4.4,4.4 0 0 1 4.4,4.2 l 8.4,0 a 3.2,3.2 0 0 1 3.2,3.2 3.2,3.2 0 0 1 -3.2,3.2 l -6.8,0 a 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 l 6,0 0,1.2 -6,0 A 0.8,0.8 0 0 0 5.2,8.6 0.8,0.8 0 0 0 6,9.4 l 6.8,0 a 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 l -8.4,0 a 3.2,3.2 0 0 0 -3.2,3.2 3.2,3.2 0 0 0 3.2,3.2 l 7.6,0 0,1.2 -7.6,0 z"
+     />
 </svg>
