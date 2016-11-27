@@ -2,7 +2,16 @@
 Name=La Capitaine
 Comment=La Capitaine is an icon pack inspired by macOS and Google Material Design - a beautiful hybrid between the two most popular design specifications to date.
 Inherits=elementary,breeze,gnome
-Directories=actions/symbolic,actions/16x16,actions/scalable,animations/22x22,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/symbolic,devices/scalable,emblems/scalable,emblems/symbolic,emotes/scalable,mimetypes/scalable,mimetypes/symbolic,places/16x16,panel/16,panel/24,places/scalable,status/scalable,status/symbolic
+Directories=actions/symbolic,actions/22x22,animations/22x22,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/symbolic,devices/scalable,emblems/scalable,emblems/symbolic,emotes/scalable,mimetypes/scalable,mimetypes/symbolic,places/16x16,panel/16,panel/24,places/scalable,status/scalable,status/symbolic
+
+FollowsColorScheme=true
+
+[actions/22x22]
+Size=22
+Context=Actions
+Type=Scalable
+MinSize=16
+MaxSize=48
 
 [actions/symbolic]
 Size=16
@@ -10,18 +19,6 @@ Context=Actions
 Type=Scalable
 MinSize=8
 MaxSize=32
-
-[actions/16x16]
-Size=16
-Context=Actions
-Type=Fixed
-
-[actions/scalable]
-Size=64
-Context=Actions
-Type=Scalable
-MinSize=32
-MaxSize=256
 
 [animations/22x22]
 Size=22
@@ -68,7 +65,7 @@ Size=16
 Context=Devices
 Type=Scalable
 MinSize=8
-MaxSize=32
+MaxSize=22
 
 [emblems/scalable]
 Size=64
@@ -116,7 +113,8 @@ MaxSize=32
 Size=16
 Context=Places
 Type=Scalable
-Type=Fixed
+MinSize=16
+MaxSize=22
 
 [places/scalable]
 Size=64

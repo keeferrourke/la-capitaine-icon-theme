@@ -1,61 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="network-server-symbolic.svg">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8">
-    <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5608" />
-    </linearGradient>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="26.458333"
-     inkscape:cx="5.2724409"
-     inkscape:cy="12"
-     inkscape:current-layer="svg2" />
-  <path
-     d="M4,1H20A1,1 0 0,1 21,2V6A1,1 0 0,1 20,7H4A1,1 0 0,1 3,6V2A1,1 0 0,1 4,1M4,9H20A1,1 0 0,1 21,10V14A1,1 0 0,1 20,15H4A1,1 0 0,1 3,14V10A1,1 0 0,1 4,9M4,17H20A1,1 0 0,1 21,18V22A1,1 0 0,1 20,23H4A1,1 0 0,1 3,22V18A1,1 0 0,1 4,17M9,5H10V3H9V5M9,13H10V11H9V13M9,21H10V19H9V21M5,3V5H7V3H5M5,11V13H7V11H5M5,19V21H7V19H5Z"
-     id="path4"
-     style="fill:#555555;fill-opacity:1" />
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     class="ColorScheme-Text"
+     d="M 2.181818,0 A 0.72727273,0.72727273 0 0 0 1.4545453,0.7272727 l 0,2.9090913 A 0.72727273,0.72727273 0 0 0 2.181818,4.363636 l 11.636364,0 a 0.72727273,0.72727273 0 0 0 0.727273,-0.727272 l 0,-2.9090913 A 0.72727273,0.72727273 0 0 0 13.818182,0 L 2.181818,0 Z m 0.7272728,1.4545455 1.4545454,0 0,1.4545454 -1.4545454,0 0,-1.4545454 z m 2.9090909,0 0.7272727,0 0,1.4545454 -0.7272727,0 0,-1.4545454 z M 2.181818,5.818182 A 0.72727273,0.72727273 0 0 0 1.4545453,6.545455 l 0,2.90909 a 0.72727273,0.72727273 0 0 0 0.7272727,0.727273 l 11.636364,0 a 0.72727273,0.72727273 0 0 0 0.727273,-0.727273 l 0,-2.90909 A 0.72727273,0.72727273 0 0 0 13.818182,5.818182 l -11.636364,0 z m 0.7272728,1.454545 1.4545454,0 0,1.454546 -1.4545454,0 0,-1.454546 z m 2.9090909,0 0.7272727,0 0,1.454546 -0.7272727,0 0,-1.454546 z M 2.181818,11.636364 a 0.72727273,0.72727273 0 0 0 -0.7272727,0.727272 l 0,2.909091 A 0.72727273,0.72727273 0 0 0 2.181818,16 l 11.636364,0 a 0.72727273,0.72727273 0 0 0 0.727273,-0.727273 l 0,-2.909091 a 0.72727273,0.72727273 0 0 0 -0.727273,-0.727272 l -11.636364,0 z m 0.7272728,1.454545 1.4545454,0 0,1.454546 -1.4545454,0 0,-1.454546 z m 2.9090909,0 0.7272727,0 0,1.454546 -0.7272727,0 0,-1.454546 z"
+     />
 </svg>
