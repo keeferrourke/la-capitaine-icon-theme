@@ -18,7 +18,7 @@ Size=16
 Context=Actions
 Type=Scalable
 MinSize=8
-MaxSize=32
+MaxSize=128
 
 [animations/22x22]
 Size=22
@@ -51,7 +51,7 @@ Size=16
 Context=Categories
 Type=Scalable
 MinSize=8
-MaxSize=22
+MaxSize=128
 
 [devices/scalable]
 Size=48
@@ -65,7 +65,7 @@ Size=16
 Context=Devices
 Type=Scalable
 MinSize=8
-MaxSize=22
+MaxSize=128
 
 [emblems/scalable]
 Size=48
@@ -79,7 +79,7 @@ Size=16
 Context=Emblems
 Type=Scalable
 MinSize=8
-MaxSize=22
+MaxSize=128
 
 [emotes/scalable]
 Size=64
