@@ -1,14 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="font-select-symbolic.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="39.8125"
+     inkscape:cx="3.5290424"
+     inkscape:cy="8"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#bebebe;
       }
       </style>
   </defs>
- <path 
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-	 class="ColorScheme-Text"
-        d="M 6 3 L 6 5 L 8.90625 5 C 8.85105 5 9 5.171037 9 5.09375 L 9 6.03125 L 8 6.03125 C 6.28412 6.03125 4.96213 7.14111 4.9375 8.5 C 4.9252 9.179445 5.257 9.853231 5.8125 10.3125 C 6.368 10.771769 7.12209 11.03125 8 11.03125 L 10 11.03125 L 11 11.03125 L 11 10.03125 L 11 5.09375 C 11 3.932958 10.11821 3.015991 8.9375 3 L 8.90625 3 L 6 3 z M 0 5 L 0 11 L 4 8 L 0 5 z M 16 5 L 12 8 L 16 11 L 16 5 z M 8 8.03125 L 9 8.03125 L 9 9.03125 L 8 9.03125 C 7.48059 9.03125 7.21989 8.885536 7.09375 8.78125 C 6.96761 8.676964 6.9362 8.603213 6.9375 8.53125 C 6.9405 8.387325 7.0302 8.03125 8 8.03125 z "
-     />
+  <path
+     style="color:#bebebe;fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="m 6.25,3.9726562 0,1.75 2.5429687,0 c -0.0483,0 0.082031,0.1496574 0.082031,0.082031 l 0,0.8203125 -0.875,0 c -1.501395,0 -2.6581363,0.9711275 -2.6796875,2.1601563 C 5.30955,9.3796706 5.599875,9.969233 6.0859375,10.371094 6.572,10.772954 7.2318287,11 8,11 l 1.75,0 0.875,0 0,-0.875 0,-4.3203125 c 0,-1.015693 -0.7715663,-1.8180391 -1.8046875,-1.8320313 l -0.027344,0 -2.5429687,0 z M 1,5.7226562 1,10.972656 4.5,8.3476563 1,5.7226562 Z m 14,0 -3.5,2.6250001 3.5,2.6249997 0,-5.2499998 z M 8,8.375 l 0.875,0 0,0.875 L 8,9.25 C 7.5455163,9.25 7.3174038,9.1225003 7.2070312,9.03125 7.0966587,8.9399998 7.069175,8.8754676 7.0703125,8.8125 7.0729375,8.6865656 7.151425,8.375 8,8.375 Z"
+     id="path6"
+     inkscape:connector-curvature="0" />
 </svg>
