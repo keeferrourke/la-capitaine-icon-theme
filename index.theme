@@ -29,7 +29,7 @@ Type=Scalable
 Size=48
 Context=Applications
 Type=Scalable
-MinSize=32
+MinSize=8
 MaxSize=256
 
 [apps/symbolic]
