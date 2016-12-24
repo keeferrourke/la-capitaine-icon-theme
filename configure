@@ -28,7 +28,8 @@
 # formats text to lower and removes whitespace and non-alpha chars
 format() {
     name=$(awk '{print tolower($0)}' <<< $1)
-    sed 's/\s+//g;s/[^a-z]//g'<<< $name
+    name=$(sed 's/\s+//g;s/[^a-z]//g'<<< $name)
+    echo $name
 }
 
 # define variables
@@ -56,6 +57,7 @@ distromatch() {
         manjaro) ln -sf distributor-logo-manjaro.svg distributor-logo.svg ;;
 	    nixos) ln -sf distributor-logo-nixos.svg distributor-logo.svg ;;
         opensuse) ln -sf distributor-logo-opensuse.svg distributor-logo.svg ;;
+        solus) ln -sf distributor-logo-solus.svg distributor-logo.svg ;;
         ubuntu) ln -sf distributor-logo-ubuntu.svg distributor-logo.svg ;;
         *) return 1 ;;
     esac
@@ -63,7 +65,7 @@ distromatch() {
 
 # in case lsb_release detection fails, try /etc/os-release
 alt_distromatch() {
-    local pattern="ID=arch:ID=opensuse:ID=raspbian:ID=ubuntu:ID=nixos"
+    local pattern="ID=arch:ID=opensuse:ID=raspbian:ID=ubuntu:ID=nixos:ID=solus"
     local IFS=:
     distro_error=1
     for i in $pattern; do
@@ -88,14 +90,15 @@ read -p "Use distributor logo from desktop environment? [y/N] " yn
 case $yn in
     [Yy]* )
         case $DE in
+            budgie|budgiegnome) ln -sf distributor-logo-budgie.svg distributor-logo.svg ;;
             gnome) ln -sf distributor-logo-gnome.svg distributor-logo.svg ;;
             unity) ln -sf distributor-logo-unity.svg distributor-logo.svg ;;
             xfce) ln -sf distributor-logo-xfce.svg distributor-logo.svg ;;
             lxde) ln -sf distributor-logo-lxde.svg distributor-logo.svg ;;
             kde) ln -sf distributor-logo-kde.svg distributor-logo.svg ;;
-            *) 
+            *)
                 echo "Could not determine desktop environment... Using distribution logo."
-                de_error=1 
+                de_error=1
             ;;
          esac
     ;;
@@ -124,8 +127,8 @@ case $DISTRO in
 	fedora) ln -sf application-x-rpm-fedora.svg application-x-rpm.svg ;;
     debian|raspbian) ln -sf application-x-deb-debian.svg application-x-deb.svg ;;
     ubuntu) ln -sf application-x-deb-ubuntu.svg application-x-deb.svg ;;
-    linuxmint) 
-        ln -sf application-x-deb-linuxmint.svg application-x-deb.svg 
+    linuxmint)
+        ln -sf application-x-deb-linuxmint.svg application-x-deb.svg
 	    ln -sf application-x-desktop-linuxmint.svg application-x-desktop.svg
     ;;
     * )
@@ -137,6 +140,7 @@ esac
 echo "Updated package archive icons."
 
 case $DE in
+    budgie|budgiegnome) ln -sf application-x-desktop-budgie.svg application-x-desktop.svg ;;
     gnome) ln -sf application-x-desktop-gnome.svg application-x-desktop.svg ;;
     unity) ln -sf application-x-desktop-unity.svg application-x-desktop.svg ;;
     lxde) ln -sf application-x-desktop-lxde.svg application-x-desktop.svg ;;
@@ -144,4 +148,4 @@ case $DE in
     kde) ln -sf application-x-desktop-kde.svg application-x-desktop.svg ;;
 esac
 
-echo "Updated mimetype icons."
+echo "Updated desktop mimetype icons."
