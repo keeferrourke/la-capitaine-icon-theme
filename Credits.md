@@ -1,4 +1,4 @@
-Credits
+#####Credits
 
  * The creators of El General/Antu, off which La Capitaine is based: https://github.com/fabianalexisinostroza/Antu
  * The creators of Numix icon set, the base of El General: https://github.com/numixproject/numix-icon-theme-circle
