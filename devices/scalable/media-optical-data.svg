@@ -2,7 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -83,7 +82,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568546"
-     inkscape:cx="21.91039"
+     inkscape:cx="-9.5558598"
      inkscape:cy="33.998411"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -103,7 +102,7 @@
      inkscape:snap-bbox="true"
      inkscape:object-nodes="true"
      inkscape:snap-global="true"
-     showborder="false">
+     showborder="true">
     <inkscape:grid
        type="xygrid"
        id="grid4063"
@@ -146,12 +145,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-376.57144,-491.79797)">
@@ -165,45 +164,5 @@
        d="M 32 23 C 27.014 23 23 27.014 23 32 C 23 36.986 27.014 41 32 41 C 36.986 41 41 36.986 41 32 C 41 27.014 36.986 23 32 23 z M 32 24 A 8 8 0 0 1 40 32 A 8 8 0 0 1 32 40 A 8 8 0 0 1 24 32 A 8 8 0 0 1 32 24 z M 32 25 A 7 7 0 0 0 25 32 A 7 7 0 0 0 32 39 A 7 7 0 0 0 39 32 A 7 7 0 0 0 32 25 z M 32 29 C 33.662 29 35 30.338 35 32 C 35 33.662 33.662 35 32 35 C 30.338 35 29 33.662 29 32 C 29 30.338 30.338 29 32 29 z "
        transform="translate(376.57144,491.79797)"
        id="rect4270" />
-    <g
-       transform="matrix(0.9125,0,0,0.9125,418.36732,-429.59443)"
-       id="layer1-1"
-       inkscape:label="Capa 1"
-       style="fill:#6c747d;fill-opacity:1">
-      <g
-         style="fill:#6c747d;fill-opacity:1;stroke:#4f96d1;stroke-opacity:1"
-         inkscape:label="Capa 1"
-         id="layer1-0"
-         transform="matrix(0.90537551,0,0,0.90537551,-365.91682,562.06022)" />
-      <g
-         inkscape:label="Capa 1"
-         id="layer1-00"
-         transform="matrix(0.90853357,0,0,0.90853357,-364.12567,559.9656)"
-         style="fill:#6c747d;fill-opacity:1">
-        <g
-           inkscape:label="Capa 1"
-           id="layer1-4"
-           transform="translate(5.05585,-5.251147)"
-           style="fill:#6c747d;fill-opacity:1">
-          <g
-             style="fill:#6c747d;fill-opacity:1;stroke:#000000;stroke-opacity:0.8"
-             inkscape:label="Capa 1"
-             id="layer1-9"
-             transform="translate(-11.317,5.8824915)">
-            <g
-               style="fill:#6c747d;fill-opacity:1;stroke:none;stroke-opacity:1"
-               id="g4187"
-               transform="matrix(0.7863692,0,0,0.78394543,93.325829,112.35451)">
-              <path
-                 inkscape:connector-curvature="0"
-                 d="m 408.99594,530.99649 -5.24403,6.7328 c -0.98326,1.2624 -0.708,3.5111 0.5505,4.4974 1.25852,0.98629 3.50028,0.71019 4.48354,-0.55221 l 5.24403,-6.73281 0.65549,-0.8416 c 0.65551,-0.8416 0.47201,-2.34073 -0.36699,-2.99826 -0.83901,-0.65753 -2.33352,-0.47347 -2.98902,0.36814 l -0.65551,0.8416 -3.93302,5.0496 -0.6555,0.8416 c -0.32776,0.4208 -0.236,1.17037 0.1835,1.49914 0.4195,0.32875 1.16676,0.23673 1.49451,-0.18407 l 4.58852,-5.89121 0.83901,0.65753 -4.58852,5.8912 c -0.65551,0.84161 -2.15002,1.02568 -2.98902,0.36814 -0.83901,-0.65753 -1.02252,-2.15666 -0.36702,-2.99826 l 0.65551,-0.8416 4.58853,-5.8912 c 0.98325,-1.26241 3.22501,-1.5385 4.48353,-0.55221 1.25851,0.98629 1.53377,3.23499 0.55051,4.49739 l -0.6555,0.84161 -5.24403,6.73279 c -1.31102,1.68321 -4.30004,2.05135 -5.97805,0.73629 -1.67801,-1.31507 -2.04502,-4.31332 -0.73401,-5.99653 l 5.24403,-6.7328 0.83901,0.65753 0,0 z"
-                 id="Documents"
-                 sketch:type="MSShapeGroup"
-                 style="fill:#6c747d;fill-opacity:1;stroke:none;stroke-width:0.07109061;stroke-opacity:1" />
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
   </g>
 </svg>
