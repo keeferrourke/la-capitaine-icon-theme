@@ -16,12 +16,24 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="softwarecenter.svg"
+   sodipodi:docname="yast-sw_source.svg"
    inkscape:export-filename="/home/uri/Iconos de KDE/Breeze/apps/software/firefox.png"
    inkscape:export-xdpi="1024"
    inkscape:export-ydpi="1024">
   <defs
      id="defs5455">
+    <linearGradient
+       id="linearGradient4309"
+       inkscape:collect="always">
+      <stop
+         id="stop4311"
+         offset="0"
+         style="stop-color:#139702;stop-opacity:1" />
+      <stop
+         id="stop4313"
+         offset="1"
+         style="stop-color:#80e950;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4232">
       <stop
@@ -365,7 +377,7 @@
       }</style>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4501"
+       xlink:href="#linearGradient4309"
        id="linearGradient5299"
        gradientUnits="userSpaceOnUse"
        x1="-318.57867"
@@ -408,227 +420,6 @@
        y1="653.95679"
        x2="-318.57867"
        y2="301.29816" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="517.79797"
-       x2="399.57144"
-       y1="545.79797"
-       x1="399.57144"
-       id="linearGradient4267"
-       xlink:href="#linearGradient4232"
-       inkscape:collect="always" />
-    <style
-       id="current-color-scheme-02"
-       type="text/css">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       id="current-color-scheme-8-9"
-       type="text/css">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       id="current-color-scheme-7-0"
-       type="text/css">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="517.79797"
-       x2="399.57144"
-       y1="545.79797"
-       x1="399.57144"
-       id="linearGradient4531"
-       xlink:href="#linearGradient4232"
-       inkscape:collect="always" />
-    <style
-       id="current-color-scheme-44"
-       type="text/css">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       id="current-color-scheme-8-8"
-       type="text/css">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <style
-       id="current-color-scheme-7-5"
-       type="text/css">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#eff0f1;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-    <linearGradient
-       id="linearGradient4501">
-      <stop
-         id="stop4503"
-         offset="0"
-         style="stop-color:#ff6835;stop-opacity:1" />
-      <stop
-         id="stop4505"
-         offset="1"
-         style="stop-color:#ff956f;stop-opacity:1" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -638,7 +429,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.9613497"
-     inkscape:cx="-19.198672"
+     inkscape:cx="-13.958162"
      inkscape:cy="14.349772"
      inkscape:document-units="px"
      inkscape:current-layer="g5290"
@@ -648,9 +439,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-height="630"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="36"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -761,7 +552,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -881,43 +672,4 @@
       </g>
     </g>
   </g>
-  <style
-     type="text/css"
-     id="style26">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     type="text/css"
-     id="style26-7">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
-  <style
-     id="style26-9"
-     type="text/css">
-	.specularity {opacity:0.5;}
-	.low-specularity {opacity:0.25;}
-	.full-specularity {opacity:1;}
-	.black {fill:#000000;}
-	.white {fill:#ffffff;}
-	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
-	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
-	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
-       	.base-shadow 	{fill:black;opacity:75;}
-	</style>
 </svg>
