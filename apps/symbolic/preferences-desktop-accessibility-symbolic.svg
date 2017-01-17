@@ -41,15 +41,11 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="25.291667"
-     inkscape:cx="5.0411862"
+     inkscape:cx="4.3294893"
      inkscape:cy="12"
      inkscape:current-layer="svg2" />
   <path
-     d="M0 0h24v24H0z"
-     fill="none"
-     id="path4" />
-  <path
-     d="M12 2c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm9 7h-6v13h-2v-6h-2v6H9V9H3V7h18v2z"
      id="path6"
-     style="fill:#b3b3b3;fill-opacity:1" />
+     style="fill:#b3b3b3;fill-opacity:1"
+     d="m 12,2 c 1.1,0 2,0.9 2,2 0,1.1 -0.9,2 -2,2 -1.1,0 -2,-0.9 -2,-2 0,-1.1 0.9,-2 2,-2 z m 9,7 -6,0 0,13 -2,0 0,-6 -2,0 0,6 L 9,22 9,9 3,9 3,7 21,7 21,9 Z" />
 </svg>
