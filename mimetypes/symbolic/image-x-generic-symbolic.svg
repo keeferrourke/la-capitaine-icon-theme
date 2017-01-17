@@ -8,9 +8,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="image-x-generic-symbolic.svg">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,12 +41,13 @@
      inkscape:window-height="480"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="26.458333"
-     inkscape:cx="5.2724409"
-     inkscape:cy="12"
+     inkscape:zoom="18.708867"
+     inkscape:cx="-2.7936478"
+     inkscape:cy="11.068509"
      inkscape:current-layer="svg2" />
   <path
-     d="M8.5,13.5L11,16.5L14.5,12L19,18H5M21,19V5C21,3.89 20.1,3 19,3H5A2,2 0 0,0 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19Z"
+     d="m 5.6666667,9 1.6666666,2 2.3333337,-3 3,4 -9.3333337,0 M 14,12.666667 14,3.333333 C 14,2.593333 13.4,2 12.666667,2 L 3.3333333,2 A 1.3333333,1.3333333 0 0 0 2,3.333333 l 0,9.333334 A 1.3333333,1.3333333 0 0 0 3.3333333,14 l 9.3333337,0 A 1.3333333,1.3333333 0 0 0 14,12.666667 Z"
      id="path4"
-     style="fill:#555555;fill-opacity:1" />
+     style="fill:#bebebe;fill-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>

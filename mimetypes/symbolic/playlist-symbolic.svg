@@ -8,9 +8,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="playlist-symbolic.svg">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,12 +41,13 @@
      inkscape:window-height="480"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="26.458333"
-     inkscape:cx="5.2724409"
-     inkscape:cy="12"
+     inkscape:zoom="18.708867"
+     inkscape:cx="-4.8914601"
+     inkscape:cy="11.303338"
      inkscape:current-layer="svg2" />
   <path
-     d="M19,9H2V11H19V9M19,5H2V7H19V5M2,15H15V13H2V15M17,13V19L22,16L17,13Z"
+     d="m 12.2,6.7 -10.2,0 0,1.2 10.2,0 0,-1.2 m 0,-2.4 -10.2,0 0,1.2 10.2,0 0,-1.2 m -10.2,6 7.8,0 0,-1.2 -7.8,0 0,1.2 m 9,-1.2 0,3.6 3,-1.8 -3,-1.8 z"
      id="path4"
-     style="fill:#555555;fill-opacity:1" />
+     style="fill:#bebebe;fill-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>

@@ -28,8 +28,8 @@
      bordercolor="#666666"
      borderlayer="false"
      borderopacity="1"
-     inkscape:current-layer="layer9"
-     inkscape:cx="5.1206059"
+     inkscape:current-layer="svg7384"
+     inkscape:cx="-2.7459574"
      inkscape:cy="6.0664704"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -41,7 +41,7 @@
      pagecolor="#f7f7f7"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     showborder="false"
+     showborder="true"
      showgrid="false"
      showguides="true"
      inkscape:showpageshadow="false"
@@ -106,16 +106,6 @@
          offset="0"
          style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         inkscape:collect="always"
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
     <inkscape:perspective
        id="perspective4146"
        inkscape:persp3d-origin="12 : 8 : 1"
@@ -1674,111 +1664,30 @@
     </filter>
   </defs>
   <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="status"
-     style="display:inline"
-     transform="translate(-364.99759,251)">
+     id="g4617"
+     transform="matrix(0.67670712,0,0,0.67670712,-0.12044074,-0.12048188)"
+     style="display:inline;fill:#bebebe;fill-opacity:1;enable-background:new">
     <g
-       style="enable-background:new"
-       id="g4693"
-       transform="translate(346.24759,-247.5)">
+       transform="matrix(1.2273584,0,0,1.2273584,-401.61497,-657.18424)"
+       id="rect4982-8"
+       inkscape:label="#rect4982"
+       style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-opacity:1">
       <g
-         transform="matrix(0.52112417,0,0,0.52112417,20.767536,5.3452696)"
-         id="g4250"
-         style="fill:#ffffff;fill-opacity:1">
-        <g
-           id="g3-9"
-           transform="matrix(0.02205965,0,0,0.02205965,-29.900002,-0.39149138)"
-           style="fill:#ffffff;fill-opacity:1">
-          <g
-             id="g5-4"
-             style="fill:#ffffff;fill-opacity:1" />
-        </g>
+         style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-opacity:1"
+         transform="matrix(0.11545321,0,0,0.11545321,328.568,537.94962)"
+         sketch:type="MSLayerGroup"
+         id="sitemap1-4">
+        <path
+           style="fill:#bebebe;fill-opacity:1;stroke:none;stroke-opacity:1"
+           inkscape:connector-curvature="0"
+           sketch:type="MSShapeGroup"
+           id="path6132-0"
+           d="m 143.721,86.139 c -1.521,-1.521 -3.367,-2.281 -5.541,-2.281 l -7.82,0 0,-15.644 c 0,-2.824 -1.033,-5.269 -3.096,-7.332 -2.064,-2.065 -4.51,-3.097 -7.334,-3.097 l -41.714,0 0,-15.643 7.82,0 c 2.174,0 4.021,-0.76 5.541,-2.281 1.521,-1.52 2.28,-3.367 2.28,-5.54 l 0,-26.071 c 0,-2.173 -0.76,-4.02 -2.28,-5.54 C 90.056,1.189 88.21,0.429 86.036,0.429 l -26.071,0 c -2.173,0 -4.019,0.76 -5.54,2.281 -1.521,1.52 -2.281,3.367 -2.281,5.54 l 0,26.071 c 0,2.173 0.76,4.019 2.281,5.54 1.52,1.521 3.367,2.281 5.54,2.281 l 7.821,0 0,15.643 -41.714,0 c -2.825,0 -5.269,1.033 -7.333,3.097 -2.064,2.063 -3.096,4.508 -3.096,7.332 l 0,15.644 -7.822,0 c -2.172,0 -4.019,0.761 -5.54,2.281 C 0.76,87.659 0,89.506 0,91.679 l 0,26.071 c 0,2.173 0.76,4.02 2.281,5.54 1.521,1.521 3.368,2.281 5.54,2.281 l 26.072,0 c 2.172,0 4.019,-0.761 5.54,-2.281 1.521,-1.52 2.281,-3.367 2.281,-5.54 l 0,-26.071 c 0,-2.173 -0.76,-4.019 -2.281,-5.54 -1.521,-1.521 -3.368,-2.281 -5.54,-2.281 l -7.822,0 0,-15.644 41.714,0 0,15.644 -7.821,0 c -2.173,0 -4.019,0.761 -5.54,2.281 -1.521,1.52 -2.281,3.367 -2.281,5.54 l 0,26.071 c 0,2.173 0.76,4.02 2.281,5.54 1.52,1.521 3.367,2.281 5.54,2.281 l 26.071,0 c 2.174,0 4.02,-0.761 5.541,-2.281 1.52,-1.521 2.281,-3.367 2.281,-5.54 l 0,-26.071 c 0,-2.173 -0.76,-4.019 -2.281,-5.54 -1.521,-1.521 -3.367,-2.281 -5.541,-2.281 l -7.82,0 0,-15.644 41.715,0 0,15.644 -7.822,0 c -2.172,0 -4.02,0.761 -5.541,2.281 -1.52,1.521 -2.28,3.367 -2.28,5.54 l 0,26.071 c 0,2.173 0.76,4.02 2.28,5.54 1.521,1.521 3.369,2.281 5.541,2.281 l 26.072,0 c 2.172,0 4.018,-0.761 5.539,-2.281 1.521,-1.52 2.281,-3.367 2.281,-5.54 l 0,-26.071 c 0,-2.173 -0.76,-4.02 -2.279,-5.54 l 0,0 z" />
       </g>
     </g>
     <g
-       id="layer1-59"
-       transform="translate(324.04032,-243.34074)">
-      <g
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         id="layer9-9"
-         transform="translate(-301,-257)" />
-    </g>
-    <g
-       id="g4617"
-       transform="matrix(0.67670712,0,0,0.67670712,364.8771,-251.12048)"
-       style="fill:#565656;fill-opacity:0.34901961">
-      <g
-         transform="matrix(1.2273584,0,0,1.2273584,-401.61497,-657.18424)"
-         id="rect4982-8"
-         inkscape:label="#rect4982"
-         style="fill:#565656;fill-opacity:0.34901961;stroke:none;stroke-opacity:1">
-        <g
-           style="fill:#565656;fill-opacity:0.34901961;stroke:none;stroke-opacity:1"
-           transform="matrix(0.11545321,0,0,0.11545321,328.568,537.94962)"
-           sketch:type="MSLayerGroup"
-           id="sitemap1-4">
-          <path
-             style="fill:#565656;fill-opacity:0.34901961;stroke:none;stroke-opacity:1"
-             inkscape:connector-curvature="0"
-             sketch:type="MSShapeGroup"
-             id="path6132-0"
-             d="m 143.721,86.139 c -1.521,-1.521 -3.367,-2.281 -5.541,-2.281 l -7.82,0 0,-15.644 c 0,-2.824 -1.033,-5.269 -3.096,-7.332 -2.064,-2.065 -4.51,-3.097 -7.334,-3.097 l -41.714,0 0,-15.643 7.82,0 c 2.174,0 4.021,-0.76 5.541,-2.281 1.521,-1.52 2.28,-3.367 2.28,-5.54 l 0,-26.071 c 0,-2.173 -0.76,-4.02 -2.28,-5.54 C 90.056,1.189 88.21,0.429 86.036,0.429 l -26.071,0 c -2.173,0 -4.019,0.76 -5.54,2.281 -1.521,1.52 -2.281,3.367 -2.281,5.54 l 0,26.071 c 0,2.173 0.76,4.019 2.281,5.54 1.52,1.521 3.367,2.281 5.54,2.281 l 7.821,0 0,15.643 -41.714,0 c -2.825,0 -5.269,1.033 -7.333,3.097 -2.064,2.063 -3.096,4.508 -3.096,7.332 l 0,15.644 -7.822,0 c -2.172,0 -4.019,0.761 -5.54,2.281 C 0.76,87.659 0,89.506 0,91.679 l 0,26.071 c 0,2.173 0.76,4.02 2.281,5.54 1.521,1.521 3.368,2.281 5.54,2.281 l 26.072,0 c 2.172,0 4.019,-0.761 5.54,-2.281 1.521,-1.52 2.281,-3.367 2.281,-5.54 l 0,-26.071 c 0,-2.173 -0.76,-4.019 -2.281,-5.54 -1.521,-1.521 -3.368,-2.281 -5.54,-2.281 l -7.822,0 0,-15.644 41.714,0 0,15.644 -7.821,0 c -2.173,0 -4.019,0.761 -5.54,2.281 -1.521,1.52 -2.281,3.367 -2.281,5.54 l 0,26.071 c 0,2.173 0.76,4.02 2.281,5.54 1.52,1.521 3.367,2.281 5.54,2.281 l 26.071,0 c 2.174,0 4.02,-0.761 5.541,-2.281 1.52,-1.521 2.281,-3.367 2.281,-5.54 l 0,-26.071 c 0,-2.173 -0.76,-4.019 -2.281,-5.54 -1.521,-1.521 -3.367,-2.281 -5.541,-2.281 l -7.82,0 0,-15.644 41.715,0 0,15.644 -7.822,0 c -2.172,0 -4.02,0.761 -5.541,2.281 -1.52,1.521 -2.28,3.367 -2.28,5.54 l 0,26.071 c 0,2.173 0.76,4.02 2.28,5.54 1.521,1.521 3.369,2.281 5.541,2.281 l 26.072,0 c 2.172,0 4.018,-0.761 5.539,-2.281 1.521,-1.52 2.281,-3.367 2.281,-5.54 l 0,-26.071 c 0,-2.173 -0.76,-4.02 -2.279,-5.54 l 0,0 z" />
-        </g>
-      </g>
-      <g
-         transform="translate(19.800374,5.3191632)"
-         id="g4159"
-         style="fill:#565656;fill-opacity:0.34901961" />
-    </g>
+       transform="translate(19.800374,5.3191632)"
+       id="g4159"
+       style="fill:#bebebe;fill-opacity:1" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="devices"
-     style="display:inline;filter:url(#filter7554)"
-     transform="translate(-364.99759,251)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="places"
-     style="display:inline"
-     transform="translate(-123.99739,-366)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer14"
-     inkscape:label="mimetypes"
-     style="display:inline"
-     transform="translate(-364.99759,251)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer15"
-     inkscape:label="emblems"
-     style="display:inline"
-     transform="translate(-364.99759,251)" />
-  <g
-     inkscape:groupmode="layer"
-     id="g71291"
-     inkscape:label="emotes"
-     style="display:inline"
-     transform="translate(-364.99759,251)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="categories"
-     style="display:inline"
-     transform="translate(-123.99739,-216)" />
-  <g
-     inkscape:groupmode="layer"
-     id="g6058"
-     inkscape:label="apps"
-     style="display:inline"
-     transform="translate(-123.99739,-216)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer12"
-     inkscape:label="actions"
-     style="display:inline"
-     transform="translate(-364.99759,251)" />
 </svg>

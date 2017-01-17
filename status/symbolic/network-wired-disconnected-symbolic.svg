@@ -15,7 +15,7 @@
    viewBox="0 0 24 24"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="network-wired-offline-symbolic.svg">
+   sodipodi:docname="network-wired-disconnected-symbolic.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1695,59 +1695,59 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="7.2760417"
-     inkscape:cx="57.226258"
-     inkscape:cy="60.337643"
+     inkscape:cx="-0.22256063"
+     inkscape:cy="5.3626969"
      inkscape:current-layer="svg2" />
   <g
      id="g3-9"
      transform="matrix(0.01149582,0,0,0.01149582,-3.3254937,13.433491)"
-     style="fill:#323232;fill-opacity:0.4">
+     style="fill:#bebebe;fill-opacity:1">
     <g
        id="g5-4"
-       style="fill:#323232;fill-opacity:0.4" />
+       style="fill:#bebebe;fill-opacity:1" />
   </g>
   <g
-     style="font-style:normal;font-weight:normal;font-size:11.59667683px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#323232;fill-opacity:0.4;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;font-size:11.59667683px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="text4361"
      transform="matrix(0.70106994,0,0,0.70106994,1.4288367,11.579274)" />
   <g
-     style="fill:#323232;fill-opacity:0.4"
+     style="fill:#bebebe;fill-opacity:1"
      transform="matrix(0.65607521,0,0,0.75,-218.09736,-397.02165)"
      id="layer1"
      inkscape:label="Capa 1">
     <g
-       style="fill:#323232;fill-opacity:0.4"
+       style="fill:#bebebe;fill-opacity:1"
        inkscape:label="Capa 1"
        id="layer1-9"
        transform="matrix(0,-1.082475,-1.082475,0,1464.6747,557.15411)">
       <g
          transform="matrix(1.1827033e-4,0.03271224,-0.03271224,1.1827033e-4,18.268695,1034.3501)"
          id="g3"
-         style="fill:#323232;fill-opacity:0.4">
+         style="fill:#bebebe;fill-opacity:1">
         <path
            inkscape:connector-curvature="0"
            id="path5"
            d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
-           style="fill:#323232;fill-opacity:0.4" />
+           style="fill:#bebebe;fill-opacity:1" />
       </g>
     </g>
   </g>
   <g
-     style="fill:#323232;fill-opacity:0.4"
+     style="fill:#bebebe;fill-opacity:1"
      inkscape:label="Capa 1"
      id="g4290"
      transform="matrix(-0.65607521,0,0,-0.75,242.09736,421.02165)">
     <g
-       style="fill:#323232;fill-opacity:0.4"
+       style="fill:#bebebe;fill-opacity:1"
        transform="matrix(0,-1.082475,-1.082475,0,1464.6747,557.15411)"
        id="g4292"
        inkscape:label="Capa 1">
       <g
-         style="fill:#323232;fill-opacity:0.4"
+         style="fill:#bebebe;fill-opacity:1"
          id="g4294"
          transform="matrix(1.1827033e-4,0.03271224,-0.03271224,1.1827033e-4,18.268695,1034.3501)">
         <path
-           style="fill:#323232;fill-opacity:0.4"
+           style="fill:#bebebe;fill-opacity:1"
            d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
            id="path4296"
            inkscape:connector-curvature="0" />
@@ -1755,19 +1755,19 @@
     </g>
   </g>
   <circle
-     style="opacity:1;fill:#323232;fill-opacity:0.4;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4298"
      cx="7"
      cy="12"
      r="1.5" />
   <circle
-     style="opacity:1;fill:#323232;fill-opacity:0.4;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle4302"
      cx="17"
      cy="12"
      r="1.5" />
   <circle
-     style="opacity:1;fill:#0044aa;fill-opacity:1"
+     style="opacity:1;fill:#bebebe;fill-opacity:1"
      id="path4136-1"
      cx="-29.360397"
      cy="-13.082498"
@@ -1775,7 +1775,7 @@
      r="0" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:35.82603073px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;font-size:35.82603073px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
      x="-16.586302"
      y="43.423546"
      id="text4162"
@@ -1784,11 +1784,11 @@
        id="tspan4164"
        x="-16.586302"
        y="43.423546"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#ffffff" /></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#bebebe;fill-opacity:1;" /></text>
   <path
      id="rect4217"
      d="m 12.101209,4.7690172 0.0068,0 c 0.594752,0 1.07356,0.4787931 1.07356,1.0735283 l 0,7.5452195 c 0,0.594789 -0.478808,1.073582 -1.07356,1.073582 l -0.0068,0 c -0.594752,0 -1.073559,-0.478793 -1.073559,-1.073582 l 0,-7.5452195 c 0,-0.5947352 0.478807,-1.0735283 1.073559,-1.0735283 z"
-     style="opacity:1;fill:#323232;fill-opacity:1"
+     style="opacity:1;fill:#bebebe;fill-opacity:1"
      inkscape:connector-curvature="0" />
   <rect
      rx="9.4764843"
@@ -1798,34 +1798,37 @@
      height="2.1538563"
      width="2.1538563"
      id="rect4681"
-     style="opacity:1;fill:#323232;fill-opacity:1" />
+     style="opacity:1;fill:#bebebe;fill-opacity:1" />
   <g
      transform="matrix(0.02438073,0,0,0.02438073,-52.385378,12.992252)"
-     id="g3-2">
+     id="g3-2"
+     style="fill:#bebebe;fill-opacity:1">
     <g
-       id="g5" />
+       id="g5"
+       style="fill:#bebebe;fill-opacity:1" />
   </g>
   <g
      transform="translate(12.36779,-37.15462)"
      id="g4693"
-     style="enable-background:new">
+     style="enable-background:new;fill:#bebebe;fill-opacity:1">
     <g
-       style="fill:#ffffff;fill-opacity:1"
+       style="fill:#bebebe;fill-opacity:1"
        id="g4250"
        transform="matrix(0.52112417,0,0,0.52112417,20.767536,5.3452696)">
       <g
-         style="fill:#ffffff;fill-opacity:1"
+         style="fill:#bebebe;fill-opacity:1"
          transform="matrix(0.02205965,0,0,0.02205965,-29.900002,-0.39149138)"
          id="g3-9-9">
         <g
-           style="fill:#ffffff;fill-opacity:1"
+           style="fill:#bebebe;fill-opacity:1"
            id="g5-4-2" />
       </g>
     </g>
   </g>
   <g
      transform="translate(-9.83948,-32.99536)"
-     id="layer1-59">
+     id="layer1-59"
+     style="fill:#bebebe;fill-opacity:1">
     <g
        transform="translate(-301,-257)"
        id="layer9-9"

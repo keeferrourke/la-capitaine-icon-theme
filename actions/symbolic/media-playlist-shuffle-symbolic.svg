@@ -1,14 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3247"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="media-playlist-shuffle-symbolic.svg">
+  <metadata
+     id="metadata3255">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3253"
+     showgrid="false"
+     inkscape:zoom="41.1875"
+     inkscape:cx="4.2124431"
+     inkscape:cy="8"
+     inkscape:current-layer="svg3247" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#bebebe;
       }
       </style>
   </defs>
- <path 
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-	 class="ColorScheme-Text"
-        d="M 2.2338866,1 1,2.2338866 5.5236817,6.7575681 6.7661137,5.5236817 2.2338866,1 Z M 10.1875,1 11.97168,2.7841797 1,13.766114 2.2338866,15 13.21582,4.0283203 15,5.8125 15,1 10.1875,1 Z M 10.476318,9.2338863 9.2424319,10.467773 11.981933,13.205567 10.1875,15 15,15 15,10.1875 13.21582,11.97168 10.476318,9.2338863 Z"
-     />
+  <path
+     style="color:#bebebe;fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="M 3.4694828,2.5 2.5,3.469485 6.0543211,7.023805 7.0305183,6.05432 3.4694828,2.5 Z M 9.71875,2.5 11.120605,3.901851 2.5,12.530515 3.4694828,13.5 12.098145,4.879399 13.5,6.28125 13.5,2.5 9.71875,2.5 Z M 9.94568,8.969485 8.976195,9.939025 11.128661,12.090141 9.71875,13.5 13.5,13.5 13.5,9.71875 12.098145,11.120601 9.9456778,8.969485 Z"
+     id="path3251"
+     inkscape:connector-curvature="0" />
 </svg>

@@ -9,9 +9,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="application-certificate-symbolic.svg">
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,12 +61,13 @@
      inkscape:window-height="480"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="26.458333"
-     inkscape:cx="5.2724409"
-     inkscape:cy="12"
+     inkscape:zoom="13.229167"
+     inkscape:cx="0.86266192"
+     inkscape:cy="10.807619"
      inkscape:current-layer="svg2" />
   <path
-     d="M4,3C2.89,3 2,3.89 2,5V15A2,2 0 0,0 4,17H12V22L15,19L18,22V17H20A2,2 0 0,0 22,15V8L22,6V5A2,2 0 0,0 20,3H16V3H4M12,5L15,7L18,5V8.5L21,10L18,11.5V15L15,13L12,15V11.5L9,10L12,8.5V5M4,5H9V7H4V5M4,9H7V11H4V9M4,13H9V15H4V13Z"
+     d="M 3.2,2.4 C 2.534,2.4 2,2.934 2,3.6 l 0,6 a 1.2,1.2 0 0 0 1.2,1.2 l 4.8,0 0,3 1.8,-1.8 1.8,1.8 0,-3 1.2,0 A 1.2,1.2 0 0 0 14,9.6 L 14,5.4 14,4.2 14,3.6 A 1.2,1.2 0 0 0 12.8,2.4 l -2.4,0 0,0 -7.2,0 m 4.8,1.2 1.8,1.2 1.8,-1.2 0,2.1 1.8,0.9 -1.8,0.9 0,2.1 L 9.8,8.4 8,9.6 8,7.5 6.2,6.6 8,5.7 8,3.6 m -4.8,0 3,0 0,1.2 -3,0 0,-1.2 M 3.2,6 5,6 5,7.2 3.2,7.2 3.2,6 m 0,2.4 3,0 0,1.2 -3,0 0,-1.2 z"
      id="path4"
-     style="fill:#555555;fill-opacity:1" />
+     style="fill:#bebebe;fill-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>
