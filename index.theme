@@ -7,7 +7,7 @@ Directories=actions/symbolic,actions/22x22,animations/22x22,apps/scalable,apps/s
 FollowsColorScheme=true
 
 [actions/22x22]
-Size=16
+Size=22
 Context=Actions
 Type=Scalable
 MinSize=16
@@ -38,20 +38,6 @@ Context=Applications
 Type=Scalable
 MinSize=8
 MaxSize=22
-
-[categories/scalable]
-Size=48
-Context=Categories
-Type=Scalable
-MinSize=32
-MaxSize=256
-
-[categories/symbolic]
-Size=16
-Context=Categories
-Type=Scalable
-MinSize=8
-MaxSize=128
 
 [devices/scalable]
 Size=48
