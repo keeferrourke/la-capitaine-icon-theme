@@ -16,7 +16,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="google-play.svg"
+   sodipodi:docname="chrome-google-play-store.svg"
    inkscape:export-filename="/home/uri/Iconos de KDE/Breeze/apps/software/firefox.png"
    inkscape:export-xdpi="1024"
    inkscape:export-ydpi="1024">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.016408"
-     inkscape:cx="28.287446"
+     inkscape:cx="2.9183398"
      inkscape:cy="23.965208"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -659,17 +659,6 @@
        id="linearGradient4796"
        xlink:href="#linearGradient4321"
        inkscape:collect="always" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4447">
-      <rect
-         x="386.49716"
-         width="44.154495"
-         height="9.5987968"
-         id="rect4449"
-         style="fill:#ececec;fill-opacity:1"
-         y="500.28394" />
-    </clipPath>
   </defs>
   <metadata
      id="metadata5458">
@@ -687,9 +676,9 @@
      transform="translate(-384.57143,-499.798)"
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Capa 1">
+     inkscape:label="Layer 1">
     <g
-       inkscape:label="Capa 1"
+       inkscape:label="Layer 1"
        id="layer1-5"
        transform="translate(-28.567665,74.673187)">
       <g
@@ -699,7 +688,7 @@
            id="g4571-5"
            transform="matrix(1.2040873,0,0,1.2040873,63.520816,-89.411289)">
           <g
-             inkscape:label="Capa 1"
+             inkscape:label="Layer 1"
              id="layer1-9"
              transform="matrix(15.075,0,0,15.075,-6218.9215,-8263.6188)">
             <circle
@@ -713,7 +702,7 @@
       </g>
     </g>
     <g
-       inkscape:label="Capa 1"
+       inkscape:label="Layer 1"
        id="layer1-4"
        transform="translate(-42.222561,-4.9653112)"
        style="display:inline" />
@@ -726,7 +715,7 @@
     <g
        transform="translate(351.18357,-521.76749)"
        id="layer1-40"
-       inkscape:label="Capa 1" />
+       inkscape:label="Layer 1" />
     <rect
        y="500.28394"
        style="fill:#ececec;fill-opacity:1"
@@ -746,10 +735,10 @@
        points="4,20 12,20 12,8 4,0 " />
     <path
        style="fill:#000000;fill-opacity:0.07843137"
+       clip-path="none"
+       d="m 390.3312,503.24331 -3.83399,2.4668 0,2.48047 2.62891,1.6914 11.51953,0 -10.31445,-6.63867 z"
        id="path4338"
-       d="m 384.57143,506.95084 5.75928,-3.70675 50.90535,32.76335 -5.75928,3.70675 z"
-       inkscape:connector-curvature="0"
-       clip-path="url(#clipPath4447)" />
+       inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient4284);fill-opacity:1"
