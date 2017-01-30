@@ -5,6 +5,9 @@ Thank you so much to the generous people who are helping to support this project
 This is a list of people who have supported me with significant _code_ contributions. Cheers to them! :grin:
 
  * Andreas K. ([@DarkknightAK](https://github.com/darkknightak))
+    - added proper support for the KDE Plasma desktop environment
+ * [@RaitaroH](https://github.com/RaitaroH)
+    - recoloured many many icons to make the dark variant of La Capitaine possible
 
 #### Significant donors
 This is a list of people who have supported me with significant donations through [Paypal](https://paypal.me/keeferrourke) or [Patreon](https://www.patreon.com/krourke). Cheers to them! :grin:

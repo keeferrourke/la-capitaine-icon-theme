@@ -17,6 +17,11 @@ La Capitaine comes with a configuration script which attempts to determine your 
 
 For best integration with your distro/desktop environment, please run `./configure` and follow the prompts.
 
+#### Use a dark GTK+ theme?
+La Capitaine doesn't ship with two distinct variants, because I wanted to keep the size of this project to a minimum.
+
+You'll need to run the configuration script to tell La Capitaine to update its directory structure to use the dark variant.
+
 ### License
 La Capitaine is a fork of the El General icon theme for the GNOME desktop with significant changes.
 El General is in turn a fork of the Numix-circle icon theme.
@@ -24,21 +29,23 @@ As such, La Capitaine is a derivative work mostly licensed under the GPLv3.
 
 The configuration script included here is written by me and licensed under the permissive MIT license.
 
-See LICENSE and COPYING for more details.
+See the `LICENSE` and `COPYING` files for more details.
 
 ### Donations
-I'm a poor university computer science student, and I spend many hours per week working on this and other projects -- If you like this icon pack and want to support me, please consider donating via [Paypal](https://paypal.me/keeferrourke), [Patreon](https://www.patreon.com/krourke), or [Bitcoin](https://krourke.org/btc.html) :smile:
+I'm a poor university computer science student, and I spend many hours per week working on this and other projects &mdash; If you like this icon pack and want to support me, please consider donating via [Paypal](https://paypal.me/keeferrourke), [Patreon](https://www.patreon.com/krourke), or [Bitcoin](https://krourke.org/btc.html) :smile:
 
-Check out `Thanks.md` to see a list of significant donors and contributors!
+If you want to contribute to this project but can't make a monetary donation, shoot me an email and we can sort something out.
+
+Be sure to check out `Thanks.md` to see a list of significant donors and contributors!
 
 ### Icon Requests
 If there's an icon that's missing in this project, feel free to [contact me](https://krourke.org/contact) or _open an issue_.
 
 Please follow this format for requests:
 ```
-Application: _name of application_
-Icon name: _name of icon_
-Context: _e.g. app, status, action, etc. (if known)_
+Application: <name of application>
+Icon name: <name of icon>
+Context: <e.g. app, status, action, etc. (if known)>
 Icon reference:
 <attach image of original icon>
 ```
@@ -50,9 +57,9 @@ If you find that an application icon is not themed, but an icon appears in this 
 
 ### Roadmap
 To-do:
- * Change software store and management icons to something more original/generic
  * Add alternative file-browser icons (requested a few times)
- * Add alternative status, action and other 16x16 icons for dark GTK+ themes
+ * Clean up directories, de-duplicate and remove redundant icons
+ * Add design guidelines and documentation to the wiki
 
 ### Recommendations
 La Capitaine looks best with a theme based on either Material Design or macOS. Though I don't make GTK+ themes, some of my favourites are: [Flat-Plat](http://gnome-look.org/content/show.php/Flat-Plat?content=167704), [Adapta](https://github.com/tista500/Adapta), [Paper](https://snwh.org/paper/theme), [Arc](https://github.com/horst3180/arc-theme), and [Arc-OSX](http://gnome-look.org/content/show.php/Arc-OSX-themes?content=175536). Have fun, and happy theming!
