@@ -1,17 +1,17 @@
 #!/bin/bash
 
 # Copyright (c) 2015-2016 Keefer Rourke <keefer.rourke@gmail.com>
-
+#
 # Permission is hereby granted, free of charge, to any person obtaining
 # a copy of this software and associated documentation files (the "Software"),
 # to deal in the Software without restriction, including without limitation the
 # rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
 # sell copies of the Software, and to permit persons to whom the Software is
 # furnished to do so, subject to the following conditions:
-
+#
 # The above copyright notice and this permission notice shall be included in
 # all copies or substantial portions of the Software.
-
+#
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 # IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 # FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -20,10 +20,10 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-
 # this script will update various icon symlinks based on your machine's
 # reported distribution and desktop environment
 
+# function declarations
 
 # formats text to lower and removes whitespace and non-alpha chars
 format() {
@@ -32,18 +32,7 @@ format() {
     echo $name
 }
 
-# define variables
-DISTRO=$(format "$(lsb_release -si 2>/dev/null)")
-DE=$(format "$XDG_CURRENT_DESKTOP")
-
-distro_error=0
-de_error=0
-
-wd=$PWD
-
-# set distributor logo based on distro detected through lsb_release
-cd "$wd/places/scalable"
-
+# attempts to update distributor logos based on detected distro
 distromatch() {
     case $DISTRO in
         arch) ln -sf distributor-logo-archlinux.svg distributor-logo.svg ;;
@@ -82,7 +71,51 @@ alt_distromatch() {
     fi
 }
 
-# attempt to detect distribution
+# define variables
+# set distributor logo based on distro detected through lsb_release
+DISTRO=$(format "$(lsb_release -si 2>/dev/null)")
+DE=$(format "$XDG_CURRENT_DESKTOP")
+
+distro_error=0
+de_error=0
+
+wd=$PWD
+
+# update icons for dark/light GTK themes
+read -p "Use icons for dark GTK+ themes? [y/N] " yn
+case $yn in
+    [Yy]* )
+        rm "$wd/actions/22x22" "$wd/devices/scalable" "$wd/panel/16" \
+        "$wd/panel/24" "$wd/places/16x16" "$wd/status/scalable"
+
+        ln -sf "$wd/actions/22x22-dark" "$wd/actions/22x22"
+        ln -sf "$wd/devices/scalable-dark" "$wd/devices/scalable"
+        ln -sf "$wd/emblems/scalable/avatar-default-dark.svg" "$wd/emblems/scalable/avatar-default.svg"
+        ln -sf "$wd/panel/16-dark" "$wd/panel/16"
+        ln -sf "$wd/panel/24-dark" "$wd/panel/24"
+        ln -sf "$wd/places/16x16-dark" "$wd/places/16x16"
+        ln -sf "$wd/status/scalable-dark" "$wd/status/scalable"
+        echo "Updated theme to use icons for dark GTK+ themes."
+        ;;
+
+        * )
+        rm "$wd/actions/22x22" "$wd/devices/scalable" "$wd/panel/16" \
+        "$wd/panel/24" "$wd/places/16x16" "$wd/status/scalable"
+
+        ln -sf "$wd/actions/22x22-light" "$wd/actions/22x22"
+        ln -sf "$wd/devices/scalable-light" "$wd/devices/scalable"
+        ln -sf "$wd/emblems/scalable/avatar-default-light.svg" "$wd/emblems/scalable/avatar-default.svg"
+        ln -sf "$wd/panel/16-light" "$wd/panel/16"
+        ln -sf "$wd/panel/24-light" "$wd/panel/24"
+        ln -sf "$wd/places/16x16-light" "$wd/places/16x16"
+        ln -sf "$wd/status/scalable-light" "$wd/status/scalable"
+        echo "Updated theme to use icons for light GTK+ themes."
+        ;;
+esac
+
+# attempt to detect distribution and then update distributor logos
+cd "$wd/places/scalable"
+
 ! distromatch && alt_distromatch
 
 # prompt for desktop environment integration instead of distro
