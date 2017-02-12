@@ -46,6 +46,7 @@ distromatch() {
         manjaro) ln -sf distributor-logo-manjaro.svg distributor-logo.svg ;;
 	    nixos) ln -sf distributor-logo-nixos.svg distributor-logo.svg ;;
         opensuse) ln -sf distributor-logo-opensuse.svg distributor-logo.svg ;;
+        rosa|rosafreshdesktop) ln -sf distributor-logo-rosa.svg distributor-logo.svg ;;
         solus) ln -sf distributor-logo-solus.svg distributor-logo.svg ;;
         ubuntu) ln -sf distributor-logo-ubuntu.svg distributor-logo.svg ;;
         *) return 1 ;;
@@ -54,7 +55,7 @@ distromatch() {
 
 # in case lsb_release detection fails, try /etc/os-release
 alt_distromatch() {
-    local pattern="ID=arch:ID=opensuse:ID=raspbian:ID=ubuntu:ID=nixos:ID=solus"
+    local pattern="ID=arch:ID=opensuse:ID=raspbian:ID=ubuntu:ID=nixos:ID=solus:ID=rosa"
     local IFS=:
     distro_error=1
     for i in $pattern; do
