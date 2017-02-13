@@ -8,9 +8,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="nm-device-wired-secure.svg">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,12 +114,12 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="20.579754"
-     inkscape:cx="2.0108794"
+     inkscape:cx="-6.6383979"
      inkscape:cy="8.9690265"
      inkscape:current-layer="svg2" />
   <g
      id="g3-9"
-     transform="matrix(0.01149582,0,0,0.01149582,-3.3254937,13.433491)"
+     transform="matrix(0.00670589,0,0,0.00670589,-0.93986986,8.8362003)"
      style="fill:#ffffff;fill-opacity:1">
     <g
        id="g5-4"
@@ -128,9 +128,9 @@
   <g
      style="font-style:normal;font-weight:normal;font-size:11.59667683px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="text4361"
-     transform="matrix(0.70106994,0,0,0.70106994,1.4288367,11.579274)" />
+     transform="matrix(0.40895744,0,0,0.40895744,1.8334894,7.7545738)" />
   <g
-     transform="matrix(-0.02323174,-9.6018507e-5,-8.3993815e-5,0.02655764,8.2594639,6.0123778)"
+     transform="matrix(-0.01355185,-5.6010792e-5,-4.8996389e-5,0.01549196,5.8180216,4.5072179)"
      id="g3"
      style="fill:#bebebe;fill-opacity:1">
     <path
@@ -142,7 +142,7 @@
   <g
      style="fill:#bebebe;fill-opacity:1"
      id="g4294"
-     transform="matrix(0.02323174,9.6018507e-5,8.3993815e-5,-0.02655764,15.740536,17.987622)">
+     transform="matrix(0.01355185,5.6010792e-5,4.8996389e-5,-0.01549196,10.18198,11.492777)">
     <path
        style="fill:#bebebe;fill-opacity:1"
        d="M 345.441,248.292 151.154,442.573 c -12.359,12.365 -32.397,12.365 -44.75,0 -12.354,-12.354 -12.354,-32.391 0,-44.744 L 278.318,225.92 106.409,54.017 c -12.354,-12.359 -12.354,-32.394 0,-44.748 12.354,-12.359 32.391,-12.359 44.75,0 l 194.287,194.284 c 6.177,6.18 9.262,14.271 9.262,22.366 0,8.099 -3.091,16.196 -9.267,22.373 z"
@@ -152,7 +152,7 @@
   <g
      style="fill:#bebebe;fill-opacity:1"
      id="g4159"
-     transform="matrix(1.1248262,0,0,1.1248262,11.747257,10.653885)">
+     transform="matrix(0.65614858,0,0,0.65614858,7.8525675,7.2147636)">
     <g
        id="layer1-2-3"
        inkscape:label="Capa 1"
@@ -168,7 +168,7 @@
   </g>
   <g
      id="g3-9-9"
-     transform="matrix(0.01149582,0,0,0.01149582,-3.3254903,13.43349)"
+     transform="matrix(0.00670589,0,0,0.00670589,-0.93986786,8.8361998)"
      style="fill:#ffffff;fill-opacity:1">
     <g
        id="g5-4-3"
@@ -177,5 +177,5 @@
   <g
      style="font-style:normal;font-weight:normal;font-size:11.59667683px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="text4361-6"
-     transform="matrix(0.70106994,0,0,0.70106994,1.4288401,11.579273)" />
+     transform="matrix(0.40895744,0,0,0.40895744,1.8334913,7.7545732)" />
 </svg>

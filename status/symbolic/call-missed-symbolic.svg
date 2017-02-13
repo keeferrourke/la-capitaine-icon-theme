@@ -8,9 +8,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="call-missed-symbolic.svg">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,11 +42,12 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="25.291667"
-     inkscape:cx="4.9621087"
+     inkscape:cx="-2.0757825"
      inkscape:cy="12"
      inkscape:current-layer="svg2" />
   <path
-     d="M19.59,7L12,14.59L6.41,9H11V7H3V15H5V10.41L12,17.41L21,8.41"
+     d="M 13.06,4.53 8,9.59 4.2733333,5.8633333 l 3.06,0 0,-1.3333333 L 2,4.53 l 0,5.3333333 1.3333333,0 0,-3.06 L 8,11.47 l 6,-6"
      id="path4"
-     style="fill:#bebebe;fill-opacity:1" />
+     style="fill:#bebebe;fill-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>

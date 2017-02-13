@@ -8,9 +8,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="bluetooth-disabled-symbolic.svg">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,11 +42,12 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="25.291667"
-     inkscape:cx="4.9621087"
+     inkscape:cx="-2.0757825"
      inkscape:cy="12"
      inkscape:current-layer="svg2" />
   <path
-     d="M13,5.83L14.88,7.71L13.28,9.31L14.69,10.72L17.71,7.7L12,2H11V7.03L13,9.03M5.41,4L4,5.41L10.59,12L5,17.59L6.41,19L11,14.41V22H12L16.29,17.71L18.59,20L20,18.59M13,18.17V14.41L14.88,16.29"
+     d="M 8.6,4.298 9.728,5.426 8.768,6.386 9.614,7.232 11.426,5.42 8,2 7.4,2 l 0,3.018 1.2,1.2 M 4.046,3.2 3.2,4.046 7.154,8 3.8,11.354 4.646,12.2 7.4,9.446 7.4,14 8,14 10.574,11.426 11.954,12.8 12.8,11.954 m -4.2,-0.252 0,-2.256 1.128,1.128"
      id="path4"
-     style="fill:#bebebe;fill-opacity:1" />
+     style="fill:#bebebe;fill-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>

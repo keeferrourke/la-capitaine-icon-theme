@@ -9,9 +9,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="alarm-symbolic.svg">
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,11 +50,12 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="8.9419545"
-     inkscape:cx="-9.8162159"
+     inkscape:cx="-29.722378"
      inkscape:cy="22.507084"
      inkscape:current-layer="svg2" />
   <g
-     id="g4183">
+     id="g4183"
+     transform="matrix(0.59444819,0,0,0.59112155,0.82586218,0.99532595)">
     <path
        sodipodi:nodetypes="csssccsssc"
        inkscape:connector-curvature="0"
