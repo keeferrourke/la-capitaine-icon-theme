@@ -23,6 +23,13 @@ yaourt -S la-capitaine-icon-theme-git
 
 and keep yourself on the _bleeding edge_ of this repo :smile:
 
+Fedora and EPEL users can also use a third party Copr repository :
+
+```
+sudo dnf copr enable tcg/themes
+sudo dnf install la-capitaine-icon-theme
+```
+
 ### Configuration
 La Capitaine comes with a configuration script which attempts to determine your
 distribution and desktop environment. Using this information, La Capitaine
