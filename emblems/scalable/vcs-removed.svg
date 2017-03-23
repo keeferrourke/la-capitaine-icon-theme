@@ -1,18 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   id="svg7506"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="vcs-removed.svg"
+   width="24"
+   height="24">
+  <metadata
+     id="metadata7516">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview7514"
+     showgrid="false"
+     inkscape:zoom="39.8125"
+     inkscape:cx="3.5290424"
+     inkscape:cy="8"
+     inkscape:current-layer="svg7506" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Highlight {
         color:#3daee9;
       }
       </style>
   </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z "
-       class="ColorScheme-Highlight"
-     />
- <path 
-     style="fill:#ffffff;fill-opacity:1;stroke:none" 
-     d="M 3 7 L 3 9 L 13 9 L 13 7 L 3 7 z "
-     />
+  <path
+     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     d="M 12,1 A 11,11 0 0 0 1,12 11,11 0 0 0 12,23 11,11 0 0 0 23,12 11,11 0 0 0 12,1 Z"
+     class="ColorScheme-Highlight"
+     id="path7510"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     d="m 4.1428571,10.428571 0,3.142858 15.7142859,0 0,-3.142858 -15.7142859,0 z"
+     id="path7512"
+     inkscape:connector-curvature="0" />
 </svg>

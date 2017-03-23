@@ -1,13 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   id="svg4748"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="rating-unrated.svg"
+   width="24"
+   height="24">
+  <metadata
+     id="metadata4756">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4754"
+     showgrid="false"
+     inkscape:zoom="39.8125"
+     inkscape:cx="3.5290424"
+     inkscape:cy="8"
+     inkscape:current-layer="svg4748" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#4d4d4d;
       }
       </style>
   </defs>
-    <path
-       style="fill:currentColor;fill-opacity:0.6;stroke:none" 
-       d="m8.03 2l-1.875 3.939-4.15.621 2.982 3.08-.732 4.336 3.719-2.037 3.697 2.061-.684-4.34 3.02-3.062-4.143-.645zm-.008 2l1.221 2.635 2.762.432-2.01 2.041.455 2.893-2.463-1.373-2.48 1.357.488-2.891-1.988-2.055 2.766-.412z"
-       class="ColorScheme-Text" />
+  <path
+     style="color:#4d4d4d;fill:currentColor;fill-opacity:0.6;stroke:none"
+     d="M 12.043993,1 8.6070655,8.2215 1,9.36 6.466089,15.006667 5.1243126,22.956 11.941343,19.2215 18.718047,23 17.464256,15.043333 23,9.4296666 15.405766,8.2471667 Z m -0.01467,3.6666666 2.238127,4.8308333 5.062823,0.7920001 -3.684386,3.741833 0.834028,5.303833 L 11.965172,16.818 7.4192635,19.305833 8.313781,14.005666 4.6697217,10.238166 9.7398767,9.4828333 Z"
+     class="ColorScheme-Text"
+     id="path4752"
+     inkscape:connector-curvature="0" />
 </svg>
