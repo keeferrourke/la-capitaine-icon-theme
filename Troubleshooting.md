@@ -24,6 +24,7 @@ If the icon for the problematic application exists in La Capitaine, just edit th
 
 Name | Find in the `.desktop` file | Replace by
 ------------ | ------------- | -------------
+Nemo | `Icon=folder` | `Icon=nemo`
 Gcolor2 | `Icon=/usr/share/pixmaps/gcolor2/gcolor2.xpm` | `Icon=gcolor2`
 PyCharm | `Icon=/opt/pycharm-xxx/bin/pyCharm.png` | `Icon=pycharm`
 Python 2.x | `Icon=/usr/share/pixmaps/python2.x.xpm` | `Icon=python2` or `Icon=python2.x`, as you wish
