@@ -45,6 +45,9 @@ the size of this project to a minimum.
 You'll need to run the configuration script to tell La Capitaine to update its
 directory structure to use the dark variant.
 
+### Troubleshooting
+If something does not work as expected with La Capitaine, take a look at the file [`Troubleshooting.md`](Troubleshooting.md). There you'll find the most common traps, their solution and known issues. It may not be your fault.
+
 ### License
 La Capitaine is fully free software that is dual-licensed under the MIT and
 GPLv3 licenses.
