@@ -96,7 +96,7 @@ desktop environment's Appearance or Theme settings. This varies by DE.
 
 If that doesn't work either, double-check if the icon theme folder was copied
 properly to the correct location for a given user, or `/usr/share/icons` for a
-system-wide installation.r
+system-wide installation.
 
 You may also need to correct file permissions. Files (images, text documents,
 etc.) should be `rw-r--r--` or `644` in octal, directories or inodes should be
