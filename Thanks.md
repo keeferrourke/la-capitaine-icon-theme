@@ -14,4 +14,5 @@ This is a list of people who have supported me with significant _code_ contribut
 #### Significant donors
 This is a list of people who have supported me with significant donations through [Paypal](https://paypal.me/keeferrourke) or [Patreon](https://www.patreon.com/krourke). Cheers to them! :grin:
 
-(This list is empty! Help me fix this :grin:)
+ * Anonymous donation from Pling GmbH :moneybag:
+
