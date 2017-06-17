@@ -12,7 +12,7 @@
    height="24"
    viewBox="0 0 24 24"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="web-browser-symbolic.svg">
   <metadata
      id="metadata10">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,8 +46,8 @@
      inkscape:cy="12"
      inkscape:current-layer="svg2" />
   <path
-     d="M 6.5,16.5 10.02,9.02 17.5,5.5 13.98,12.98 6.5,16.5 M 12,10.01 A 0.99,0.99 0 0 0 11.01,11 0.99,0.99 0 0 0 12,11.99 0.99,0.99 0 0 0 12.99,11 0.99,0.99 0 0 0 12,10.01 M 12,0 A 11,11 0 0 1 23,11 11,11 0 0 1 12,22 11,11 0 0 1 1,11 11,11 0 0 1 12,0 m 0,2.2 A 8.8,8.8 0 0 0 3.2,11 8.8,8.8 0 0 0 12,19.8 8.8,8.8 0 0 0 20.8,11 8.8,8.8 0 0 0 12,2.2 Z"
+     d="M 7.5,16.5 10.38,10.38 16.5,7.5 13.62,13.62 7.5,16.5 M 12,11.19 A 0.81,0.81 0 0 0 11.19,12 0.81,0.81 0 0 0 12,12.81 0.81,0.81 0 0 0 12.81,12 0.81,0.81 0 0 0 12,11.19 M 12,3 a 9,9 0 0 1 9,9 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 m 0,1.8 A 7.2,7.2 0 0 0 4.8,12 7.2,7.2 0 0 0 12,19.2 7.2,7.2 0 0 0 19.2,12 7.2,7.2 0 0 0 12,4.8 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#bebebe;fill-opacity:1" />
+     style="fill:#bebebe;fill-opacity:1;stroke-width:0.81818181" />
 </svg>

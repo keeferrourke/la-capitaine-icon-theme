@@ -12,7 +12,7 @@
    height="24"
    viewBox="0 0 24 24"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="preferences-system-notifications-symbolic.svg.svg">
   <metadata
      id="metadata10">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +46,8 @@
      inkscape:cy="12"
      inkscape:current-layer="svg2" />
   <path
-     d="M14,20A2,2 0 0,1 12,22A2,2 0 0,1 10,20H14M12,2A1,1 0 0,1 13,3V4.08C15.84,4.56 18,7.03 18,10V16L21,19H3L6,16V10C6,7.03 8.16,4.56 11,4.08V3A1,1 0 0,1 12,2Z"
+     d="M 13.8,19.2 A 1.8,1.8 0 0 1 12,21 1.8,1.8 0 0 1 10.2,19.2 h 3.6 M 12,3 a 0.9,0.9 0 0 1 0.9,0.9 v 0.972 c 2.556,0.432 4.5,2.655 4.5,5.328 v 5.4 l 2.7,2.7 H 3.9 L 6.6,15.6 V 10.2 C 6.6,7.527 8.544,5.304 11.1,4.872 V 3.9 A 0.9,0.9 0 0 1 12,3 Z"
      id="path4"
-     style="fill:#bebebe;fill-opacity:1" />
+     style="fill:#bebebe;fill-opacity:1;stroke-width:0.89999998"
+     inkscape:connector-curvature="0" />
 </svg>

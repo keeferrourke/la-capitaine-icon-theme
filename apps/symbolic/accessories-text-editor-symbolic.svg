@@ -14,8 +14,8 @@
    viewBox="0 0 24 24.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="accessories-text-editor-symbolic.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="gedit-symbolic.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -40,7 +40,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -50,14 +50,9 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#bebebe;fill-opacity:1"
-       d="m 21.675046,1034.8532 c 0.433273,-0.4332 0.433273,-1.1554 0,-1.5664 l -2.599639,-2.5996 c -0.411054,-0.4333 -1.133176,-0.4333 -1.56645,0 l -2.04416,2.033 4.166088,4.1661"
-       id="path4139" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#bebebe;fill-opacity:1"
-       d="m 1.9999992,1046.1961 0,4.1661 4.1660881,0 12.2871837,-12.2983 -4.166088,-4.1661 -12.2871838,12.2983 z"
-       id="path4" />
+       id="path4"
+       style="fill:#bebebe;fill-opacity:1;stroke-width:0.89999992"
+       d="m 2.9999998,1045.6127 v 3.7495 h 3.749479 l 11.0584652,-11.0685 -3.749479,-3.7495 z m 17.7075412,-10.2086 c 0.389946,-0.3899 0.389946,-1.0399 0,-1.4098 l -2.339675,-2.3396 c -0.369949,-0.39 -1.019858,-0.39 -1.409805,0 l -1.839744,1.8297 3.749479,3.7495"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

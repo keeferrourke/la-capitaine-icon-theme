@@ -12,7 +12,7 @@
    height="24"
    viewBox="0 0 24 24"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="totem-symbolic.svg">
   <metadata
      id="metadata10">
@@ -26,7 +26,15 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs8">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -45,7 +53,7 @@
      inkscape:cy="12"
      inkscape:current-layer="svg2" />
   <path
-     d="M18,4L20,8H17L15,4H13L15,8H12L10,4H8L10,8H7L5,4H4A2,2 0 0,0 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V4H18Z"
-     id="path4"
-     style="fill:#bebebe;fill-opacity:1" />
+     style="fill:#bebebe;fill-opacity:1"
+     d="M 4 4 A 2 2 0 0 0 2 6 L 2 18 A 2 2 0 0 0 4 20 L 20 20 A 2 2 0 0 0 22 18 L 22 4 L 18 4 L 20 8 L 17 8 L 15 4 L 13 4 L 15 8 L 12 8 L 10 4 L 8 4 L 10 8 L 7 8 L 5 4 L 4 4 z M 9.6425781 11 L 14.357422 14 L 9.6425781 17 L 9.6425781 11 z "
+     id="path4" />
 </svg>
