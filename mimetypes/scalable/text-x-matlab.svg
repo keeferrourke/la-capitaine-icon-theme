@@ -157,9 +157,9 @@
      inkscape:window-height="642"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="5.2716364"
-     inkscape:cx="-24.308184"
-     inkscape:cy="30.339002"
+     inkscape:zoom="7.4552197"
+     inkscape:cx="21.225117"
+     inkscape:cy="20.063909"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -273,17 +273,35 @@
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text4523"
        transform="translate(82.893819,14.377386)">
-      <text
-         xml:space="preserve"
+      <g
+         aria-label="MATLAB"
          style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-123.3539"
-         y="45.207336"
-         id="text4593"><tspan
-           sodipodi:role="line"
-           id="tspan4591"
-           x="-123.3539"
-           y="45.207336"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Garuda;-inkscape-font-specification:Garuda;fill:#ffffff">MATLAB</tspan></text>
+         id="text4593">
+        <path
+           d="m -122.7539,45.207336 v -5.728 h 1.176 l 1.552,4.76 1.552,-4.76 h 1.176 v 5.728 h -0.76 v -4.84 l -1.624,4.84 h -0.688 l -1.624,-4.84 v 4.84 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Garuda;-inkscape-font-specification:Garuda;fill:#ffffff"
+           id="path4528" />
+        <path
+           d="m -114.40165,39.479336 h 0.736 l 2.312,5.728 h -0.816 l -0.656,-1.712 h -2.416 l -0.656,1.712 h -0.816 z m -0.584,3.344 h 1.904 l -0.624,-1.648 q -0.256,-0.696 -0.328,-1.096 -0.072,0.4 -0.328,1.096 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Garuda;-inkscape-font-specification:Garuda;fill:#ffffff"
+           id="path4530" />
+        <path
+           d="m -109.29752,45.207336 v -5.056 h -1.888 v -0.672 h 4.552 v 0.672 h -1.904 v 5.056 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Garuda;-inkscape-font-specification:Garuda;fill:#ffffff"
+           id="path4532" />
+        <path
+           d="m -105.90252,45.207336 v -5.728 h 0.76 v 5.056 h 2.816 v 0.672 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Garuda;-inkscape-font-specification:Garuda;fill:#ffffff"
+           id="path4534" />
+        <path
+           d="m -99.745397,39.479336 h 0.736 l 2.312,5.728 h -0.816 l -0.656,-1.712 h -2.416003 l -0.656,1.712 h -0.816 z m -0.584003,3.344 h 1.904003 l -0.624,-1.648 q -0.256,-0.696 -0.328,-1.096 -0.072,0.4 -0.328,1.096 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Garuda;-inkscape-font-specification:Garuda;fill:#ffffff"
+           id="path4536" />
+        <path
+           d="m -93.977272,39.479336 q 0.344,0 0.648,0.072 0.312,0.064 0.608,0.224 0.296,0.152 0.472,0.456 0.176,0.296 0.176,0.712 0,0.824 -0.816,1.208 1.072,0.328 1.072,1.4 0,1.656 -2.128,1.656 h -2.176 v -5.728 z m -0.152,2.408 q 0.712,0 1,-0.216 0.296,-0.216 0.296,-0.632 0,-0.544 -0.336,-0.712 -0.328,-0.176 -1.056,-0.176 h -1.136 v 1.736 z m 1.552,1.664 q 0,-0.488 -0.32,-0.736 -0.32,-0.256 -1.144,-0.256 h -1.32 v 1.976 h 1.416 q 0.736,0 1.048,-0.256 0.32,-0.256 0.32,-0.728 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Garuda;-inkscape-font-specification:Garuda;fill:#ffffff"
+           id="path4538" />
+      </g>
     </g>
     <g
        id="g4587"
