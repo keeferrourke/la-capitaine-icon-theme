@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    width="48"
    height="48"
    viewBox="0 0 48 48"
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,20 +39,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="959"
-     inkscape:window-height="1026"
+     inkscape:window-width="1600"
+     inkscape:window-height="840"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="-149.92625"
-     inkscape:cy="-164.85309"
-     inkscape:window-x="960"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:zoom="4"
+     inkscape:cx="11.899569"
+     inkscape:cy="28.191218"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
      id="g3254"
-     transform="matrix(0.10222222,0,0,0.10222222,-2.474457,-2.16889)">
+     transform="matrix(0.09777778,0,0,0.09777778,-1.0311117,-1.0311116)">
     <path
        style="fill:#ececec;stroke-width:0.78468841"
        d="m 236.83498,480.5103 c -49.22934,-3.37491 -89.30865,-16.81931 -106.62587,-35.7671 -6.16601,-6.74658 -7.83487,-10.35967 -9.66213,-20.91849 -5.04287,-29.14008 -54.592259,-295.72862 -55.887949,-300.69166 -8.87147,-33.981369 27.3269,-64.759097 95.995349,-81.620217 15.726,-3.86142 39.62135,-7.685376 58.58322,-9.375036 17.02485,-1.51706 56.5397,-1.51706 73.56454,0 83.07117,7.402326 145.25639,36.036866 154.62669,71.201223 1.80936,6.79012 1.65516,11.98 -0.63493,21.36921 -2.47721,10.15641 -55.9057,299.75001 -55.9057,303.02065 0,1.32759 -1.35327,5.12192 -3.00727,8.43186 -8.39357,16.79703 -36.53718,31.68245 -74.54624,39.4282 -21.15552,4.31122 -54.29844,6.44337 -76.49971,4.92136 z"
