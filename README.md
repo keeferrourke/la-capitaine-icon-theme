@@ -103,6 +103,6 @@ Though I don't make GTK+ themes, I recommend
 inspired look. Have fun, and happy theming!
 
 ### Preview
-![La Capitaine preview](preview.svg.png)
+![La Capitaine preview](.product/preview.png)
 <!-- ![La Capitaine preview](https://cdn.rawgit.com/keeferrourke/la-capitaine-icon-theme/master/preview.svg) -->
 
