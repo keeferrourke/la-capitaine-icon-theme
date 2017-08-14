@@ -16,7 +16,7 @@
    inkscape:version="0.92.1 r15371"
    width="48"
    height="48"
-   sodipodi:docname="folder-black.svg"
+   sodipodi:docname="folder-white.svg"
    viewBox="0 0 48 48">
   <metadata
      id="metadata8">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,7 +99,7 @@
        x1="10.789665"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4618"
-       xlink:href="#linearGradient4294"
+       xlink:href="#linearGradient1320"
        inkscape:collect="always"
        gradientTransform="matrix(0.80372605,0,0,0.80372605,5.2490945,4.6596575)" />
     <linearGradient
@@ -721,7 +721,7 @@
        y2="9.4915257" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4290-1"
+       xlink:href="#4271-3-3"
        id="linearGradient1264-6"
        gradientUnits="userSpaceOnUse"
        x1="-33.88871"
@@ -731,7 +731,7 @@
        gradientTransform="matrix(0.82970355,0,0,0.87402304,44.868948,7.045139)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#4271-3-3"
+       xlink:href="#linearGradient1320"
        id="linearGradient1395"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.85071011,0,0,0.87172595,45.339098,8.4618606)"
@@ -741,7 +741,7 @@
        y2="3.7577009" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1320"
+       xlink:href="#4271-3-3"
        id="linearGradient1409"
        x1="18.02523"
        y1="39.75425"
@@ -763,7 +763,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-18.380138"
+     inkscape:cx="8.738506"
      inkscape:cy="22.653232"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -825,14 +825,14 @@
   <path
      id="rect1386"
      d="m 7.499159,9.4566879 h 9.738435 c 0.277,0 0.5,0.223 0.5,0.5 v 1.1090001 c 0,0.277 -0.223,0.5 -0.5,0.5 H 7.499159 c -0.2770001,0 -0.5,-0.223 -0.5,-0.5 V 9.9566879 c 0,-0.277 0.2229999,-0.5 0.5,-0.5 z"
-     style="opacity:1;fill:url(#linearGradient1409);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:url(#linearGradient1409);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      inkscape:connector-curvature="0" />
   <path
      sodipodi:nodetypes="ssssccssssccs"
      inkscape:connector-curvature="0"
      id="path1360"
      d="m 5.5804566,12.850769 c -0.6383882,0 -1.1951591,0.543892 -1.1517441,1.21482 l 1.5120334,23.366264 c 0.043421,0.670931 0.5133569,1.214822 1.1517441,1.214822 h 14.94167 4.377195 14.941671 c 0.638388,0 1.108331,-0.543891 1.151746,-1.214822 l 1.512033,-23.366264 c 0.0434,-0.670928 -0.513358,-1.21482 -1.151744,-1.21482 H 26.411355 22.03416 Z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient1264-6);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20181656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.90366971;marker:none;enable-background:accumulate" />
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient1264-6);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:2.20181656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.90366971;marker:none;enable-background:accumulate" />
   <path
      style="opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4166)"
      d="m 28.241425,148.07206 c -12.87594,0 -23.24141,9.6069 -23.24141,21.54052 l 16,244.76159 v 7.4003 c 0,6.06398 5.26673,10.94526 11.80953,10.94526 H 479.18859 c 6.54281,0 11.81139,-4.88128 11.81139,-10.94526 l 15.998,-252.16189 c 0,-11.93362 -10.36547,-21.54052 -23.24141,-21.54052 H 28.241275 Z"
