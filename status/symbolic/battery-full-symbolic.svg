@@ -14,7 +14,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="battery-full-symbolic.svg">
   <sodipodi:namedview
      pagecolor="#a1a1a1"
@@ -25,15 +25,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-width="1600"
+     inkscape:window-height="840"
      id="namedview11"
      showgrid="false"
-     inkscape:zoom="22.627417"
-     inkscape:cx="-3.5511493"
-     inkscape:cy="8.103107"
+     inkscape:zoom="32"
+     inkscape:cx="7.351333"
+     inkscape:cy="6.5682021"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384" />
   <metadata
@@ -62,23 +62,33 @@
     </filter>
   </defs>
   <g
-     style="fill:#ffffff;fill-opacity:1"
-     id="g4250"
-     transform="matrix(0.44667783,0,0,0.44667783,18.943601,5.7245885)">
+     id="g5102">
     <path
-       style="fill:#bebebe;fill-opacity:1"
-       d="M 1.6035156,3.90625 C 1.2699962,3.90625 1,4.1772302 1,4.5097656 l 0,6.9804684 c 0,0.334022 0.2699962,0.603516 0.6035156,0.603516 l 11.7148434,0 c 0.333993,0 0.603516,-0.269996 0.603516,-0.603516 l 0,-1.238281 0.474609,0 C 14.730488,10.251953 15,9.9834201 15,9.6484375 L 15,6.4042969 C 15.000521,6.0702975 14.730484,5.7988281 14.396484,5.7988281 l -0.474609,0 0,-1.2890625 c 0,-0.3325354 -0.269497,-0.6035156 -0.603516,-0.6035156 z"
-       transform="matrix(1.9189285,0,0,1.9189285,-39.851416,-10.25719)"
-       id="path7-4-0-7-3-8-0-1-9-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssscsscscsss" />
+       sodipodi:nodetypes="ccssccc"
+       id="path841-6"
+       d="m 12,5.328125 -8.794922,0.0019 c -0.172475,0 -0.310547,0.201293 -0.310547,0.453125 v 4.433594 c 0,0.251832 0.138072,0.453131 0.310547,0.453125 H 12 Z"
+       style="fill:#bebebe;fill-opacity:0.66666667;stroke-width:0.70935035;enable-background:new"
+       inkscape:connector-curvature="0" />
     <g
-       style="fill:#ffffff;fill-opacity:1"
-       transform="matrix(0.02205965,0,0,0.02205965,-29.900002,-0.39149138)"
-       id="g3-9">
+       id="g3-9-36"
+       transform="matrix(0.00985356,0,0,0.00985356,5.181153,18.83862)"
+       style="fill:#ffffff;fill-opacity:1;enable-background:new">
       <g
-         style="fill:#ffffff;fill-opacity:1"
-         id="g5-4" />
+         id="g5-4-7"
+         style="fill:#ffffff;fill-opacity:1" />
     </g>
+    <g
+       id="g3-9-3"
+       transform="matrix(0.00985356,0,0,0.00985356,37.627325,18.401278)"
+       style="fill:#ffffff;fill-opacity:1;enable-background:new">
+      <g
+         id="g5-4-6"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+    <path
+       id="path854-3"
+       d="M 2.517578,4.489469 C 2.231705,4.489469 2,4.722017 2,5.007047 v 5.984376 C 2,11.277728 2.231705,11.509 2.517578,11.509 h 10.041017 c 0.28628,0 0.517578,-0.231702 0.517578,-0.517577 V 9.928922 h 0.40625 c 0.286289,0 0.517579,-0.23045 0.517579,-0.517578 V 6.632047 C 14.000448,6.345762 13.76871,6.112516 13.482423,6.112516 h -0.40625 V 5.007047 c 0,-0.28503 -0.231275,-0.517578 -0.517578,-0.517578 z m 0.830078,0.839843 h 8.109376 c 0.251831,0 0.457033,0.201294 0.457032,0.453125 v 4.433595 c 0,0.251829 -0.205201,0.453125 -0.457032,0.453125 H 3.347656 c -0.251831,0 -0.453124,-0.201296 -0.453125,-0.453125 V 5.782437 c 0,-0.251831 0.201294,-0.453125 0.453125,-0.453125 z"
+       style="fill:#bebebe;fill-opacity:1;stroke-width:0.85714281;enable-background:new"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
