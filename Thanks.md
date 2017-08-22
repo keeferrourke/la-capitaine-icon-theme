@@ -11,8 +11,11 @@ This is a list of people who have supported me with significant _code_ contribut
  * [@demoy](https://github.com/demoy)
    - Helped hunt down and destroy problems with some action icons that weren't being detected by my SVG renderer
 
+ * Sergey Artemov ([@firefoxic](https://github.com/firefoxic))
+   - Assisted with reducing overall size of project
+
 #### Significant donors
 This is a list of people who have supported me with significant donations through [Paypal](https://paypal.me/keeferrourke) or [Patreon](https://www.patreon.com/krourke). Cheers to them! :grin:
 
- * Anonymous donation from Pling GmbH :moneybag:
+ * Anonymous donations from Pling GmbH :moneybag:
 
