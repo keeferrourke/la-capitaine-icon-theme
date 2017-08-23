@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#bebebe;
-      }
-      </style>
-  </defs>
- <path 
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-	 class="ColorScheme-Text"
-        d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 13 C 2 13.554 2.446 14 3 14 L 13 14 C 13.554 14 14 13.554 14 13 L 14 3 C 14 2.446 13.554 2 13 2 L 3 2 z M 5 7 L 11 7 L 11 9 L 5 9 L 5 7 z "
-     />
-</svg>
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="m3 2c-.554 0-1 .446-1 1v10c0 .554.446 1 1 1h10c .554 0 1-.446 1-1v-10c0-.554-.446-1-1-1zm2 5h6v2h-6z" fill="#bebebe"/></svg>

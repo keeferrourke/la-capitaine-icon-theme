@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#bebebe;
-      }
-      </style>
-  </defs>
- <path 
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-	 class="ColorScheme-Text"
-        d="M 8 5 L 3 10 L 13 10 L 8 5 z "
-     />
-</svg>
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="m8 5-5 5h10z" fill="#bebebe"/></svg>
