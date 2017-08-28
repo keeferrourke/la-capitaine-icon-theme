@@ -89,11 +89,11 @@ case $yn in
         rm "$wd/actions/22x22" "$wd/devices/scalable" "$wd/panel/16" \
         "$wd/panel/24" "$wd/places/16x16" "$wd/status/scalable"
 
-        ln -sf "$wd/actions/22x22-dark" "$wd/actions/22x22"
-        ln -sf "$wd/devices/scalable-dark" "$wd/devices/scalable"
-        ln -sf "$wd/emblems/scalable/avatar-default-dark.svg" "$wd/emblems/scalable/avatar-default.svg"
-        ln -sf "$wd/places/16x16-dark" "$wd/places/16x16"
-        ln -sf "$wd/status/scalable-dark" "$wd/status/scalable"
+        ln -sfr "$wd/actions/22x22-dark" "$wd/actions/22x22"
+        ln -sfr "$wd/devices/scalable-dark" "$wd/devices/scalable"
+        ln -sfr "$wd/emblems/scalable/avatar-default-dark.svg" "$wd/emblems/scalable/avatar-default.svg"
+        ln -sfr "$wd/places/16x16-dark" "$wd/places/16x16"
+        ln -sfr "$wd/status/scalable-dark" "$wd/status/scalable"
         echo "Updated theme to use icons for dark GTK+ themes."
         ;;
 
@@ -101,24 +101,24 @@ case $yn in
         rm "$wd/actions/22x22" "$wd/devices/scalable" "$wd/panel/16" \
         "$wd/panel/24" "$wd/places/16x16" "$wd/status/scalable"
 
-        ln -sf "$wd/actions/22x22-light" "$wd/actions/22x22"
-        ln -sf "$wd/devices/scalable-light" "$wd/devices/scalable"
-        ln -sf "$wd/emblems/scalable/avatar-default-light.svg" "$wd/emblems/scalable/avatar-default.svg"
-        ln -sf "$wd/places/16x16-light" "$wd/places/16x16"
-        ln -sf "$wd/status/scalable-light" "$wd/status/scalable"
+        ln -sfr "$wd/actions/22x22-light" "$wd/actions/22x22"
+        ln -sfr "$wd/devices/scalable-light" "$wd/devices/scalable"
+        ln -sfr "$wd/emblems/scalable/avatar-default-light.svg" "$wd/emblems/scalable/avatar-default.svg"
+        ln -sfr "$wd/places/16x16-light" "$wd/places/16x16"
+        ln -sfr "$wd/status/scalable-light" "$wd/status/scalable"
         echo "Updated theme to use icons for light GTK+ themes."
         ;;
 esac
 read -p "Use icons for a dark coloured panel? [y/N] " yn
 case $yn in
     [Yy]* )
-        ln -sf "$wd/panel/16-dark" "$wd/panel/16"
-        ln -sf "$wd/panel/24-dark" "$wd/panel/24"
+        ln -sfr "$wd/panel/16-dark" "$wd/panel/16"
+        ln -sfr "$wd/panel/24-dark" "$wd/panel/24"
         echo "Updated theme to use dark icons for the panel."
         ;;
     * )
-        ln -sf "$wd/panel/16-light" "$wd/panel/16"
-        ln -sf "$wd/panel/24-light" "$wd/panel/24"
+        ln -sfr "$wd/panel/16-light" "$wd/panel/16"
+        ln -sfr "$wd/panel/24-light" "$wd/panel/24"
         echo "Updated theme to use light icons for the panel."
         ;;
 esac
