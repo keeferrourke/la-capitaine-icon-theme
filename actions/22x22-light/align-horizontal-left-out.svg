@@ -1,1 +1,25 @@
-<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"><g fill="#4d4d4d" transform="matrix(0 1 -1 0 1 -1031.3622)"><rect height="8" ry=".5" width="6.000038" x="1034.3622" y="-18"/><rect height="6.03614" ry=".5" width="6.03614" x="1044.3622" y="-18"/><rect height="3" ry=".5" width="5.999982" x="1044.3622" y="-5"/><rect height="1.5" ry=".5" width="16" x="1034.3622" y="-8.5"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+ <defs id="defs3051">
+   <style type="text/css" id="current-color-scheme">
+     .ColorScheme-Text {
+       color:#4d4d4d;
+     }
+     </style>
+ </defs>
+   <path
+      style="fill:currentColor;fill-opacity:1;stroke:none"
+      d="m 3.4999826,-19 h 5.0000381 c 0.277,0 0.5,0.223 0.5,0.5 v 7 c 0,0.277 -0.223,0.5 -0.5,0.5 H 3.4999826 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -7 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
+      class="ColorScheme-Text" transform="rotate(90)"/>
+   <path
+      style="fill:currentColor;fill-opacity:1;stroke:none"
+      d="m 13.499983,-19 h 5.03614 c 0.277,0 0.5,0.223 0.5,0.5 v 5.03614 c 0,0.277 -0.223,0.5 -0.5,0.5 h -5.03614 c -0.277,0 -0.5,-0.223 -0.5,-0.5 V -18.5 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
+      class="ColorScheme-Text" transform="rotate(90)"/>
+   <path
+      style="fill:currentColor;fill-opacity:1;stroke:none"
+      d="m 13.499983,-6 h 4.999982 c 0.277,0 0.5,0.223 0.5,0.5 v 2 c 0,0.277 -0.223,0.5 -0.5,0.5 h -4.999982 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -2 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
+      class="ColorScheme-Text" transform="rotate(90)"/>
+   <path
+      style="fill:currentColor;fill-opacity:1;stroke:none"
+      d="M 3.4999826,-9.5 H 18.499983 c 0.277,0 0.5,0.223 0.5,0.5 v 0.5 c 0,0.277 -0.223,0.5 -0.5,0.5 H 3.4999826 c -0.277,0 -0.5,-0.223 -0.5,-0.5 V -9 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
+      class="ColorScheme-Text" transform="rotate(90)"/>
+</svg> 
