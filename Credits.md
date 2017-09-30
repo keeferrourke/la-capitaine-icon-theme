@@ -14,4 +14,4 @@
 ##### Notes
 La Capitaine was forked from El General Gnome in the Autumn of 2015;
 this project diverged from that base before Antu existed, and these two
-distinct icon themes that share the same base.
+distinct icon themes share the same base.
