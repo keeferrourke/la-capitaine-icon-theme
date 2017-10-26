@@ -58,6 +58,9 @@ Most intelliJ IDEs in general | `Icon=/opt/intellij-ide-name/bin/ide-name.png` |
 Python 2.x | `Icon=/usr/share/pixmaps/python2.x.xpm` | `Icon=python2` or `Icon=python2.x`, as you wish
 Python 3.x | `Icon=/usr/share/pixmaps/python3.x.xpm` | `Icon=python3` or `Icon=python3.x`, as you wish
 
+Applications installed through Ubuntu Software (specifically on unbuntu 17.04+ or using snap) have a tendency to be hardcoded. The `.desktop` files for these apps can be found in `/var/lib/snapd/desktop/applications` and can be edited manually as mentioned above (assuming
+`apps/scalable/foo-icon-name.svg` exists) .
+
 This list is just what we have noticed, it might or might not be true on your
 machine. If you found another candidate for the list, tell us!
 
