@@ -93,7 +93,6 @@ case $yn in
         ln -sfr "$wd/devices/scalable-dark" "$wd/devices/scalable"
         ln -sfr "$wd/emblems/scalable/avatar-default-dark.svg" "$wd/emblems/scalable/avatar-default.svg"
         ln -sfr "$wd/places/16x16-dark" "$wd/places/16x16"
-        ln -sfr "$wd/status/scalable-dark" "$wd/status/scalable"
         echo "Updated theme to use icons for dark GTK+ themes."
         ;;
 
@@ -105,7 +104,6 @@ case $yn in
         ln -sfr "$wd/devices/scalable-light" "$wd/devices/scalable"
         ln -sfr "$wd/emblems/scalable/avatar-default-light.svg" "$wd/emblems/scalable/avatar-default.svg"
         ln -sfr "$wd/places/16x16-light" "$wd/places/16x16"
-        ln -sfr "$wd/status/scalable-light" "$wd/status/scalable"
         echo "Updated theme to use icons for light GTK+ themes."
         ;;
 esac
@@ -114,11 +112,13 @@ case $yn in
     [Yy]* )
         ln -sfr "$wd/panel/16-dark" "$wd/panel/16"
         ln -sfr "$wd/panel/24-dark" "$wd/panel/24"
+        ln -sfr "$wd/status/scalable-dark" "$wd/status/scalable"
         echo "Updated theme to use dark icons for the panel."
         ;;
     * )
         ln -sfr "$wd/panel/16-light" "$wd/panel/16"
         ln -sfr "$wd/panel/24-light" "$wd/panel/24"
+        ln -sfr "$wd/status/scalable-light" "$wd/status/scalable"
         echo "Updated theme to use light icons for the panel."
         ;;
 esac
