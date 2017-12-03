@@ -86,7 +86,7 @@ If there's an icon that's missing in this project, feel free to
 
 To make my life easier and to ensure that your requests are fullfilled
 faster, I expect a particular format for any new issues. Please
-[read the wiki](https://github.com/keeferrourke/la-capitaine-icon-theme/wiki/Submitting-Icon-Requests)
+[read the wiki](https://github.com/keeferrourke/la-capitaine-icon-theme/wiki/Submitting-New-Issues)
 before opening an issue.
 
 Community contributions are always welcome. Feel free to fork this
