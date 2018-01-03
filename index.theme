@@ -1,8 +1,8 @@
 [Icon Theme]
 Name=La Capitaine
 Comment=La Capitaine is an icon pack inspired by macOS and Google Material Design - a beautiful hybrid between the two most popular design specifications to date.
-Inherits=elementary,breeze,gnome
-Directories=actions/symbolic,actions/22x22,animations/22x22,apps/scalable,apps/symbolic,devices/symbolic,devices/scalable,emblems/scalable,emblems/symbolic,emotes/scalable,mimetypes/scalable,mimetypes/symbolic,places/16x16,panel/16,panel/24,places/scalable,status/scalable,status/symbolic
+Inherits=breeze,elementary,gnome
+Directories=actions/symbolic,actions/22x22,animations/22x22,apps/scalable,apps/symbolic,devices/symbolic,devices/scalable,emblems/scalable,emblems/symbolic,emotes/scalable,mimetypes/scalable,mimetypes/symbolic,places/16x16,places/scalable,places/symbolic,panel/16,panel/24,status/scalable,status/symbolic
 
 FollowsColorScheme=true
 
@@ -37,7 +37,7 @@ Size=16
 Context=Applications
 Type=Scalable
 MinSize=8
-MaxSize=22
+MaxSize=128
 
 [devices/scalable]
 Size=48
@@ -108,6 +108,13 @@ Context=Places
 Type=Scalable
 MinSize=8
 MaxSize=256
+
+[places/symbolic]
+Size=16
+Context=Places
+Type=Scalable
+MinSize=8
+MaxSize=128
 
 [panel/16]
 Size=16
