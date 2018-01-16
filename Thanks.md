@@ -20,6 +20,8 @@ contributions. Cheers to them! :computer:
  * [@now-im](https://github.com/now-im)
    - Added KDE style attributes to monochrome icons, such that the theme
      respects the desktop colourscheme
+ * [@Riotism](https://github.com/Riotism)
+   - Contributed icon resources
 
 #### Significant donors
 This is a list of people who have supported me with significant
