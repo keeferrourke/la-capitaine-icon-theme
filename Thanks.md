@@ -29,5 +29,5 @@ This is a list of people who have supported me with significant
 donations through [Paypal](https://paypal.me/keeferrourke) or
 [Patreon](https://www.patreon.com/krourke). Cheers to them! :grin:
 
- * Anonymous donations from Pling GmbH :moneybag:
+ * Anonymous donations from Pling GmbH
 
