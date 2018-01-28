@@ -22,7 +22,8 @@ contributions. Cheers to them! :computer:
      respects the desktop colourscheme
    - Contributes new icons regularly!
  * [@Riotism](https://github.com/Riotism)
-   - Contributes new icons, and audits design
+   - Contributes new icons, and audits design!
+   - Has been a huge help finding compatibility issues
 
 #### Significant donors
 This is a list of people who have supported me with significant
