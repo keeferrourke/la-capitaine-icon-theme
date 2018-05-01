@@ -37,7 +37,7 @@ distromatch() {
     case $DISTRO in
         arch) ln -sf distributor-logo-archlinux.svg distributor-logo.svg ;;
         debian|raspbian) ln -sf distributor-logo-debian.svg distributor-logo.svg ;;
-        elementaryos) ln -sf distributor-logo-elementaryos.svg distributor-logo.svg ;;
+        elementaryos|elementary) ln -sf distributor-logo-elementaryos.svg distributor-logo.svg ;;
         fedora) ln -sf distributor-logo-fedora.svg distributor-logo.svg ;;
         gentoo) ln -sf distributor-logo-gentoo.svg distributor-logo.svg ;;
         korora) ln -sf distributor-logo-korora.svg distributor-logo.svg ;;
