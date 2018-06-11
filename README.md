@@ -14,6 +14,18 @@ pull regularly to make sure you're always up-to-date:
 cd ~/.icons
 git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git
 ```
+Build and install system-wide:
+
+```
+sudo ./install.sh
+```
+OR
+
+```
+meson build --prefix=/usr && cd build
+ninja
+sudo ninja install
+```
 
 Alternatively, there are
 [AUR PKGBUILDs](https://aur.archlinux.org/packages/?K=la-capitaine-icon-theme)
