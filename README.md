@@ -35,7 +35,8 @@ Ubuntu [PPA](https://launchpad.net/~dyatlov-igor/+archive/ubuntu/la-capitaine) (
 ```
 sudo add-apt-repository ppa:dyatlov-igor/la-capitaine
 sudo apt update
-sudo apt install la-capitaine-icon-theme
+sudo apt install la-capitaine-icon-theme      # point releases
+sudo apt install la-capitaine-icon-theme-git  # git master branch
 ```
 
 ### Configuration
