@@ -1,4 +1,4 @@
-### What is this?
+        ### What is this?
 La Capitaine is an icon pack &mdash; designed to integrate with most
 desktop environments. The set of icons takes inspiration from the latest
 iterations of macOS and Google's Material Design through the use of
@@ -30,13 +30,17 @@ Fedora and EPEL users can also use a third party Copr repository :
 sudo dnf copr enable tcg/themes
 sudo dnf install la-capitaine-icon-theme
 ```
-Ubuntu [PPA](https://launchpad.net/~dyatlov-igor/+archive/ubuntu/la-capitaine) (maintained by [@igor-dyatlov](https://github.com/igor-dyatlov)):
+<!--
+Ubuntu
+[PPA](https://launchpad.net/~dyatlov-igor/+archive/ubuntu/la-capitaine)
+(maintained by [@igor-dyatlov](https://github.com/igor-dyatlov)):
 
 ```
 sudo add-apt-repository ppa:dyatlov-igor/la-capitaine
 sudo apt update
 sudo apt install la-capitaine-icon-theme
 ```
+-->
 
 ### Configuration
 La Capitaine comes with a configuration script which attempts to
