@@ -1,4 +1,4 @@
-        ### What is this?
+### What is this?
 La Capitaine is an icon pack &mdash; designed to integrate with most
 desktop environments. The set of icons takes inspiration from the latest
 iterations of macOS and Google's Material Design through the use of
