@@ -109,13 +109,9 @@ To-do:
  * Add alternative file-browser icons (requested a few times)
  * Add hardcode tray support
 
-### Recommendations
-La Capitaine looks best with a theme based on either Material Design or
-macOS. Though I don't make GTK+ themes, I recommend
-[Arc-OSX](https://github.com/LinxGem33/OSX-Arc-White) for a unique macOS
-inspired look. Have fun, and happy theming!
-
 ### Preview
 ![La Capitaine preview](.product/preview.png)
 <!-- ![La Capitaine preview](https://cdn.rawgit.com/keeferrourke/la-capitaine-icon-theme/master/preview.svg) -->
 
+<small>The GTK theme in this preview is
+[X-Arc](https://gitlab.com/LinxGem33/X-Arc-White);</small>
