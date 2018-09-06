@@ -20,8 +20,8 @@ Alternatively, there are
 available, so if you're on Arch Linux, simply run:
 
 ```
-yaourt -S la-capitaine-icon-theme       # point releases
-yaourt -S la-capitaine-icon-theme-git   # git master branch
+yay -S la-capitaine-icon-theme       # point releases
+yay -S la-capitaine-icon-theme-git   # git master branch
 ```
 
 Fedora and EPEL users can also use a third party Copr repository :
