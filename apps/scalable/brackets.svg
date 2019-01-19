@@ -1,1 +1,79 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="399.57144" x2="399.57144" y1="545.79797" y2="517.79797"><stop offset="0" stop-color="#3889e9"/><stop offset="1" stop-color="#5ea5fb"/></linearGradient><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-318.57867" x2="-318.57867" y1="653.95679" y2="301.29816"><stop offset="0" stop-color="#0a80fd"/><stop offset="1" stop-color="#56c5fa"/></linearGradient><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="-315.38752131464" x2="-315.38752131464" y1="617.485803016913" y2="285.98389070739"><stop offset="0" stop-color="#ecf5ff"/><stop offset="1" stop-color="#fefeff"/></linearGradient><circle cx="400.57138" cy="531.79791" fill="url(#a)" r="0" transform="matrix(1.637466544097 0 0 1.637466544097 -644.580187175317 -848.719334054169)"/><g transform="matrix(.111361506212 0 0 .111361506212 59.887097814307 -26.022587445081)"><circle cx="-325.88733" cy="478.74667" fill="url(#b)" r="173.44701" transform="matrix(1.242537 0 0 1.242537 82.651446 -144.23268)"/><circle cx="-322.25766" cy="452.78693" fill="url(#c)" r="163.04156"/><g fill="#32a4fb" stroke="#30a2fc" transform="matrix(.88692965 0 0 .88692965 -22.17395 82.712193)"><path d="m345.441 248.292-194.287 194.281c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744l171.914-171.909-171.909-171.903c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" fill="#32a4fb" stroke="#30a2fc" transform="matrix(-.357721944486 -.001293331621 -.001293331621 .357721944486 -328.791220395078 340.647118262321)"/><path d="m345.441 248.292-194.287 194.281c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744l171.914-171.909-171.909-171.903c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" fill="#32a4fb" stroke="#30a2fc" transform="matrix(.357721944486 -.001293331621 .001293331621 .357721944486 -351.948379604923 340.648718262321)"/></g></g></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" x1="0" x2=".350441" y1=".5" y2="-.436585">
+    <stop offset="0" stop-color="#29abe2" />
+    <stop offset="0" stop-color="#087dc3" />
+  </linearGradient>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="67" x2="99" xlink:href="#a" y1="62.5" y2="62.5" />
+  <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="27" x2="59" xlink:href="#a" y1="62.5" y2="62.5" />
+  <linearGradient id="d" gradientTransform="matrix(.35600995 0 0 .3512235 240.525 893.33752)" gradientUnits="userSpaceOnUse" x1="-989.66583" x2="-1003.6364" y1="433.28394" y2="317.35452">
+    <stop offset="0" stop-color="#292926" />
+    <stop offset="1" stop-color="#484b4d" />
+  </linearGradient>
+  <linearGradient id="e" gradientTransform="matrix(.35549809 0 0 .35079564 81.583509 925.45618)" gradientUnits="userSpaceOnUse" x1="-1092.9117" x2="-1060.2551" y1="203.09911" y2="104.85291">
+    <stop offset=".12608695652" stop-color="#087dc3" />
+    <stop offset=".98260869565" stop-color="#29abe2" />
+  </linearGradient>
+  <rect fill="url(#e)" height="40.214249" ry=".981484" transform="matrix(.87001804797 -.28868287552 .28160526413 .87233461782 .366915 -920.167254)" width="31.911476" x="-309.6644" y="964.93665" />
+  <rect fill="url(#d)" height="43.171936" ry="1.053671" transform="matrix(.90942438443 -.11496299848 .12632757216 .90791549462 .366915 -920.167254)" width="35.538715" x="-131.75444" y="1004.4296" />
+  <g fill-rule="evenodd" transform="matrix(.62086832909 -.08752301514 .09706648395 .68856750204 -64.25233965596 -685.06805677281)">
+    <g fill="#fff">
+      <path d="m-34.260591 1005.781314h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1009.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1007.781314h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1011.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1015.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1013.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1017.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1021.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1019.781214h2v.999863h-2z" opacity=".8" />
+    </g>
+    <path d="m-31.260591 1005.781114h9v.999863h-9z" fill="#f92672" opacity=".8" />
+    <path d="m-21.260591 1005.781314h6v.999863h-6z" fill="#fff" opacity=".8" />
+    <path d="m-14.260591 1005.781314h4v.999863h-4z" fill="#fff" opacity=".8" />
+    <path d="m-31.260591 1007.781114h5v1.000017h-5z" fill="#fd971f" opacity=".8" />
+    <path d="m-25.260591 1007.781114h2v1.000105h-2z" fill="#fff" opacity=".8" />
+    <path d="m-22.260591 1007.781314h9v.999863h-9z" fill="#a6e22e" opacity=".8" />
+    <path d="m-31.260591 1009.781114h7v.999863h-7z" fill="#f92672" opacity=".8" />
+    <path d="m-23.260591 1009.781314h5v.999863h-5z" fill="#fd971f" opacity=".8" />
+    <path d="m-17.260591 1009.781214h2v.999863h-2z" fill="#fff" opacity=".8" />
+    <path d="m-29.260591 1011.781114h4v.999863h-4z" fill="#f92672" opacity=".8" />
+    <path d="m-24.260591 1011.781314h10v.999863h-10z" fill="#a6e22e" opacity=".8" />
+    <path d="m-13.260591 1011.781314h4v.999863h-4z" fill="#fff" opacity=".8" />
+    <path d="m-29.260591 1013.781114h6v.999863h-6z" fill="#f92672" opacity=".8" />
+    <path d="m-22.260591 1013.781314h6v.999863h-6z" fill="#66d9ef" opacity=".8" />
+    <path d="m-15.260591 1013.781314h4v.999863h-4z" fill="#a6e22e" opacity=".8" />
+    <path d="m-29.260591 1015.781114h2v.999863h-2z" fill="#f92672" opacity=".8" />
+    <path d="m-26.260591 1015.781314h13v.999863h-13z" fill="#66d9ef" opacity=".8" />
+    <path d="m-12.260591 1015.781314h5.5v.999863h-5.5z" fill="#fff" opacity=".8" />
+    <path d="m-29.260591 1017.781114h3v.999863h-3z" fill="#f92672" opacity=".8" />
+    <path d="m-25.260591 1017.781314h11v.999863h-11z" fill="#66d9ef" opacity=".8" />
+    <path d="m-13.260591 1017.781314h4v.999863h-4z" fill="#fff" opacity=".8" />
+    <rect fill="#fff" height="1.000017" opacity=".8" ry=".000017" width="2" x="-31.260591" y="1019.781114" />
+    <path d="m-28.260591 1019.781314h8v.999863h-8z" fill="#66d9ef" opacity=".8" />
+    <path d="m-19.260591 1019.781314h3v.999863h-3z" fill="#fd971f" opacity=".8" />
+    <path d="m-31.260591 1021.781114h4v.999863h-4z" fill="#f92672" opacity=".8" />
+    <path d="m-26.260591 1021.781314h11v.999863h-11z" fill="#a6e22e" opacity=".8" />
+    <path d="m-14.260591 1021.781314h2.5v.999863h-2.5z" fill="#fff" opacity=".8" />
+    <path d="m-31.260591 1011.781114h1v7h-1z" fill="#faffeb" opacity=".678899" />
+    <g fill="#fff">
+      <path d="m-34.28725 1023.798019h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.28725 1025.798019h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.28725 1029.798019h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.28725 1027.798019h2v.999863h-2z" opacity=".8" />
+    </g>
+    <path d="m-29.28725 1023.797819h2v.999863h-2z" fill="#f92672" opacity=".8" />
+    <path d="m-26.28725 1023.798119h13v.999863h-13z" fill="#66d9ef" opacity=".8" />
+    <path d="m-12.28725 1023.798119h5.5v.999863h-5.5z" fill="#fff" opacity=".8" />
+    <path d="m-29.28725 1025.797819h3v.999863h-3z" fill="#f92672" opacity=".8" />
+    <path d="m-25.28725 1025.798119h11v.999863h-11z" fill="#66d9ef" opacity=".8" />
+    <path d="m-13.28725 1025.798119h4v.999863h-4z" fill="#fff" opacity=".8" />
+    <rect fill="#fff" height="1.000017" opacity=".8" ry=".000017" width="2" x="-31.28725" y="1027.797819" />
+    <path d="m-28.28725 1027.798119h8v.999863h-8z" fill="#66d9ef" opacity=".8" />
+    <path d="m-19.28725 1027.798119h3v.999863h-3z" fill="#fd971f" opacity=".8" />
+    <path d="m-31.28725 1029.797819h4v.999863h-4z" fill="#f92672" opacity=".8" />
+    <path d="m-26.28725 1029.798119h11v.999863h-11z" fill="#a6e22e" opacity=".8" />
+    <path d="m-14.28725 1029.798119h2.5v.999863h-2.5z" fill="#fff" opacity=".8" />
+  </g>
+  <path d="m59 27v14h-17v42h17v15h-32v-71z" fill="url(#c)" transform="matrix(.15857836201 -.02228673084 .02228673084 .15857836201 23.6367970625 25.66722642583)" />
+  <path d="m99 27v71h-32v-15h18v-42h-18v-14z" fill="url(#b)" transform="matrix(.15857836201 -.02228673084 .02228673084 .15857836201 23.6367970625 25.66722642583)" />
+</svg>

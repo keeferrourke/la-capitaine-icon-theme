@@ -20,8 +20,8 @@ Alternatively, there are
 available, so if you're on Arch Linux, simply run:
 
 ```
-yaourt -S la-capitaine-icon-theme       # point releases
-yaourt -S la-capitaine-icon-theme-git   # git master branch
+yay -S la-capitaine-icon-theme       # point releases
+yay -S la-capitaine-icon-theme-git   # git master branch
 ```
 
 Fedora and EPEL users can also use a third party Copr repository :
@@ -109,13 +109,9 @@ To-do:
  * Add alternative file-browser icons (requested a few times)
  * Add hardcode tray support
 
-### Recommendations
-La Capitaine looks best with a theme based on either Material Design or
-macOS. Though I don't make GTK+ themes, I recommend
-[Arc-OSX](https://github.com/LinxGem33/OSX-Arc-White) for a unique macOS
-inspired look. Have fun, and happy theming!
-
 ### Preview
 ![La Capitaine preview](.product/preview.png)
 <!-- ![La Capitaine preview](https://cdn.rawgit.com/keeferrourke/la-capitaine-icon-theme/master/preview.svg) -->
 
+<small>The GTK theme in this preview is
+[X-Arc](https://gitlab.com/LinxGem33/X-Arc-White);</small>
