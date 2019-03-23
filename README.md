@@ -51,6 +51,30 @@ for mime-types.
 For best integration with your distro/desktop environment, please run
 `./configure` and follow the prompts.
 
+
+### Using Meson
+#### Installing La Capitaine
+
+First download and install meson and ninja.
+You can find them in your distribution's repositories.
+Then build the source via meson:
+
+```
+# build
+meson "build" --prefix=/usr
+# install
+sudo ninja -C "build" install
+```
+
+By default it installs to `/usr/` but you can specify a different directory with a prefix like: `/usr/local or $HOME/.local`.
+
+#### Uninstalling La Capitaine
+
+To uninstall La Capitaine, simply run the following. (If you installed it without superuser priveleges just omit the sudo.)
+
+`sudo ninja -C "build" uninstall`
+
+
 #### Use a dark GTK+ theme?
 La Capitaine doesn't ship with two distinct variants, because I wanted
 to keep the size of this project to a minimum.
