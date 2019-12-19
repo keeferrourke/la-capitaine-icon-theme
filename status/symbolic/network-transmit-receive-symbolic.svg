@@ -1,0 +1,10 @@
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <filter id="a" color-interpolation-filters="sRGB">
+    <feBlend in2="BackgroundImage" mode="darken" />
+  </filter>
+  <g enable-background="new" fill="#bebebe" transform="matrix(.8 0 0 .8 -397.59998 324.39731)">
+    <path d="m508.99998-393.99664 5.5-4.5-5.5-4.5c.004.003 0 1.33333 0 2-1 0-2 0-3 0v5h3z" />
+    <path d="m504.99998-396.99664-5.5 4.5 5.5 4.5c-.004-.003 0-1.33333 0-2h3v-2.1875-.8125-2s-2 0-3 0c0-.66667 0-2 0-2z" />
+  </g>
+  <g filter="url(#a)" transform="translate(-525.0004 431.00336)" />
+</svg>

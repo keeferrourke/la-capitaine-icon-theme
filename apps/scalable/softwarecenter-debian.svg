@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="48" height="48">
+	<defs>
+		<linearGradient id="frontGrad" x1="0" y1="1" x2="0" y2="0">
+			<stop stop-color="#EC396C" offset="0" />
+			<stop stop-color="#FF709A" offset="1" />
+		</linearGradient>
+		<linearGradient id="backGrad" x1="0" y1="0" x2="1" y2="0">
+			<stop stop-color="#C31162" offset="0" />
+			<stop stop-color="#FF3966" offset="1" />
+		</linearGradient>
+		<linearGradient id="leftfrontfoldGrad" xlink:href="#frontGrad" x1="0" y1="0" x2="1" y2="0" />
+		<linearGradient id="rightfrontfoldGrad" xlink:href="#frontGrad" x1="1" y1="0" x2="0" y2="0" />
+		<linearGradient id="rightbackfoldGrad" xlink:href="#backGrad" x1="1" y1="0" x2="0" y2="0" />
+		<linearGradient id="leftbackfoldGrad" xlink:href="#backGrad" x1="0" y1="0" x2="1" y2="0" />
+		<linearGradient id="handleGrad" x1="0" y1="1" x2="0" y2="0">
+			<stop stop-color="#E6E6E6" offset="0" />
+			<stop stop-color="#FFF" offset="1" />
+		</linearGradient>
+		<clipPath id="frontClip">
+			<rect x="2" y="9" width="44" height="37" />
+		</clipPath>
+	</defs>
+
+	<rect id="back" x="4" y="3" width="40" height="10" fill="url(#backGrad)" />
+	<polygon id="leftbackfold" fill="url(#leftbackfoldGrad)" points="4,3 4,30 7.5,5.5" />
+	<polygon id="rightbackfold" fill="url(#rightbackfoldGrad)" points="44,3 44,8 40.5,5.5" />
+	<polygon id="shadow" points="7.5,5.5 15.2,11 4,11" fill="#000" opacity="0.08"  />
+	<rect id="frontnew" fill="url(#frontGrad)" x="2" y="6" width="44" height="40" rx="3" clip-path="url(#frontClip)" />
+	<polygon id="rightfrontfold" points="46,9 40.5,9 40.5,5.5" fill="url(#rightfrontfoldGrad)" />
+	<polygon id="leftfrontfold" points="7.5,5.5 2,9 7.5,9" fill="url(#leftfrontfoldGrad)" />
+	<circle class="hole" cx="14" cy="14" r="2" fill="#000" opacity="0.3" />
+	<circle class="hole" cx="34" cy="14" r="2" fill="#000" opacity="0.3" />
+	<path id="handle" d="M 34,13 a 10,10 0 1,0 -20,0" fill="none" stroke="url(#handleGrad)" stroke-width="2.4" stroke-linecap="round"  />
+	<path id="symbol" d="m 25.038109,37.801176 c -2.747885,-0.988578 -4.380054,-2.201881 -6.169598,-4.909563 -0.439139,-0.745987 -1.246633,-2.410799 -1.216051,-4.583817 -0.07147,-2.166489 1.023284,-4.662848 3.066415,-5.995041 1.973034,-1.40607 4.519217,-1.427031 6.03387,-0.87175 1.562415,0.580021 2.19604,1.546265 2.213908,1.500221 -0.04776,0.01203 0.837045,0.756295 1.231514,2.376437 0.439483,1.557261 -0.0069,4.138493 -2.154806,5.195451 -0.987892,0.52951 -2.270948,0.625378 -3.277051,0.246715 -1.006103,-0.405809 -1.736284,-1.296801 -1.979563,-2.227652 -0.530197,-2.055158 1.029125,-3.19424 1.717041,-3.311069 2.79874,-0.933257 4.21615,3.446453 0.942878,3.818931 1.491974,0.498241 3.029993,-1.032905 2.737577,-2.592571 -0.0591,-1.56001 -1.947607,-3.108337 -4.030598,-2.473681 -0.543941,0.15016 -1.367585,0.531915 -2.012206,1.390608 -0.661114,0.853538 -0.96109,2.191229 -0.617475,3.491466 0.335024,1.307453 1.353841,2.558897 2.772968,3.121394 1.43356,0.528823 3.029649,0.377632 4.347754,-0.308222 2.813859,-1.391982 3.377043,-4.7838 2.817982,-6.649971 -0.49343,-2.005677 -1.583032,-2.924158 -1.526679,-2.938247 -0.02027,0.05463 -0.804058,-1.13702 -2.741012,-1.860328 -1.894003,-0.690665 -4.847026,-0.641872 -7.211437,1.016068 -2.419733,1.551762 -3.730622,4.600997 -3.635441,7.058528 -0.03264,2.495671 0.897521,4.405824 1.40504,5.254895 2.04588,3.12002 4.390018,4.095197 7.28497,4.251198Z" fill="#FFF" opacity="0.8" />
+</svg>

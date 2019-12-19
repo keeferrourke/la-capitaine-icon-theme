@@ -1,0 +1,104 @@
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <mask id="a" height="256" maskUnits="userSpaceOnUse" width="256" x="0" y="0">
+    <path d="m176.049 250.669c4.789 4.79 12.081 6.031 18.185 3.095l52.706-25.345c5.538-2.664 9.06-8.265 9.06-14.411v-171.8601c0-6.1454-3.522-11.7471-9.06-14.4105l-52.706-25.34651c-6.104-2.935306-13.396-1.694283-18.185 3.09483 5.901-5.90078 15.99-1.72159 15.99 6.62338v231.9369c0 8.345-10.089 12.524-15.99 6.623z" fill="#fff" />
+    <path d="m181.379 180.646-67.049-52.013 67.049-53.1216v-57.7174c0-6.9463-8.251-10.58727-13.383-5.9078l-93.3446 85.9656-43.452-33.708c-4.0913-3.1048-9.8143-2.8498-13.6141.6038l-14.09556 12.8151c-4.64821 4.2266-4.65341 11.5321-.01302 15.7665l164.50328 150.8558c5.127 4.702 13.399 1.064 13.399-5.893z" fill="#fff" />
+    <path d="m36.6937 134.195-33.21698 28.633c-4.64039 4.234-4.63519 11.542.01302 15.766l14.09556 12.815c3.7998 3.454 9.5228 3.709 13.6141.604l38.2478-27.956z" fill="#fff" />
+  </mask>
+  <filter id="b" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="226.98801" width="224.045" x="-21.3333" y="40.6413">
+    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+    <feOffset />
+    <feGaussianBlur stdDeviation="10.6667" />
+    <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0" />
+    <feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow" />
+    <feBlend in="SourceGraphic" in2="effect1_dropShadow" mode="normal" result="shape" />
+  </filter>
+  <filter id="c" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="297.19101" width="122.618" x="154.715" y="-20.516899">
+    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+    <feOffset />
+    <feGaussianBlur stdDeviation="10.6667" />
+    <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+    <feBlend in2="BackgroundImageFix" mode="overlay" result="effect1_dropShadow" />
+    <feBlend in="SourceGraphic" in2="effect1_dropShadow" mode="normal" result="shape" />
+  </filter>
+  <linearGradient id="d" gradientTransform="matrix(.35600995 0 0 .3512235 240.525 893.33752)" gradientUnits="userSpaceOnUse" x1="-989.66583" x2="-1003.6364" y1="433.28394" y2="317.35452">
+    <stop offset="0" stop-color="#292926" />
+    <stop offset="1" stop-color="#484b4d" />
+  </linearGradient>
+  <linearGradient id="e" gradientTransform="matrix(.35549809 0 0 .35079564 81.583509 925.45618)" gradientUnits="userSpaceOnUse" x1="-1092.9117" x2="-1060.2551" y1="203.09911" y2="104.85291">
+    <stop offset=".12608695652" stop-color="#009a7c" />
+    <stop offset=".98260869565" stop-color="#24bfa5" />
+  </linearGradient>
+  <rect fill="url(#e)" height="40.214249" ry=".981484" transform="matrix(.87001804797 -.28868287552 .28160526413 .87233461782 .366915 -920.167254)" width="31.911476" x="-309.6644" y="964.93665" />
+  <rect fill="url(#d)" height="43.171936" ry="1.053671" transform="matrix(.90942438443 -.11496299848 .12632757216 .90791549462 .366915 -920.167254)" width="35.538715" x="-131.75444" y="1004.4296" />
+  <g fill-rule="evenodd" transform="matrix(.62086832909 -.08752301514 .09706648395 .68856750204 -64.25233965596 -685.06805677281)">
+    <g fill="#fff">
+      <path d="m-34.260591 1005.781314h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1009.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1007.781314h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1011.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1015.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1013.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1017.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1021.781214h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.260591 1019.781214h2v.999863h-2z" opacity=".8" />
+    </g>
+    <path d="m-31.260591 1005.781114h9v.999863h-9z" fill="#f92672" opacity=".8" />
+    <path d="m-21.260591 1005.781314h6v.999863h-6z" fill="#fff" opacity=".8" />
+    <path d="m-14.260591 1005.781314h4v.999863h-4z" fill="#fff" opacity=".8" />
+    <path d="m-31.260591 1007.781114h5v1.000017h-5z" fill="#fd971f" opacity=".8" />
+    <path d="m-25.260591 1007.781114h2v1.000105h-2z" fill="#fff" opacity=".8" />
+    <path d="m-22.260591 1007.781314h9v.999863h-9z" fill="#a6e22e" opacity=".8" />
+    <path d="m-31.260591 1009.781114h7v.999863h-7z" fill="#f92672" opacity=".8" />
+    <path d="m-23.260591 1009.781314h5v.999863h-5z" fill="#fd971f" opacity=".8" />
+    <path d="m-17.260591 1009.781214h2v.999863h-2z" fill="#fff" opacity=".8" />
+    <path d="m-29.260591 1011.781114h4v.999863h-4z" fill="#f92672" opacity=".8" />
+    <path d="m-24.260591 1011.781314h10v.999863h-10z" fill="#a6e22e" opacity=".8" />
+    <path d="m-13.260591 1011.781314h4v.999863h-4z" fill="#fff" opacity=".8" />
+    <path d="m-29.260591 1013.781114h6v.999863h-6z" fill="#f92672" opacity=".8" />
+    <path d="m-22.260591 1013.781314h6v.999863h-6z" fill="#66d9ef" opacity=".8" />
+    <path d="m-15.260591 1013.781314h4v.999863h-4z" fill="#a6e22e" opacity=".8" />
+    <path d="m-29.260591 1015.781114h2v.999863h-2z" fill="#f92672" opacity=".8" />
+    <path d="m-26.260591 1015.781314h13v.999863h-13z" fill="#66d9ef" opacity=".8" />
+    <path d="m-12.260591 1015.781314h5.5v.999863h-5.5z" fill="#fff" opacity=".8" />
+    <path d="m-29.260591 1017.781114h3v.999863h-3z" fill="#f92672" opacity=".8" />
+    <path d="m-25.260591 1017.781314h11v.999863h-11z" fill="#66d9ef" opacity=".8" />
+    <path d="m-13.260591 1017.781314h4v.999863h-4z" fill="#fff" opacity=".8" />
+    <rect fill="#fff" height="1.000017" opacity=".8" ry=".000017" width="2" x="-31.260591" y="1019.781114" />
+    <path d="m-28.260591 1019.781314h8v.999863h-8z" fill="#66d9ef" opacity=".8" />
+    <path d="m-19.260591 1019.781314h3v.999863h-3z" fill="#fd971f" opacity=".8" />
+    <path d="m-31.260591 1021.781114h4v.999863h-4z" fill="#f92672" opacity=".8" />
+    <path d="m-26.260591 1021.781314h11v.999863h-11z" fill="#a6e22e" opacity=".8" />
+    <path d="m-14.260591 1021.781314h2.5v.999863h-2.5z" fill="#fff" opacity=".8" />
+    <path d="m-31.260591 1011.781114h1v7h-1z" fill="#faffeb" opacity=".678899" />
+    <g fill="#fff">
+      <path d="m-34.28725 1023.798019h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.28725 1025.798019h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.28725 1029.798019h2v.999863h-2z" opacity=".8" />
+      <path d="m-34.28725 1027.798019h2v.999863h-2z" opacity=".8" />
+    </g>
+    <path d="m-29.28725 1023.797819h2v.999863h-2z" fill="#f92672" opacity=".8" />
+    <path d="m-26.28725 1023.798119h13v.999863h-13z" fill="#66d9ef" opacity=".8" />
+    <path d="m-12.28725 1023.798119h5.5v.999863h-5.5z" fill="#fff" opacity=".8" />
+    <path d="m-29.28725 1025.797819h3v.999863h-3z" fill="#f92672" opacity=".8" />
+    <path d="m-25.28725 1025.798119h11v.999863h-11z" fill="#66d9ef" opacity=".8" />
+    <path d="m-13.28725 1025.798119h4v.999863h-4z" fill="#fff" opacity=".8" />
+    <rect fill="#fff" height="1.000017" opacity=".8" ry=".000017" width="2" x="-31.28725" y="1027.797819" />
+    <path d="m-28.28725 1027.798119h8v.999863h-8z" fill="#66d9ef" opacity=".8" />
+    <path d="m-19.28725 1027.798119h3v.999863h-3z" fill="#fd971f" opacity=".8" />
+    <path d="m-31.28725 1029.797819h4v.999863h-4z" fill="#f92672" opacity=".8" />
+    <path d="m-26.28725 1029.798119h11v.999863h-11z" fill="#a6e22e" opacity=".8" />
+    <path d="m-14.28725 1029.798119h2.5v.999863h-2.5z" fill="#fff" opacity=".8" />
+  </g>
+  <g mask="url(#a)" transform="matrix(.05358329 -.00753064 .00753064 .05358329 26.798714 28.428888)">
+    <path d="m167.996 11.8857c5.132-4.67943 13.383-1.0384 13.383 5.9079v57.7173l-76.441 60.5621-39.3638-29.862z" fill="#009a7c" />
+    <path d="m36.6937 134.194-33.21698 28.633c-4.64039 4.235-4.63519 11.543.01302 15.767l14.09556 12.815c3.7998 3.454 9.5228 3.709 13.6141.604l38.2478-27.957z" fill="#009a7c" />
+    <g filter="url(#b)">
+      <path d="m181.379 180.645-150.1796-116.5023c-4.0913-3.1048-9.8143-2.8498-13.6141.6038l-14.09556 12.8151c-4.64821 4.2266-4.65341 11.5321-.01302 15.7665l164.49528 150.8479c5.13 4.705 13.407 1.065 13.407-5.896z" fill="#00b294" />
+    </g>
+    <g filter="url(#c)">
+      <path d="m194.233 253.766c-6.103 2.935-13.396 1.694-18.185-3.095 5.901 5.9 15.991 1.721 15.991-6.624v-231.9367c0-8.34495-10.09-12.524139-15.991-6.62336 4.789-4.789116 12.081-6.030131 18.185-3.09484l52.706 25.3465c5.539 2.6634 9.061 8.2651 9.061 14.4105v171.8599c0 6.146-3.522 11.748-9.061 14.411z" fill="#24bfa5" />
+    </g>
+  </g>
+</svg>

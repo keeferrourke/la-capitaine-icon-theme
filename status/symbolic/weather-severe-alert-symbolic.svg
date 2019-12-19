@@ -1,0 +1,17 @@
+<svg enable-background="new" height="15.999758" width="16.000227" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <filter id="a" color-interpolation-filters="sRGB">
+    <feBlend in2="BackgroundImage" mode="darken" />
+  </filter>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="308.32713446" x2="320.47454082963" y1="491.23814424271" y2="491.97968958108">
+    <stop offset="0" stop-color="#f00" />
+    <stop offset="1" stop-color="#ff2a2a" />
+  </linearGradient>
+  <g>
+    <path d="m8 4c-1.57404 0-2.88576 1.030116-3.375 2.43744-1.47696.187164-2.625 1.43472-2.625 2.96256 0 1.65684 1.34316 3 3 3h6.6c1.32552 0 2.4-1.074516 2.4-2.4s-1.074516-2.4-2.4-2.4c0-1.98816-1.61184-3.6-3.6-3.6z" fill="#bebebe" transform="translate(0 -2.27651)" />
+    <g transform="matrix(.58333334 0 0 .58333334 -266.05954 211.76026)">
+      <ellipse cx="314.32712" cy="491.23813" fill="url(#b)" rx="5.999999" ry="6" transform="matrix(-.06432929 -.99792873 .99792873 -.06432929 0 0)" />
+      <path d="m469.99822-348.54912c-.30124 0-.54297.2418-.54297.543v3.8223c0 .3013.24173.5429.54297.5429h.004c.30123 0 .54297-.2416.54297-.5429v-3.8223c0-.3012-.24174-.543-.54297-.543zm.002 6c-.30219 0-.54492.2428-.54492.545 0 .3021.24273.5449.54492.5449.30218 0 .54492-.2428.54492-.5449 0-.3022-.24274-.545-.54492-.545z" fill="#fff" />
+    </g>
+  </g>
+  <g filter="url(#a)" transform="translate(-465.0002 331.00299)" />
+</svg>

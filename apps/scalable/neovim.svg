@@ -1,0 +1,20 @@
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="19.559292" x2="34.516399" y1="14.777966" y2="34.121532">
+    <stop offset="0" stop-color="#f1f7fc" />
+    <stop offset="1" stop-color="#eaf2f6" />
+  </linearGradient>
+  <linearGradient id="b" gradientTransform="matrix(.32634152 0 0 .32195397 347.66461 -94.039079)" gradientUnits="userSpaceOnUse" x1="-940.10016" x2="-1034.2262" y1="458.7955" y2="321.06696">
+    <stop offset="0" stop-color="#54963a" />
+    <stop offset="1" stop-color="#4dde55" />
+  </linearGradient>
+  <linearGradient id="c" gradientTransform="matrix(.32587233 0 0 .32156176 357.82568 -24.927878)" gradientUnits="userSpaceOnUse" x1="-1009.2482" x2="-1082.8682" y1="255.52034" y2="105.21733">
+    <stop offset="0" stop-color="#2b7cc1" />
+    <stop offset="1" stop-color="#40bbf5" />
+  </linearGradient>
+  <text x="-84.279556" y="16.420322">
+    <tspan x="-84.279556" y="16.420322" />
+  </text>
+  <rect fill="url(#c)" height="36.862957" ry=".899691" stroke-width="1.083103" transform="matrix(.94911545 -.31492836 .30720729 .95164262 0 0)" width="29.252104" x="-.817193" y="11.262481" />
+  <rect fill="url(#b)" height="39.574165" ry=".965862" stroke-width="1.083103" transform="matrix(.99210439 -.12541479 .13781257 .99045833 0 0)" width="32.577061" x="6.409423" y="7.794986" />
+  <path d="m19.341883 34.135198-2.482507-2.48539v-6.95419-6.95419l2.470178-2.53003c1.358597-1.39152 2.525105-2.51173 2.592239-2.48935.06713.0224 2.151472 3.12093 4.631863 6.88568 2.48039 3.76475 4.588518 6.87096 4.684728 6.90269.138365.0456.175134-1.39995.175918-6.91608l.00098-6.97376 2.6579 2.66629 2.657901 2.66628v6.84544 6.84543l-2.504693 2.5047c-1.406427 1.40642-2.586162 2.47753-2.69049 2.44276-.102189-.0341-2.222397-3.1744-4.711572-6.97852s-4.584576-6.93757-4.656447-6.96323c-.07982-.0285-.130675 2.68096-.130675 6.9621 0 3.85481-.04789 7.00875-.106415 7.00875-.05853 0-1.223542-1.11842-2.588921-2.48538z" fill="url(#a)" stroke-width=".139942" />
+</svg>

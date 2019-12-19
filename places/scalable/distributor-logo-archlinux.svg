@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="48" width="48">
+	<defs>
+    <style id="current-color-scheme" type="text/css">
+	  .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+	</style>
+    <style id="current-color-scheme-8" type="text/css">
+	  .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+	</style>
+    <style id="current-color-scheme-7" type="text/css">
+	  .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+	</style>
+    <linearGradient id="bg" x1="0" y1="1" x2="0" y2="0">
+      <stop stop-color="#0a80fd" offset="0" />
+      <stop stop-color="#56c5fa" offset="1" />
+    </linearGradient>
+  </defs>
+    <circle cx="24" cy="24" r="22" fill="url(#bg)" />
+	<path d="m 24.215798,9.9669553 c -1.13723,2.7881197 -1.82311,4.6118497 -3.08922,7.3168197 0.77625,0.82289 1.72912,1.78114 3.27662,2.86344 -1.66368,-0.68463 -2.79847,-1.37192 -3.64653,-2.08513 -1.62037,3.38126 -4.15913,8.19766 -9.31099,17.45434 4.0492,-2.33762 7.1878,-3.77881 10.11325,-4.32878 -0.1256,-0.54023 -0.19705,-1.12463 -0.19219,-1.73436 l 0.003,-0.12974 c 0.0643,-2.59421 1.41372,-4.58912 3.01231,-4.45365 1.5986,0.1354 2.8412,2.34949 2.77695,4.9437 -0.012,0.4882 -0.0672,0.95772 -0.16333,1.39329 2.8935,0.56604 5.99877,2.00353 9.99315,4.30954 -0.78762,-1.45002 -1.49063,-2.75716 -2.16195,-4.00206 -1.05752,-0.81962 -2.1605,-1.88632 -4.41042,-3.04118 1.54648,0.40184 2.65373,0.86544 3.51681,1.38366 -6.82563,-12.70848 -7.37814,-14.39732 -9.71914,-19.8905397 z" fill="#FFF" opacity="0.85" />
+</svg>

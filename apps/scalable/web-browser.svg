@@ -1,0 +1,23 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<linearGradient id="w" x1="0" y1="1" x2="0" y2="0" gradientTransform="rotate(-45,0.5,0.5)">
+			<stop offset="0" stop-color="#DDD" />
+			<stop offset="1" stop-color="#FFF" />
+		</linearGradient>
+		<linearGradient id="b" x1="0" y1="1" x2="0" y2="0" gradientTransform="rotate(-45,0.5,0.5)">
+			<stop offset="0" stop-color="#197DEC" />
+			<stop offset="1" stop-color="#3FCFFB" />
+		</linearGradient>
+		<linearGradient id="s" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(-45,0.5,0.5)">
+			<stop offset="0" stop-color="#000"/>
+			<stop offset="0.7" stop-color="#000" stop-opacity="0" />
+		</linearGradient>
+	</defs>
+	<circle cx="24" cy="24" r="20" fill="url(#b)" />
+	<path d="M34,14 L45,25 A21 21 0 0 1 25,45 L14,34 Z" fill="url(#s)" opacity="0.2" />
+	<polygon points="24,24 34,14 26,26" fill="#F32D2C" />
+	<polygon points="24,24 34,14 22,22" fill="#F44A4A" />
+	<polygon points="24,24 14,34 22,22" fill="#F6F6F6" />
+	<polygon points="24,24 14,34 26,26" fill="#E0E0E0" />
+	<circle cx="24" cy="24" r="21" fill="none" stroke="url(#w)" stroke-width="2"/>
+</svg>

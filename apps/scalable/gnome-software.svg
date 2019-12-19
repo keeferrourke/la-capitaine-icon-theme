@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="48" height="48">
+	<defs>
+		<linearGradient id="frontGrad" x1="0" y1="1" x2="0" y2="0">
+			<stop stop-color="#ECECEC" offset="0" />
+			<stop stop-color="#FFF" offset="1" />
+		</linearGradient>
+		<linearGradient id="backGrad" x1="0" y1="0" x2="1" y2="0">
+			<stop stop-color="#D9D9D9" offset="0" />
+			<stop stop-color="#EEE" offset="1" />
+		</linearGradient>
+		<linearGradient id="leftfrontfoldGrad" xlink:href="#frontGrad" x1="0" y1="0" x2="1" y2="0" />
+		<linearGradient id="rightfrontfoldGrad" xlink:href="#frontGrad" x1="1" y1="0" x2="0" y2="0" />
+		<linearGradient id="rightbackfoldGrad" xlink:href="#backGrad" x1="1" y1="0" x2="0" y2="0" />
+		<linearGradient id="leftbackfoldGrad" xlink:href="#backGrad" x1="0" y1="0" x2="1" y2="0" />
+		<linearGradient id="handleGrad" x1="0" y1="1" x2="0" y2="0">
+			<stop stop-color="#E6E6E6" offset="0" />
+			<stop stop-color="#FFF" offset="1" />
+		</linearGradient>
+		<clipPath id="frontClip">
+			<rect x="2" y="9" width="44" height="37" />
+		</clipPath>
+	</defs>
+
+	<rect id="back" x="4" y="3" width="40" height="10" fill="url(#backGrad)" />
+	<polygon id="leftbackfold" fill="url(#leftbackfoldGrad)" points="4,3 4,30 7.5,5.5" />
+	<polygon id="rightbackfold" fill="url(#rightbackfoldGrad)" points="44,3 44,8 40.5,5.5" />
+	<polygon id="shadow" points="7.5,5.5 15.2,11 4,11" fill="#000" opacity="0.08"  />
+	<rect id="frontnew" fill="url(#frontGrad)" x="2" y="6" width="44" height="40" rx="3" clip-path="url(#frontClip)" />
+	<polygon id="rightfrontfold" points="46,9 40.5,9 40.5,5.5" fill="url(#rightfrontfoldGrad)" />
+	<polygon id="leftfrontfold" points="7.5,5.5 2,9 7.5,9" fill="url(#leftfrontfoldGrad)" />
+	<circle class="hole" cx="14" cy="14" r="2" fill="#000" opacity="0.3" />
+	<circle class="hole" cx="34" cy="14" r="2" fill="#000" opacity="0.3" />
+	<path id="handle" d="M 34,13 a 10,10 0 1,0 -20,0" fill="none" stroke="url(#handleGrad)" stroke-width="2.4" stroke-linecap="round"  />
+	<path id="symbol" d="M 29.802734 18.873047 C 26.041847 18.873047 25.337416 24.228516 27.453125 24.228516 C 29.568529 24.228516 33.563775 18.873047 29.802734 18.873047 z M 23.804688 19.541016 C 21.688215 19.815722 22.431642 23.495661 23.558594 23.564453 C 24.685086 23.633243 25.921927 19.26631 23.804688 19.541016 z M 20.257812 20.990234 C 20.164999 21.000085 20.065286 21.024496 19.958984 21.068359 C 18.257856 21.770335 19.699358 24.669365 20.652344 24.474609 C 21.546485 24.292313 21.650011 20.842473 20.257812 20.990234 z M 17.615234 23.255859 C 17.46733 23.250882 17.307015 23.300374 17.136719 23.417969 C 15.77496 24.358878 17.595296 26.631814 18.396484 26.279297 C 19.097523 25.970713 18.650564 23.290703 17.615234 23.255859 z M 25.390625 24.996094 C 22.471195 24.946704 18.621608 26.410359 17.964844 29.351562 C 17.253544 32.534453 20.892182 36.951172 24.689453 36.951172 C 26.557514 36.951172 28.712117 35.263758 29.115234 33.126953 C 29.423112 31.49752 25.491562 32.150329 25.632812 33.228516 C 25.802038 34.520871 24.686034 35.159309 23.591797 34.326172 C 20.108366 31.674044 29.359795 30.351821 28.75 26.728516 C 28.560194 25.600685 27.142283 25.025728 25.390625 24.996094 z " fill="#000" opacity="0.8" />
+</svg>

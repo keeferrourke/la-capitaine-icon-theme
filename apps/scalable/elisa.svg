@@ -1,0 +1,22 @@
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a">
+    <stop offset="0" stop-color="#d3d3d3" />
+    <stop offset="1" stop-color="#fcf9f9" />
+  </linearGradient>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="5.40894171158" x2="5.40894171158" y1="48.70909880035" y2="6.68083353684">
+    <stop offset="0" stop-color="#3889e9" />
+    <stop offset="1" stop-color="#5ea5fb" />
+  </linearGradient>
+  <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="22.38170767395" x2="30.13884500143" xlink:href="#a" y1="34.47033521713" y2="17.77251673281" />
+  <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="23.3139292519" x2="10.31343627725" xlink:href="#a" y1="34.09746308594" y2="12.77586334163" />
+  <linearGradient id="e" gradientUnits="userSpaceOnUse" x1="-84.03598298584" x2="-84.03598298584" y1="68.40375432053" y2="26.3558925764">
+    <stop offset="0" stop-color="#8d3aff" />
+    <stop offset="1" stop-color="#ff3680" />
+  </linearGradient>
+  <circle cx="6.909862" cy="27.69488" fill="url(#b)" r="0" stroke-width="1.50101" />
+  <circle cx="18.023075" cy="30.016672" fill="#fff" fill-opacity=".846774" r="0" stroke-width=".916666" />
+  <circle cx="-83.773148" cy="47.64777" fill="none" r="0" stroke="url(#e)" stroke-width="1.952222" />
+  <circle cx="24" cy="24" fill="#bb2fec" fill-opacity=".935345" r="21" stroke-width=".121075" />
+  <path d="m21.166613 15.591715c-.710086.199274-1.281682.991685-1.281682 1.761492v12.204085c-.720041-.394762-1.644755-.5544-2.603459-.293508-1.729959.470626-2.814063 1.991704-2.443235 3.397017.370846 1.40523 2.075038 2.190135 3.805061 1.719399 1.380141-.375457 2.331539-1.437891 2.483238-2.558212l.04042-11.533122 8.971857-2.51633v9.100722c-.720032-.39479-1.644736-.554409-2.603477-.293618-1.729941.470653-2.814017 1.991805-2.443208 3.397035.370865 1.405313 2.075056 2.190117 3.805025 1.719473 1.380168-.375457 2.331557-1.437864 2.483275-2.558194l.04061-15.014096c0-.577252-.340743-1.00913-.801047-1.090365l-9.452483 2.558222z" fill="url(#c)" opacity=".9" stroke-width=".916666" />
+  <circle cx="23.999979" cy="23.999933" fill="none" r="21.023869" stroke="url(#d)" stroke-width="1.952222" />
+</svg>

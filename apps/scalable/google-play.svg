@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="48" height="48">
+	<defs>
+		<linearGradient id="frontGrad" x1="0" y1="1" x2="0" y2="0">
+			<stop stop-color="#ECECEC" offset="0" />
+			<stop stop-color="#FFF" offset="1" />
+		</linearGradient>
+		<linearGradient id="backGrad" x1="0" y1="0" x2="1" y2="0">
+			<stop stop-color="#D9D9D9" offset="0" />
+			<stop stop-color="#EEE" offset="1" />
+		</linearGradient>
+		<linearGradient id="leftfrontfoldGrad" xlink:href="#frontGrad" x1="0" y1="0" x2="1" y2="0" />
+		<linearGradient id="rightfrontfoldGrad" xlink:href="#frontGrad" x1="1" y1="0" x2="0" y2="0" />
+		<linearGradient id="rightbackfoldGrad" xlink:href="#backGrad" x1="1" y1="0" x2="0" y2="0" />
+		<linearGradient id="leftbackfoldGrad" xlink:href="#backGrad" x1="0" y1="0" x2="1" y2="0" />
+		<linearGradient id="handleGrad" x1="0" y1="1" x2="0" y2="0">
+			<stop stop-color="#E6E6E6" offset="0" />
+			<stop stop-color="#FFF" offset="1" />
+		</linearGradient>
+		<linearGradient id="b" x1="0" y1="1" x2="0" y2="0">
+			<stop stop-color="#00A0FF" offset="0" />
+			<stop stop-color="#00E3FF" offset="1" />
+		</linearGradient>
+		<linearGradient id="g" x1="0" y1="1" x2="0" y2="0">
+			<stop stop-color="#32A071" offset="0" />
+			<stop stop-color="#00F076" offset="1" />
+		</linearGradient>
+		<linearGradient id="r" x1="0" y1="1" x2="0" y2="0">
+			<stop stop-color="#C31162" offset="0" />
+			<stop stop-color="#FF3A44" offset="1" />
+		</linearGradient>
+		<linearGradient id="y" x1="0" y1="1" x2="0" y2="0">
+			<stop stop-color="#FF9C00" offset="0" />
+			<stop stop-color="#FFE000" offset="1" />
+		</linearGradient>
+		<clipPath id="frontClip">
+			<rect x="2" y="9" width="44" height="37" />
+		</clipPath>
+	</defs>
+
+	<rect id="back" x="4" y="3" width="40" height="10" fill="url(#backGrad)" />
+	<polygon id="leftbackfold" fill="url(#leftbackfoldGrad)" points="4,3 4,30 7.5,5.5" />
+	<polygon id="rightbackfold" fill="url(#rightbackfoldGrad)" points="44,3 44,8 40.5,5.5" />
+	<polygon id="shadow" points="7.5,5.5 15.2,11 4,11" fill="#000" opacity="0.08"  />
+	<rect id="frontnew" fill="url(#frontGrad)" x="2" y="6" width="44" height="40" rx="3" clip-path="url(#frontClip)" />
+	<polygon id="rightfrontfold" points="46,9 40.5,9 40.5,5.5" fill="url(#rightfrontfoldGrad)" />
+	<polygon id="leftfrontfold" points="7.5,5.5 2,9 7.5,9" fill="url(#leftfrontfoldGrad)" />
+	<circle class="hole" cx="14" cy="14" r="2" fill="#000" opacity="0.3" />
+	<circle class="hole" cx="34" cy="14" r="2" fill="#000" opacity="0.3" />
+	<path id="handle" d="M 34,13 a 10,10 0 1,0 -20,0" fill="none" stroke="url(#handleGrad)" stroke-width="2.4" stroke-linecap="round"  />
+	<g id="symbol">
+		<path d="M 17.430744,19.88925 C 17.230117,20.096841 17.114,20.420014 17.114,20.838548 v 14.928719 c 0,0.418533 0.116117,0.741707 0.316744,0.949281 l 0.04953,0.04562 8.464023,-8.362183 v -0.19745 l -8.464023,-8.362174 -0.04953,0.04895 z" fill="url(#b)" />
+		<path d="M 28.829097,25.449981 18.851371,19.846228 C 18.264,19.520502 17.747488,19.560172 17.430744,19.889258 l 8.51355,8.411961 z" fill="url(#g)" />
+		<path d="m 28.829097,31.152464 -2.884803,-2.851245 -8.51355,8.415329 c 0.316744,0.329102 0.833256,0.368756 1.420627,0.03961 l 9.977726,-5.603745" fill="url(#r)" />
+		<path d="m 28.762507,31.18874 -2.818213,-2.788801 v -0.19745 l 2.821624,-2.7888 0.06321,0.03628 3.341564,1.879173 c 0.953642,0.533291 0.953642,1.410845 0,1.947514 l -3.341564,1.875804 -0.06655,0.03628 z" fill="url(#y)" />
+	</g>
+</svg>
