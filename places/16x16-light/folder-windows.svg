@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="24"
-   width="24"
+   height="16"
+   width="16"
    version="1.1"
    id="svg4"
    sodipodi:docname="folder-windows.svg"
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,12 +36,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="-15.661017"
+     inkscape:cx="-36.20339"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -49,7 +49,7 @@
      inkscape:current-layer="svg4" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.71065688"
-     d="m 3.4983795,5.8868584 6.9486865,-0.9463104 0.0031,6.70263 -6.9453765,0.03981 z m 6.9453765,6.5285196 0.0054,6.708387 -6.9453778,-0.954837 -3.88e-4,-5.798532 z m 0.842343,-7.5985556 9.21338,-1.3447049 V 11.5579 l -9.21338,0.07313 z m 9.215522,7.6615926 -0.0022,8.049467 -9.213377,-1.300429 -0.01288,-6.764174 z"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.58333337"
+     d="m 1.0215563,2.982108 5.7037384,-0.776767 0.0025,5.501766 -5.701021,0.03268 z m 5.7010215,5.3588496 0.0044,5.5064914 L 1.0259557,13.063684 1.0256372,8.3040347 Z M 7.4140038,2.103783 14.976686,1 V 7.637108 L 7.4140038,7.697138 Z M 14.978444,8.3927007 14.976638,15 7.4139588,13.93256 7.4033857,8.3802765 Z"
      id="path11" />
 </svg>
