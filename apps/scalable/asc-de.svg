@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
+  <linearGradient id="c" x1="12.97" x2="37.96" y1="13.59" y2="36.47" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-opacity=".77"/>
+    <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="g" x1="-15.91" x2="-2.6" y1="35.73" y2="35.73" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#2886b0"/>
+    <stop offset="1" stop-color="#5ab1da"/>
+  </linearGradient>
+  <linearGradient id="f" x1="17.89" x2="33.19" y1="26.54" y2="22.67" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#8bb22c"/>
+    <stop offset="1" stop-color="#aed451"/>
+  </linearGradient>
+  <linearGradient id="e" x1="18.5" x2="33.34" y1="32.1" y2="27.78" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ec460b"/>
+    <stop offset="1" stop-color="#f67749" stop-opacity=".74"/>
+  </linearGradient>
+  <linearGradient id="a" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#3889e9"/>
+    <stop offset="1" stop-color="#5ea5fb"/>
+  </linearGradient>
+  <linearGradient id="b" x1="24.1" x2="23.98" y1="45.73" y2="2.07" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#284075"/>
+    <stop offset="1" stop-color="#567bc7"/>
+  </linearGradient>
+  <linearGradient id="d" x1="24.05" x2="23.99" y1="2.08" y2="45.92" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1" stop-color="#ececec"/>
+  </linearGradient>
+  <circle cx="23.98" cy="24.02" r="22.02" fill="url(#b)"/>
+  <path fill="url(#c)" d="M24 13.63c-.56 0-1.12.1-1.55.3l-9.04 4.17c-.67.3-.82.76-.45 1.14l2.91 2.9-2.46 1.15c-.67.3-.82.76-.45 1.13l2.91 2.91-2.46 1.14c-.67.31-.82.77-.45 1.14l15.87 15.87a22.04 22.04 0 0 0 16.65-16.64L35.04 18.39c-.1-.1-.26-.2-.45-.3l-9.04-4.17c-.43-.2-.99-.3-1.55-.3z"/>
+  <circle cx="24" cy="24" r="22.04" fill="none" stroke="url(#d)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.92"/>
+  <g transform="matrix(1.01648 0 0 1.01648 -.33 -.46)">
+    <path fill="url(#e)" d="M16.61 27.03l-3.12 1.43c-.85.4-.85 1.03 0 1.43l9 4.15c.86.4 2.23.4 3.09 0l9-4.15c.85-.4.85-1.03 0-1.43l-3.12-1.43-5.88 2.71c-.86.4-2.23.4-3.09 0z"/>
+    <path fill="url(#f)" d="M16.61 21.86L13.5 23.3c-.85.4-.85 1.03 0 1.43l9 4.15c.86.4 2.24.4 3.09 0l9-4.15c.85-.4.85-1.03 0-1.43l-3.12-1.44-5.88 2.72c-.85.4-2.23.4-3.09 0z"/>
+    <rect width="13.31" height="13.31" x="-15.91" y="29.08" fill="url(#g)" ry="1.7" transform="scale(1.28405 .59264) rotate(-45)"/>
+  </g>
+</svg>
