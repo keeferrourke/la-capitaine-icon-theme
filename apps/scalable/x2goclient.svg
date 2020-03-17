@@ -1,0 +1,26 @@
+<svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(.9379415 0 0 .87064852 -361.51288 -438.53205)" gradientUnits="userSpaceOnUse" x1="409.57" x2="409.57" y1="542.8" y2="507.8">
+    <stop offset="0" stop-color="#0a80fd" />
+    <stop offset="1" stop-color="#56c5fa" />
+  </linearGradient>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="26.286195" x2="26.286195" y1="45.400904" y2="8.109134">
+    <stop offset="0" stop-color="#025dbd" />
+    <stop offset="1" stop-color="#568ffa" />
+  </linearGradient>
+  <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="29.664062" x2="-11.638607" y1="27.59375" y2="27.59375">
+    <stop offset="0" stop-color="#fff" stop-opacity=".8" />
+    <stop offset="1" stop-color="#fff" stop-opacity="0" />
+  </linearGradient>
+  <rect fill-opacity=".66667" height="32.014999" rx="1.7913" width="41.431" x="5.469" y="9.280601" />
+  <rect fill-opacity=".66667" height="29.60195" rx="1.393002" transform="matrix(.9999984 .0017871 .00604891 .99998171 0 0)" width="41.269066" x="1.066928" y="4.081496" />
+  <rect fill="url(#a)" height="29.60195" rx="1.393002" transform="matrix(.9999984 .0017871 .00604891 .99998171 0 0)" width="41.269066" x="1.069948" y="3.581497" />
+  <rect fill="url(#b)" height="32.014999" rx="2" stroke-width=".93916" width="41.431" x="5.469" y="8.7796" />
+  <g fill="#fff">
+    <circle cx="18.879299" cy="12.7386" r="1.9434" />
+    <circle cx="14.1053" cy="12.7796" r="1.9434" />
+    <circle cx="9.4123" cy="12.8256" r="1.9434" />
+  </g>
+  <path d="m25.6423 32.0186c.0086.000763.01723.000873.02575.0017l-.06358-.01991c.01232.007.02545.01146.03786.01825z" fill-rule="evenodd" />
+  <path d="m32.800621 25.167901 4.325548-7.119132h3.892994l-6.380184 9.642368 6.578438 9.858646h-3.856947l-4.50578-7.299363-4.505779 7.299363h-3.874971l6.578438-9.858646-6.380184-9.642368h3.856948z" fill="#fff" fill-opacity=".8" />
+  <path d="m23.349609 18.048828-11.048828.980469 12.427735 1.105469zm2.191407 3.3125-13.259766 1.177734 14.916016 1.326172zm2.193359 3.316406-15.453125 1.371094 17.382812 1.544922zm1.767578 3.351563-17.220703 1.53125 15.292969 1.357422zm-2.488281 3.732422-14.732422 1.308593 13.082031 1.16211zm-2.490234 3.730469-12.242188 1.08789 10.871094.964844z" fill="url(#c)" />
+</svg>
