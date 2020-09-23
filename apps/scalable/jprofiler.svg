@@ -1,0 +1,43 @@
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(.70710678 -.70710678 .70710678 .70710678 -.207107 .5)" x1="0" x2="0" y1="1" y2="0">
+    <stop offset="0" stop-color="#ddd" />
+    <stop offset="1" stop-color="#fff" />
+  </linearGradient>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="34.319023" x2="14.286503" y1="40.572376" y2="5.875033">
+    <stop offset="0" stop-color="#197dec" />
+    <stop offset="1" stop-color="#3fcffb" />
+  </linearGradient>
+  <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="34.177737" x2="38.219163" y1="12.86697" y2="19.86692">
+    <stop offset="0" stop-color="#ff766e" />
+    <stop offset="1" stop-color="#ff3e3e" />
+  </linearGradient>
+  <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="34.177738" x2="38.219162" y1="12.866969" y2="19.866922">
+    <stop offset="0" stop-color="#fff" />
+    <stop offset="1" stop-color="#ddd" />
+  </linearGradient>
+  <linearGradient id="e" gradientUnits="userSpaceOnUse" x1="28.310543" x2="28.310543" y1="13.755426" y2="43.529956">
+    <stop offset="0" />
+    <stop offset=".7" stop-opacity="0" />
+  </linearGradient>
+  <circle cx="24" cy="24" fill="url(#b)" r="20" />
+  <path d="m28.310543 13.755426-5.374996 22.385199 6.595703 7.070313c7.230781-2.083792 12.679914-8.049914 14.101562-15.439454z" fill="url(#e)" opacity=".2" />
+  <g fill="none">
+    <path d="m39.204642 15.189289-3.103381 1.791738" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".8" />
+    <circle cx="24" cy="24" r="21" stroke="url(#a)" stroke-width="2" />
+    <g stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".8">
+      <path d="m7.0414246 19.423656 3.4613734.927472" />
+      <path d="m36.414538 11.553155-2.5339 2.533902" />
+      <path d="m40.958574 19.423657-3.461372.927473" />
+      <path d="m32.778405 8.7630512-1.791739 3.1033818" />
+      <path d="m28.544035 7.0091193-.92747 3.4613737" />
+      <path d="m23.999999 6.4108862.000001 3.5834767" />
+      <path d="m15.221593 8.7630535 1.791739 3.1033805" />
+      <path d="m19.455962 7.0091203.927472 3.4613727" />
+      <path d="m11.58546 11.553157 2.533901 2.533901" />
+      <path d="m8.7953572 15.189293 3.1033818 1.791736" />
+    </g>
+  </g>
+  <path d="m24 24-10 10 8-12z" fill="#f6f6f6" stroke-width="1.749794" transform="matrix(-.85724563 .62620026 -.42929639 -.97092817 54.908059 38.00018)" />
+  <path d="m24 24-10 10 12-8z" fill="#e0e0e0" stroke-width="1.749794" transform="matrix(-.85724563 .62620026 -.42929639 -.97092817 54.908059 38.00018)" />
+  <circle cx="36.198448" cy="16.366947" fill="url(#c)" r="3.244642" stroke="url(#d)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" transform="matrix(.8660254 .5 -.5 .8660254 0 0)" />
+</svg>

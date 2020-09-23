@@ -1,0 +1,23 @@
+name: La Capitaine CI
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch.
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: sudo apt-get install tidy
+
+      - name: Check modified files
+        run: |
+          chmod +x ./scripts/ci.sh
+          git_sha="$GITHUB_SHA" ./scripts/ci.sh
