@@ -42,6 +42,21 @@ sudo apt install la-capitaine-icon-theme
 ```
 -->
 
+### Installation
+You'll need git to install this icon theme
+
+1. Open terminal and execute the following
+```
+git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git ~/.icons/la-capitaine-icon-theme
+```
+
+2. Select this theme in tweak tool or execute the following
+```
+gsettings set org.gnome.desktop.interface icon-theme "la-capitaine-icon-theme"
+```
+
+3. Thats it you're done!
+
 ### Configuration
 La Capitaine comes with a configuration script which attempts to
 determine your distribution and desktop environment. Using this
