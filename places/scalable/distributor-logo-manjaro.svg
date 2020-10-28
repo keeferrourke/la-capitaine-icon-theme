@@ -1,106 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="48"
-   width="48"
-   version="1.1"
-   id="svg22"
-   sodipodi:docname="distributor-logo-manjaro.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
-  <metadata
-     id="metadata28">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs26" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview24"
-     showgrid="false"
-     inkscape:zoom="7.6455922"
-     inkscape:cx="16.865429"
-     inkscape:cy="21.809962"
-     inkscape:current-layer="svg22" />
-  <linearGradient
-     id="a"
-     gradientUnits="userSpaceOnUse"
-     x1="399.57144"
-     x2="399.57144"
-     y1="545.79797"
-     y2="517.79797">
-    <stop
-       offset="0"
-       stop-color="#3889e9"
-       id="stop2" />
-    <stop
-       offset="1"
-       stop-color="#5ea5fb"
-       id="stop4" />
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="399.57144" x2="399.57144" y1="545.79797" y2="517.79797">
+    <stop offset="0" stop-color="#3889e9" />
+    <stop offset="1" stop-color="#5ea5fb" />
   </linearGradient>
-  <linearGradient
-     id="b"
-     gradientUnits="userSpaceOnUse"
-     x1="399.9939"
-     x2="399.9939"
-     y1="545.13873"
-     y2="518.13873">
-    <stop
-       offset="0"
-       stop-color="#00a661"
-       id="stop7" />
-    <stop
-       offset="1"
-       stop-color="#37ce97"
-       id="stop9" />
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="399.9939" x2="399.9939" y1="545.13873" y2="518.13873">
+    <stop offset="0" stop-color="#00a661" />
+    <stop offset="1" stop-color="#37ce97" />
   </linearGradient>
-  <g
-     transform="matrix(0.94608316,0,0,0.94608316,-362.78372,-471.69433)"
-     id="g20">
-    <g
-       stroke-width="1.2999"
-       transform="matrix(1.6609885,0,0,1.6609885,-256.53927,-359.35701)"
-       id="g16">
-      <circle
-         cx="400.57138"
-         cy="531.79791"
-         fill="url(#b)"
-         r="13.999958"
-         id="circle12"
-         style="fill:url(#b)" />
-      <circle
-         cx="400.57138"
-         cy="531.79791"
-         fill="url(#a)"
-         r="0"
-         id="circle14"
-         style="fill:url(#a)" />
+  <g transform="matrix(.94608316 0 0 .94608316 -362.78372 -471.69433)">
+    <g stroke-width="1.2999" transform="matrix(1.6609885 0 0 1.6609885 -256.53927 -359.35701)">
+      <circle cx="400.57138" cy="531.79791" fill="url(#b)" r="13.999958" />
+      <circle cx="400.57138" cy="531.79791" fill="url(#a)" r="0" />
     </g>
-    <path
-       d="m 397.84443,511.85767 v 10.31614 h 6.44758 v -3.86855 h 7.7371 v -6.44759 h -9.02662 z m 15.47419,0 V 537.648 h 6.44758 v -25.79033 z m -7.7371,7.73711 V 537.648 h 6.44759 v -18.05322 z m -7.73709,3.86854 V 537.648 h 6.44758 v -14.18468 z"
-       fill="#ffffff"
-       fill-opacity="0.86"
-       id="path18" />
+    <path d="m397.84443 511.85767v10.31614h6.44758v-3.86855h7.7371v-6.44759h-9.02662zm15.47419 0v25.79033h6.44758v-25.79033zm-7.7371 7.73711v18.05322h6.44759v-18.05322zm-7.73709 3.86854v14.18468h6.44758v-14.18468z" fill="#fff" fill-opacity=".86" />
   </g>
 </svg>
