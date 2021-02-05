@@ -24,10 +24,9 @@ yay -S la-capitaine-icon-theme       # point releases
 yay -S la-capitaine-icon-theme-git   # git master branch
 ```
 
-Fedora and EPEL users can also use a third party Copr repository :
+Fedora and EPEL users can also install from the official repositories
 
 ```
-sudo dnf copr enable tcg/themes
 sudo dnf install la-capitaine-icon-theme
 ```
 <!--
