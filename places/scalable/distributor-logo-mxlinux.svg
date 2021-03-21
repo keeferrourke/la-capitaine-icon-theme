@@ -1,0 +1,15 @@
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="399.57144" x2="399.57144" y1="545.79797" y2="517.79797">
+    <stop offset="0" stop-color="#3889e9" />
+    <stop offset="1" stop-color="#5ea5fb" />
+  </linearGradient>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="399.9939" x2="399.9939" y1="545.13873" y2="518.13873">
+    <stop offset="0" stop-color="#1a1a1a" />
+    <stop offset="1" stop-color="#666" />
+  </linearGradient>
+  <g stroke-width="1.299897" transform="matrix(1.5714333 0 0 1.5714333 -605.4712 -811.68494)">
+    <circle cx="400.57138" cy="531.79791" fill="url(#b)" r="13.999958" />
+    <circle cx="400.57138" cy="531.79791" fill="url(#a)" r="0" />
+  </g>
+  <path d="m24.001435 24.489394 4.701096 5.478635-1.07593 1.291117-3.059944-3.61656-1.622503-1.919458zm13.998565 8.89292-3.035557-3.646686-3.034122-3.645249-.84066 1.009938-4.662363-5.434163 7.048058-8.220105-1.685623-1.446049-6.828569 7.960447-6.804181-7.928887-2.793114 2.395738 7.172866 8.359257-1.047238 1.220823-1.77887-2.10165-4.854596 5.738293-4.856031 5.738293z" fill="#fff" fill-opacity=".898039" stroke-width="1.43457" />
+</svg>
