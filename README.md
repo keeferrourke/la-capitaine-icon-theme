@@ -77,11 +77,8 @@ license.
 See the `LICENSE` and `COPYING` files for more details.
 
 ### Donations
-I'm a poor university computer science student, and I spend many hours
-per week working on this and other projects &mdash; If you like this
-icon pack and want to support me, please consider donating via
-[Paypal](https://paypal.me/keeferrourke) or
-[Patreon](https://www.patreon.com/krourke) :smile:
+If you like this icon pack and want to support me, please consider donating via
+[Paypal](https://paypal.me/keeferrourke) [Pling](https://www.pling.com/p/1148695) :smile:
 
 If you want to contribute to this project but can't make a monetary
 donation, shoot me an email and we can sort something out.
