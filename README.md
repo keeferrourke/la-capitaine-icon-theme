@@ -78,7 +78,7 @@ See the `LICENSE` and `COPYING` files for more details.
 
 ### Donations
 If you like this icon pack and want to support me, please consider donating via
-[Paypal](https://paypal.me/keeferrourke) [Pling](https://www.pling.com/p/1148695) :smile:
+[Paypal](https://paypal.me/keeferrourke) or [Pling](https://www.pling.com/p/1148695) :smile:
 
 If you want to contribute to this project but can't make a monetary
 donation, shoot me an email and we can sort something out.
