@@ -1,0 +1,42 @@
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" gradientTransform="matrix(.32 0 0 .32 6.5 -26.59)" gradientUnits="userSpaceOnUse" x1="41.75" x2="41.36" y1="226.2" y2="102.26">
+    <stop offset="0" stop-color="#1a1a1a" />
+    <stop offset="1" stop-color="#4d4d4d" />
+  </linearGradient>
+  <linearGradient id="b" gradientTransform="matrix(.32 0 0 .32 6.5 -26.59)" gradientUnits="userSpaceOnUse" x1="41.75" x2="41.36" xlink:href="#a" y1="226.2" y2="102.26" />
+  <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="70.23" x2="70.23" y1="32.83" y2="22.83">
+    <stop offset="0" stop-color="#01b7fe" />
+    <stop offset="1" stop-color="#34c2fe" />
+  </linearGradient>
+  <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="60.26" x2="60.26" y1="42.81" y2="32.81">
+    <stop offset="0" stop-color="#0ab875" />
+    <stop offset="1" stop-color="#0aeb93" />
+  </linearGradient>
+  <linearGradient id="e" gradientUnits="userSpaceOnUse" x1="60.26" x2="60.26" y1="32.83" y2="22.83">
+    <stop offset="0" stop-color="#923dff" />
+    <stop offset="1" stop-color="#b070ff" />
+  </linearGradient>
+  <linearGradient id="f" gradientUnits="userSpaceOnUse" x1="60.25" x2="60.25" y1="22.86" y2="12.86">
+    <stop offset="0" stop-color="#e83f0d" />
+    <stop offset="1" stop-color="#f26135" />
+  </linearGradient>
+  <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="70.23" x2="70.27" y1="22.86" y2="12.86">
+    <stop offset="0" stop-color="#ff5947" />
+    <stop offset="1" stop-color="#ff8a7a" />
+  </linearGradient>
+  <linearGradient id="h" gradientTransform="matrix(.32 0 0 .32 6.5 -26.59)" gradientUnits="userSpaceOnUse" x1="41.75" x2="41.36" xlink:href="#a" y1="226.2" y2="102.26">
+    <stop offset="0" stop-color="#95a9bb" />
+    <stop offset="1" stop-color="#cad3dc" />
+  </linearGradient>
+  <rect fill="url(#h)" height="40.69" ry="2.68" stroke-width=".34" transform="matrix(1 -.09 .09 1 0 0)" width="41.02" x="1.25" y="5.94" />
+  <rect fill="url(#b)" height="40.69" ry="2.68" stroke-width=".34" transform="matrix(1 -.09 .09 1 0 0)" width="41.02" x="1.31" y="5.34" />
+  <g stroke-linecap="square" transform="matrix(1 -.09 .09 1 -42.99 1.6)">
+    <path d="m70.23 22.83c2.77 0 5 2.23 5 5s-2.23 5-5 5-5-2.23-5-5 2.23-5 5-5z" fill="url(#c)" stroke-width="19.09" />
+    <path d="m60.26 32.8c-2.77 0-5 2.23-5 5s2.23 5 5 5 5-2.23 5-5v-5z" fill="url(#d)" stroke-width="19.09" />
+    <g stroke-width="19.03">
+      <path d="m60.22 22.83c-2.75 0-4.97 2.23-4.97 5s2.21 5 4.97 5h5.03v-10z" fill="url(#e)" />
+      <path d="m60.22 12.85c-2.75 0-4.97 2.23-4.97 5s2.21 5 4.97 5h5.03v-10z" fill="url(#f)" />
+      <path d="m70.27 12.85c2.75 0 4.97 2.23 4.97 5s-2.21 5-4.97 5h-5.03v-10z" fill="url(#g)" />
+    </g>
+  </g>
+</svg>
